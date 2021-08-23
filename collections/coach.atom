@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/coach.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T00:50:09-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6555855814742</id>
+    <published>2021-04-01T00:50:09-04:00</published>
+    <updated>2021-04-01T00:50:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-signature-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Signature By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACWG.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            39.44 - 59.55
+            <a href="https://chiosny.com/products/coach-signature-perfume-by-coach-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Signature Perfume by Coach, Supremely feminine and delicate, the fine olfactory treat presented by coach signature is sure to charm your senses. Impressively presented in a clear glass bottle flaunting a classic design, this fragrance was launched in 2007 by coach is an eclectic mix of sublime sensuality and ethereal grace. This exquisite fragrance offers fresh and lively notes of mandarin guava with subtle floral hints of lily and violet leaves.</p>
+<p>Eau De Parfum Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855814742</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">39.44</s:price>
+      <s:sku>552461</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855814742</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">59.55</s:price>
+      <s:sku>548579</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855781974</id>
+    <published>2021-04-01T00:50:00-04:00</published>
+    <updated>2021-04-01T00:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-poppy-wildflower-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Poppy Wildflower By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/POWES17.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            54.30 - 58.64
+            <a href="https://chiosny.com/products/coach-poppy-wildflower-perfume-by-coach-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Poppy Wildflower Perfume by Coach, Released in 2014 this is a earthy warm floral perfume. The bouquet if marvelous and the highlights are sheer joy. The top notes are lemon, mandarin, freesia, orange blossom and pink pepper.</p>
+<p>Eau De Parfum Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855781974</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">54.30</s:price>
+      <s:sku>534824</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855781974</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">58.64</s:price>
+      <s:sku>518705</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855749206</id>
+    <published>2021-04-01T00:49:58-04:00</published>
+    <updated>2021-04-01T00:49:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-poppy-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Poppy By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACHPW.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            38.66 - 72.33
+            <a href="https://chiosny.com/products/coach-poppy-perfume-by-coach-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Poppy Perfume by Coach, This fragrance was released in 2010. Gorgeous high quality fruity floral that is simply sensational. This is a blend of notes like none other.</p>
+<p> Eau De Parfum Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855749206</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">38.66</s:price>
+      <s:sku>501859</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855749206</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">72.33</s:price>
+      <s:sku>500108</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855716438</id>
+    <published>2021-04-01T00:49:57-04:00</published>
+    <updated>2021-04-01T00:49:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-poppy-citrine-blossom-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Poppy Citrine Blossom Eau De Parfum Spray By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CPCBL1OW.jpg?v=1617819775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            42.50 - 48.40
+            <a href="https://chiosny.com/products/coach-poppy-citrine-blossom-perfume-by-coach-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Poppy Citrine Blossom Perfume by Coach, Released in 2013 this classy and refined floral perfume is timeless. It is a refreshing blend of notes that very feminine and full of life. The top notes are bergamot, mandarin, water lily and black currant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855716438</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>535151</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855716438</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>518704</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855683670</id>
+    <published>2021-04-01T00:49:56-04:00</published>
+    <updated>2021-04-01T00:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-platinum-cologne-by-coach-gift-set"/>
+    <title>Coach Platinum Gift Set By Coach</title>
+    <s:type>Gift Set - 3.3 oz Eau De Parfum Spray + 3.3 oz Shower Gel + .25 oz Mini EDP Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACMM.jpg?v=1617819775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Gift Set - 3.3 oz Eau De Parfum Spray + 3.3 oz Shower Gel + .25 oz Mini EDP Spray<br>
+        <strong>Price: </strong>
+            61.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Platinum Cologne by Coach, Introduced in 2018 by coach, coach platinum is a spicy, woodsy cologne. At the opening of the blend, the juicy note of pineapple is complemented notes of earthy juniper berries and black pepper. Heart notes of geranium, sage and cashmeran add a sweet, green quality to the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855683670</id>
+      <title>3.3 oz Eau De Parfum Spray + 3.3 oz Shower Gel + .25 oz Mini EDP Spray</title>
+      <s:price currency="USD">61.33</s:price>
+      <s:sku>551685</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855650902</id>
+    <published>2021-04-01T00:49:54-04:00</published>
+    <updated>2021-04-01T00:49:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-platinum-cologne-by-coach-eau-de-parfum-spray-tester"/>
+    <title>Coach Platinum Eau De Parfum Spray (Tester) By Coach</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CP33PPT.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            49.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Platinum Cologne by Coach, Introduced in 2018 by coach, coach platinum is a spicy, woodsy cologne. At the opening of the blend, the juicy note of pineapple is complemented notes of earthy juniper berries and black pepper. Heart notes of geranium, sage and cashmeran add a sweet, green quality to the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855650902</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">49.50</s:price>
+      <s:sku>542772</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855585366</id>
+    <published>2021-04-01T00:49:53-04:00</published>
+    <updated>2021-04-01T00:49:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-platinum-cologne-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Platinum Eau De Parfum Spray By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COAH2M.jpg?v=1617819775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            47.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Platinum Cologne by Coach, Introduced in 2018 by coach, coach platinum is a spicy, woodsy cologne. At the opening of the blend, the juicy note of pineapple is complemented notes of earthy juniper berries and black pepper. Heart notes of geranium, sage and cashmeran add a sweet, green quality to the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855585366</id>
+      <title>2 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">47.26</s:price>
+      <s:sku>547275</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855552598</id>
+    <published>2021-04-01T00:49:52-04:00</published>
+    <updated>2021-04-01T00:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-perfume-by-coach-gift-set"/>
+    <title>Coach Gift Set By Coach</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACNR.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Perfume by Coach, How does one define a classic? while the answers vary from person to person, some attributes are universally recognizable. This 2016 version of coach’s newest fragrance shares a name with the 2007 original, but with a drastically different package and aromatic profile than the earlier release.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855552598</id>
+      <title>4 x .15 oz Gift Set</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>554910</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855519830</id>
+    <published>2021-04-01T00:49:50-04:00</published>
+    <updated>2021-04-01T00:49:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-perfume-by-coach-eau-de-toilette-spray"/>
+    <title>Coach By Coach</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CNYTS16.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            39.66 - 44.55
+            <a href="https://chiosny.com/products/coach-perfume-by-coach-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Perfume by Coach, How does one define a classic? while the answers vary from person to person, some attributes are universally recognizable. This 2016 version of coach’s newest fragrance shares a name with the 2007 original, but with a drastically different package and aromatic profile than the earlier release.</p>
+<p>Eau De Toilette Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855519830</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.66</s:price>
+      <s:sku>541226</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855519830</id>
+      <title>3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">44.55</s:price>
+      <s:sku>542406</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855487062</id>
+    <published>2021-04-01T00:49:47-04:00</published>
+    <updated>2021-04-01T00:49:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach by Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACW1ED.jpg?v=1617819774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            36.33 - 48.55
+            <a href="https://chiosny.com/products/coach-perfume-by-coach-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Perfume by Coach, How does one define a classic? while the answers vary from person to person, some attributes are universally recognizable. This 2016 version of coach’s newest fragrance shares a name with the 2007 original, but with a drastically different package and aromatic profile than the earlier release.</p>
+<p> Eau De Parfum Spray B</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855487062</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">36.33</s:price>
+      <s:sku>536757</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855487062</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">42.33</s:price>
+      <s:sku>540773</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855487062</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">48.55</s:price>
+      <s:sku>534592</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855454294</id>
+    <published>2021-04-01T00:49:46-04:00</published>
+    <updated>2021-04-01T00:49:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-floral-perfume-by-coach-eau-de-parfum-spray-tester"/>
+    <title>Coach Floral By Coach</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACW3ED.jpg?v=1617819653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            44.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Floral Perfume by Coach, Introduced in 2018, coach floral by coach is a dazzling, feminine perfume. Fruity notes of pineapple, orange, lemon and bergamot combine with the note of pink pepper to create a bright, zesty opening. Providing the blend with its lovely sweetness are heart notes of tea rose, jasmine sambac and gardenia.</p>
+<p>Eau De Parfum Spray (Tester) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855454294</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">44.33</s:price>
+      <s:sku>544168</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855421526</id>
+    <published>2021-04-01T00:49:44-04:00</published>
+    <updated>2021-04-01T00:49:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-floral-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Floral By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/caochf3ozw_110cd6b3-1488-4802-89ed-a122d64ae239.jpg?v=1622045575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            42.33 - 55.66
+            <a href="https://chiosny.com/products/coach-floral-perfume-by-coach-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Floral Perfume by Coach, Introduced in 2018, coach floral by coach is a dazzling, feminine perfume. Fruity notes of pineapple, orange, lemon and bergamot combine with the note of pink pepper to create a bright, zesty opening. Providing the blend with its lovely sweetness are heart notes of tea rose, jasmine sambac and gardenia.</p>
+<p>Eau De Parfum Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855421526</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">42.33</s:price>
+      <s:sku>547833</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855421526</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">55.66</s:price>
+      <s:sku>540935</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855388758</id>
+    <published>2021-04-01T00:49:43-04:00</published>
+    <updated>2021-04-01T00:49:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-dreams-perfume-by-coach-eau-de-parfum-spray-tester"/>
+    <title>Coach Dreams By Coach</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COAC3C.jpg?v=1617819651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            48.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Dreams Perfume by Coach, Coach dreams is a floral feminine fragrance that was designed by perfumers antoine maisondieu, olivier pescheux, nathalie gracia-cetto and shyamala maisondieu. It was launched by coach in 2020. The composition begins with a bright opening layer that is formed by refreshing top notes of pear, bitter orange and a blend of additional fruity notes.</p>
+<p> Eau De Parfum Spray (Tester) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855388758</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">48.33</s:price>
+      <s:sku>550585</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855355990</id>
+    <published>2021-04-01T00:49:42-04:00</published>
+    <updated>2021-04-01T00:49:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-dreams-perfume-by-coach-eau-de-parfum-spray"/>
+    <title>Coach Dreams By Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACW6.jpg?v=1617819652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            61.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Dreams Perfume by Coach, Coach dreams is a floral feminine fragrance that was designed by perfumers antoine maisondieu, olivier pescheux, nathalie gracia-cetto and shyamala maisondieu. It was launched by coach in 2020. The composition begins with a bright opening layer that is formed by refreshing top notes of pear, bitter orange and a blend of additional fruity notes.</p>
+<p>Eau De Parfum Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855355990</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">61.33</s:price>
+      <s:sku>550639</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855323222</id>
+    <published>2021-04-01T00:49:41-04:00</published>
+    <updated>2021-04-01T00:49:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-cologne-by-coach-eau-de-toilette-spray-tester"/>
+    <title>Coach By Coach</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CNM33TST.jpg?v=1617819652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            43.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Cologne by Coach, Launched by coach in 2017, coach for men is a spicy, aromatic blend. The blend opens with bright top notes of bergamot, green nashi pear, kumquat and lavender. Middle notes of cardamom, geranium and coriander give the cologne its bold, spicy quality.</p>
+<p>Eau De Toilette Spray (Tester) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855323222</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">43.33</s:price>
+      <s:sku>538874</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855290454</id>
+    <published>2021-04-01T00:49:37-04:00</published>
+    <updated>2021-04-01T00:49:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-cologne-by-coach-eau-de-toilette-spray"/>
+    <title>Coach By Coach</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CAO13M.jpg?v=1617819766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            29.88 - 67.44
+            <a href="https://chiosny.com/products/coach-cologne-by-coach-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Cologne by Coach, Launched by coach in 2017, coach for men is a spicy, aromatic blend. The blend opens with bright top notes of bergamot, green nashi pear, kumquat and lavender. Middle notes of cardamom, geranium and coriander give the cologne its bold, spicy quality.</p>
+<p>Eau De Toilette Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855290454</id>
+      <title>1.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">29.88</s:price>
+      <s:sku>546527</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855290454</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.33</s:price>
+      <s:sku>546556</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855290454</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">49.88</s:price>
+      <s:sku>538486</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855290454</id>
+      <title>6.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">67.44</s:price>
+      <s:sku>544144</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855257686</id>
+    <published>2021-04-01T00:49:36-04:00</published>
+    <updated>2021-04-01T00:49:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-blue-cologne-by-coach-eau-de-toilette-spray-tester"/>
+    <title>Coach Blue By Coach</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACMI.jpg?v=1617819651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            57.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Blue Cologne by Coach, Released in 2020, coach blue is a men's fragrance inspired by cool breezes and fresh air. From american luxury leather goods designer coach, this masculine scent is perfect for daily wear. It opens with top notes of lime and absinthe for a tart and spicy beginning.</p>
+<p> Eau De Toilette Spray (Tester) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855257686</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">57.33</s:price>
+      <s:sku>552475</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555855224918</id>
+    <published>2021-04-01T00:49:34-04:00</published>
+    <updated>2021-04-01T00:49:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coach-blue-cologne-by-coach-eau-de-toilette-spray"/>
+    <title>Coach Blue By Coach</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COACM1.jpg?v=1617819653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            42.33 - 58.88
+            <a href="https://chiosny.com/products/coach-blue-cologne-by-coach-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coach Blue Cologne by Coach, Released in 2020, coach blue is a men's fragrance inspired by cool breezes and fresh air. From american luxury leather goods designer coach, this masculine scent is perfect for daily wear. It opens with top notes of lime and absinthe for a tart and spicy beginning.</p>
+<p> Eau De Toilette Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855224918</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">42.33</s:price>
+      <s:sku>551814</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555855224918</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">58.88</s:price>
+      <s:sku>551768</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/body.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-06-13T19:14:05-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6590208016470</id>
+    <published>2021-06-13T19:14:05-04:00</published>
+    <updated>2021-06-13T19:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bleu-de-chanel-all-body-spray"/>
+    <title>Bleu de Chanel All body Spray</title>
+    <s:type>All Over Body Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ALLSPRAY.jpg?v=1623626061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>All Over Body Spray<br>
+        <strong>Price: </strong>
+            94.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A portable fragrance mist that can be sprayed generously all over to amplify the scent of BLEU DE CHANEL throughout the day. 5.0 fl oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6590208016470</id>
+      <title>5.0 fl oz / Men</title>
+      <s:price currency="USD">94.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080341078</id>
+    <published>2021-04-01T03:16:46-04:00</published>
+    <updated>2021-04-01T03:16:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-poppy-violet-perfume-by-yardley-london-body-mist"/>
+    <title>Yardley Poppy &amp; Violet Body Mist By Yardley London</title>
+    <s:type>Body Mist</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYWO.jpg?v=1617827430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Body Mist<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Poppy &amp; Violet Perfume by Yardley London, Day or night, yardley poppy &amp; violet by yardley london is a refreshing perfume that uplifts the senses while also exuding an air of mystery. Its innovative composition brings together an array of aromas for a unique finish that is unmistakably seductive. It has a bright opening of bergamot, wild ivy and spicy red pepper.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080341078</id>
+      <title>6.8 oz Body Mist</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>552956</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080275542</id>
+    <published>2021-04-01T03:16:45-04:00</published>
+    <updated>2021-04-01T03:16:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-poppy-violet-perfume-by-yardley-london-body-fragrance-spray"/>
+    <title>Yardley Poppy &amp; Violet Body Fragrance Spray By Yardley London</title>
+    <s:type>Body Fragrance Spray</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARY4R.jpg?v=1617827433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Body Fragrance Spray<br>
+        <strong>Price: </strong>
+            24.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Poppy &amp; Violet Perfume by Yardley London, Day or night, yardley poppy &amp; violet by yardley london is a refreshing perfume that uplifts the senses while also exuding an air of mystery. Its innovative composition brings together an array of aromas for a unique finish that is unmistakably seductive. It has a bright opening of bergamot, wild ivy and spicy red pepper.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080275542</id>
+      <title>2.6 oz Body Fragrance Spray</title>
+      <s:price currency="USD">24.25</s:price>
+      <s:sku>552635</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080177238</id>
+    <published>2021-04-01T03:16:41-04:00</published>
+    <updated>2021-04-01T03:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-morning-dew-perfume-by-yardley-london-refreshing-body-spray"/>
+    <title>Yardley Morning Dew Refreshing Body Spray By Yardley London</title>
+    <s:type>Refreshing Body Spray</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYS1.jpg?v=1617827423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Refreshing Body Spray<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley Morning Dew Perfume by Yardley London, For a fresh, dewy feeling that makes you glad to greet the day, try yardley morning dew by yardley london. The notes of lotus, white lily, and white musk combine in a complex scent that unfolds in new ways throughout the day. At once soft and alluring, this perfume has a moderate sillage that invites everyone within its wake to come closer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080177238</id>
+      <title>5 oz Refreshing Body Spray</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>550826</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079718486</id>
+    <published>2021-04-01T03:16:22-04:00</published>
+    <updated>2021-04-01T03:16:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-gentleman-legacy-cologne-by-yardley-london-deodorant-body-spray"/>
+    <title>Yardley Gentleman Legacy Deodorant Body Spray By Yardley London</title>
+    <s:type>Deodorant Body Spray</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YGL5BS.jpg?v=1617827418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Deodorant Body Spray<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley Gentleman Legacy Cologne by Yardley London, Elegant and charismatic, yardley gentleman legacy is a marine fougère fragrance for men that is bright, refreshing and uplifting. The scent opens with a crisp blend of rose-tinged pink pepper and sparkling mandarin orange. A clean aromatic cedar accord emerges at the heart, supported by rich nuances of cocoa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079718486</id>
+      <title>5 oz Deodorant Body Spray</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>543542</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079652950</id>
+    <published>2021-04-01T03:16:19-04:00</published>
+    <updated>2021-04-01T03:16:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-gentleman-elite-cologne-by-yardley-london-deodorant-body-spray"/>
+    <title>Yardley Gentleman Elite Deodorant Body Spray By Yardley London</title>
+    <s:type>Deodorant Body Spray</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YGE5BS.jpg?v=1617827419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Deodorant Body Spray<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley Gentleman Elite Cologne by Yardley London, Bold yet refined, yardley gentleman elite is a classically elegant men's fragrance that layers bright citrus tones over a woody aromatic base. The scent opens brisk and bright, fusing crisp, peppery basil leaf with lightly bittersweet nuances of grapefruit. Pine and vetiver emerge at the heart, creating a distinctive, cleanly masculine accord.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079652950</id>
+      <title>5 oz Deodorant Body Spray</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>543544</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079554646</id>
+    <published>2021-04-01T03:16:16-04:00</published>
+    <updated>2021-04-01T03:16:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-freesia-bergamot-perfume-by-yardley-london-body-fragrance-spray"/>
+    <title>Yardley Freesia &amp; Bergamot Body Fragrance Spray By Yardley London</title>
+    <s:type>Body Fragrance Spray</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARY5I.jpg?v=1617827419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Body Fragrance Spray<br>
+        <strong>Price: </strong>
+            24.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Freesia &amp; Bergamot Perfume by Yardley London, Spring is in bloom all year long with a spritz of yardley freesia &amp; bergamot by yardley london. This refreshing and feminine perfume brings together an array of citrus and floral scents that captivates the senses. Before the bouquet is unleashed, the fragrance opens with an energetic blend of bergamot, lemon, mandarin and cypress.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079554646</id>
+      <title>2.6 oz Body Fragrance Spray</title>
+      <s:price currency="USD">24.25</s:price>
+      <s:sku>552632</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079390806</id>
+    <published>2021-04-01T03:16:11-04:00</published>
+    <updated>2021-04-01T03:16:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-english-blossom-perfume-by-yardley-london-body-lotion"/>
+    <title>Yardley English Blossom Body Lotion By Yardley London</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYWW.jpg?v=1617827346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley English Blossom Perfume by Yardley London, Another delightful representation of the english countryside, yardley english blossom by yardley london will keep you cocooned in a sweet, feminine sillage all day long. The notes of musk, english blossoms, and rose are perfectly balanced for a decidedly light interpretation of english florals. The rose is just right; enough to make its presence felt without overwhelming the other notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079390806</id>
+      <title>13.6 oz Body Lotion</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>553795</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079259734</id>
+    <published>2021-04-01T03:16:07-04:00</published>
+    <updated>2021-04-01T03:16:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-bluebell-sweet-pea-perfume-by-yardley-london-moisturizing-body-mist"/>
+    <title>Yardley Bluebell &amp; Sweet Pea Moisturizing Body Mist By Yardley London</title>
+    <s:type>Moisturizing Body Mist</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYRJ.jpg?v=1617827415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Moisturizing Body Mist<br>
+        <strong>Price: </strong>
+            28.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Bluebell &amp; Sweet Pea Perfume by Yardley London, True seductiveness often comes in a subtle form that is hard to resist. Yardley bluebell &amp; sweet pea by yardley london encompasses that mysterious sultriness with an uplifting yet warm and intoxicating blend of feminine notes. It opens with a fresh and fruity burst of bergamot, lemon and cassis chords.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079259734</id>
+      <title>6.8 oz Moisturizing Body Mist</title>
+      <s:price currency="USD">28.75</s:price>
+      <s:sku>552637</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079194198</id>
+    <published>2021-04-01T03:16:04-04:00</published>
+    <updated>2021-04-01T03:16:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-blossom-peach-perfume-by-yardley-london-moisturizing-body-mist-tester"/>
+    <title>Yardley Blossom &amp; Peach Moisturizing Body Mist (Tester) By Yardley London</title>
+    <s:type>Moisturizing Body Mist (Tester)</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYW68VS.jpg?v=1617827344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Moisturizing Body Mist (Tester)<br>
+        <strong>Price: </strong>
+            28.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Blossom &amp; Peach Perfume by Yardley London, Simple yet seductive and feminine, yardley blossom &amp; peach by yardley london is a mesmerizing perfume that captures the essence of womanhood. Fresh and lively, it opens with the confident and energetic notes of cherry blossom and pink pepper mingled with citrusy notes. As the opening dries down, a sultry heart of rose, peach, lilac and geranium meld to create an intoxicating aroma with an air of mystery.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079194198</id>
+      <title>6.8 oz Moisturizing Body Mist</title>
+      <s:price currency="USD">28.31</s:price>
+      <s:sku>555468</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079161430</id>
+    <published>2021-04-01T03:16:03-04:00</published>
+    <updated>2021-04-01T03:16:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-blossom-peach-perfume-by-yardley-london-moisturizing-body-mist"/>
+    <title>Yardley Blossom &amp; Peach Moisturizing Body Mist By Yardley London</title>
+    <s:type>Moisturizing Body Mist</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYC7.jpg?v=1617827344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Moisturizing Body Mist<br>
+        <strong>Price: </strong>
+            28.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Blossom &amp; Peach Perfume by Yardley London, Simple yet seductive and feminine, yardley blossom &amp; peach by yardley london is a mesmerizing perfume that captures the essence of womanhood. Fresh and lively, it opens with the confident and energetic notes of cherry blossom and pink pepper mingled with citrusy notes. As the opening dries down, a sultry heart of rose, peach, lilac and geranium meld to create an intoxicating aroma with an air of mystery.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079161430</id>
+      <title>6.8 oz Moisturizing Body Mist</title>
+      <s:price currency="USD">28.75</s:price>
+      <s:sku>552641</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079095894</id>
+    <published>2021-04-01T03:16:01-04:00</published>
+    <updated>2021-04-01T03:16:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-blossom-peach-perfume-by-yardley-london-body-fragrance-spray"/>
+    <title>Yardley Blossom &amp; Peach Body Fragrance Spray By Yardley London</title>
+    <s:type>Body Fragrance Spray</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYI3.jpg?v=1617827334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Body Fragrance Spray<br>
+        <strong>Price: </strong>
+            24.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yardley Blossom &amp; Peach Perfume by Yardley London, Simple yet seductive and feminine, yardley blossom &amp; peach by yardley london is a mesmerizing perfume that captures the essence of womanhood. Fresh and lively, it opens with the confident and energetic notes of cherry blossom and pink pepper mingled with citrusy notes. As the opening dries down, a sultry heart of rose, peach, lilac and geranium meld to create an intoxicating aroma with an air of mystery.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079095894</id>
+      <title>2.6 oz Body Fragrance Spray</title>
+      <s:price currency="USD">24.25</s:price>
+      <s:sku>552639</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556078473302</id>
+    <published>2021-04-01T03:15:35-04:00</published>
+    <updated>2021-04-01T03:15:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/xoxo-luv-perfume-by-victory-international-body-mist"/>
+    <title>Xoxo Luv Body Mist By Victory International</title>
+    <s:type>Body Mist</s:type>
+    <s:vendor>Victory International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XOXOL8BM.jpg?v=1617827313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victory International<br>
+        <strong>Type: </strong>Body Mist<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Xoxo Luv Perfume by Victory International, This fragrance was released in 2014. A juicy fruity floral perfume you may find irresistible. It has a sultry, sexy personality while still remaining sweet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078473302</id>
+      <title>8 oz Body Mist</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>534025</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077162582</id>
+    <published>2021-04-01T03:14:46-04:00</published>
+    <updated>2021-04-01T03:14:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/with-love-perfume-by-hilary-duff-body-lotion"/>
+    <title>With Love Body Lotion By Hilary Duff</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Hilary Duff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WLHDBL5.jpg?v=1617827283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hilary Duff<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            29.00 - 38.98
+            <a href="https://chiosny.com/products/with-love-perfume-by-hilary-duff-body-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With Love Perfume by Hilary Duff, Hilary duff is well-known for her disney channel show and films, but she is also famous for having various fragrances with her name on them. One such great perfume is with love, which came out in 2006. This item contains a spicy scent that a lot of women can enjoy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077162582</id>
+      <title>5 oz Body Lotion</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>478612</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077162582</id>
+      <title>6.8 oz Body Lotion</title>
+      <s:price currency="USD">38.98</s:price>
+      <s:sku>461289</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556076146774</id>
+    <published>2021-04-01T03:14:11-04:00</published>
+    <updated>2021-04-01T03:14:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-soul-perfume-by-ted-lapidus-body-milk"/>
+    <title>White Soul Body Milk By Ted Lapidus</title>
+    <s:type>Body Milk</s:type>
+    <s:vendor>Ted Lapidus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WS34BM.jpg?v=1617827248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ted Lapidus<br>
+        <strong>Type: </strong>Body Milk<br>
+        <strong>Price: </strong>
+            22.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Soul Perfume by Ted Lapidus, White soul was launched by the ted lapidus collection of perfumes in 2010. It brings together the various avatars of the dainties. The sporty, the sophisticated, the flirty and the undaunted are all embraced by the seamless accord of this fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076146774</id>
+      <title>3.4 oz Body Milk</title>
+      <s:price currency="USD">22.25</s:price>
+      <s:sku>536609</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556076081238</id>
+    <published>2021-04-01T03:14:08-04:00</published>
+    <updated>2021-04-01T03:14:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-shoulders-perfume-by-evyan-bath-body-powder"/>
+    <title>White Shoulders Bath/Body Powder By Evyan</title>
+    <s:type>Bath/Body Powder</s:type>
+    <s:vendor>Evyan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/66585.jpg?v=1617827253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Evyan<br>
+        <strong>Type: </strong>Bath/Body Powder<br>
+        <strong>Price: </strong>
+            28.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Shoulders Perfume by Evyan, Launched by the design house of evyan in 1949, white shoulders is classified as a refined, flowery fragrance. This feminine scent possesses a blend of classic florals including gardenia, lilac, amber, oakmoss, and jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076081238</id>
+      <title>2.6 oz Bath/Body Powder</title>
+      <s:price currency="USD">28.26</s:price>
+      <s:sku>402542</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075556950</id>
+    <published>2021-04-01T03:13:53-04:00</published>
+    <updated>2021-04-01T03:13:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-body-wash"/>
+    <title>White Diamonds Body Wash By Elizabeth Taylor</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WD68BW.jpg?v=1617827231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075556950</id>
+      <title>6.8 oz Body Wash</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>536155</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075524182</id>
+    <published>2021-04-01T03:13:52-04:00</published>
+    <updated>2021-04-01T03:13:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-body-lotion"/>
+    <title>White Diamonds Body Lotion By Elizabeth Taylor</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XWWHITBL.jpg?v=1617827232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075524182</id>
+      <title>6.8 oz Body Lotion</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>402472</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556073525334</id>
+    <published>2021-04-01T03:12:33-04:00</published>
+    <updated>2021-04-01T03:12:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/viva-la-juicy-perfume-by-juicy-couture-body-lotion"/>
+    <title>Viva La Juicy Body Lotion By Juicy Couture</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Juicy Couture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VIVJW8.jpg?v=1617827155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juicy Couture<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Viva La Juicy Perfume by Juicy Couture, Viva La Juicy perfume by Juicy Couture was created by the innovative design duo that turned a velour track suit into a major fashion statement for average women as well as the Hollywood elite. Viva La Juicy perfume is a feminine yet refreshing scent that is filled with gourmand, fruity, and floral fragrance notes. Because of its fashionable designers, Viva La Juicy perfume is just the scent for trendy women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556073525334</id>
+      <title>8.6 oz Body Lotion</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>555502</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556072607830</id>
+    <published>2021-04-01T03:12:01-04:00</published>
+    <updated>2021-04-01T03:12:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-perfume-by-vince-camuto-body-lotion"/>
+    <title>Vince Camuto Body Lotion By Vince Camuto</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VC25BL.jpg?v=1617827124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            22.77 - 23.24
+            <a href="https://chiosny.com/products/vince-camuto-perfume-by-vince-camuto-body-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Perfume by Vince Camuto, Vince camuto launched the vince camuto perfume in september 2011. This delicate and luxury creation enriches intoxicating notes of rum absolute and osmanthus nectar to seduce the dainties. It is perfect to spice up your wintery evenings with your loved one.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556072607830</id>
+      <title>2.5 oz Body Lotion</title>
+      <s:price currency="USD">23.24</s:price>
+      <s:sku>517876</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556072607830</id>
+      <title>5 oz Body Lotion</title>
+      <s:price currency="USD">22.77</s:price>
+      <s:sku>552827</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556072443990</id>
+    <published>2021-04-01T03:11:50-04:00</published>
+    <updated>2021-04-01T03:11:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-homme-cologne-by-vince-camuto-body-spray"/>
+    <title>Vince Camuto Homme Body Spray By Vince Camuto</title>
+    <s:type>Body Spray</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VINVMQ.jpg?v=1617827125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Body Spray<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Homme Cologne by Vince Camuto, Italian fashion designer vince camuto turns to the landscape of the mediterranean coast for inspiration for his second fragrance, a woody fougere for men. Lively lemony opens the fragrance with aromatic lavender and juniper berries with a clean cedar and pine at the dry down. Top notes of lemon, ozone and gin accord.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556072443990</id>
+      <title>6 oz Body Spray</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>553635</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556072312918</id>
+    <published>2021-04-01T03:11:47-04:00</published>
+    <updated>2021-04-01T03:11:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-fiori-perfume-by-vince-camuto-body-mist"/>
+    <title>Vince Camuto Fiori Body Mist By Vince Camuto</title>
+    <s:type>Body Mist</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VINVW3.jpg?v=1617827112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Body Mist<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Fiori Perfume by Vince Camuto, This fragrance was created by the house of vince camuto with perfumer laurent le guernec and released in 2013. A powdery warm floral perfume that is both delicate while still impactful. Elegant and easy going, this blend is very feminine and rewarding to wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556072312918</id>
+      <title>8 oz Body Mist</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>553641</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556072214614</id>
+    <published>2021-04-01T03:11:43-04:00</published>
+    <updated>2021-04-01T03:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-femme-perfume-by-vince-camuto-body-spray"/>
+    <title>Vince Camuto Femme Body Spray By Vince Camuto</title>
+    <s:type>Body Spray</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VINVWP.jpg?v=1617827114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Body Spray<br>
+        <strong>Price: </strong>
+            26.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Femme Perfume by Vince Camuto, This fragrance was released in 2013. An aquatic fresh floral perfume with a bit of warmth to embrace you with. A clean crisp blend with great depth and sophistication.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556072214614</id>
+      <title>8 oz Body Spray</title>
+      <s:price currency="USD">26.66</s:price>
+      <s:sku>553634</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556071886934</id>
+    <published>2021-04-01T03:11:34-04:00</published>
+    <updated>2021-04-01T03:11:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-ciao-perfume-by-vince-camuto-body-mist"/>
+    <title>Vince Camuto Ciao Body Mist By Vince Camuto</title>
+    <s:type>Body Mist</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VINVWJ.jpg?v=1617827105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Body Mist<br>
+        <strong>Price: </strong>
+            26.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Ciao Perfume by Vince Camuto, This fragrance was released in 2016. A warm fruity floral perfume for women with a deep airy personality. At the top you get a bit of sweetness from the fruity notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556071886934</id>
+      <title>8 oz Body Mist</title>
+      <s:price currency="USD">26.66</s:price>
+      <s:sku>553638</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556071788630</id>
+    <published>2021-04-01T03:11:31-04:00</published>
+    <updated>2021-04-01T03:11:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-capri-perfume-by-vince-camuto-body-mist"/>
+    <title>Vince Camuto Capri Body Mist By Vince Camuto</title>
+    <s:type>Body Mist</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VINVWO.jpg?v=1617827105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Body Mist<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Capri Perfume by Vince Camuto, This fragrance was created by the house of vince camuto with perfumer richard herpin and released in 2015. A rich robust woodsy floral scent that will sweep you away on a tropical adventure. Citrus notes add a refreshing side to this blend.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556071788630</id>
+      <title>8 oz Body Mist</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>553664</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

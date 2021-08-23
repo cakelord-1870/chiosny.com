@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/shampoo.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T02:16:07-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6555987574870</id>
+    <published>2021-04-01T02:16:07-04:00</published>
+    <updated>2021-04-01T02:16:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nirvana-white-perfume-by-elizabeth-and-james-dry-shampoo"/>
+    <title>Nirvana White Dry Shampoo By Elizabeth And James</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Elizabeth And James</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NW14DS.jpg?v=1617824254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth And James<br>
+        <strong>Type: </strong>Dry Shampoo<br>
+        <strong>Price: </strong>
+            21.25 - 28.85
+            <a href="https://chiosny.com/products/nirvana-white-perfume-by-elizabeth-and-james-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nirvana White Perfume by Elizabeth and James, This fragrance was created by us fashion designers elizabeth and james aka mary kate and ashley olsen together with perfumer honorine blanc. It was released in 2014. This beautiful perfume is a sweet floral bouquet with a warm embrace.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987574870</id>
+      <title>1.4 oz Dry Shampoo</title>
+      <s:price currency="USD">21.25</s:price>
+      <s:sku>545019</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987574870</id>
+      <title>4.4 oz Dry Shampoo</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>552867</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555987443798</id>
+    <published>2021-04-01T02:16:00-04:00</published>
+    <updated>2021-04-01T02:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nirvana-rose-perfume-by-elizabeth-and-james-dry-shampoo"/>
+    <title>Nirvana Rose Dry Shampoo By Elizabeth And James</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Elizabeth And James</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NR14DS.jpg?v=1617824252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth And James<br>
+        <strong>Type: </strong>Dry Shampoo<br>
+        <strong>Price: </strong>
+            23.75 - 26.05
+            <a href="https://chiosny.com/products/nirvana-rose-perfume-by-elizabeth-and-james-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nirvana Rose Perfume by Elizabeth and James, Launched by the successful american fashion brand owned by celebrity twins mary kate and ashley olson in 2016, nirvana rose by elizabeth and james is a floral perfume for women. This perfume is perfect for evening wear and special events, yet subtle enough for every day wear. The fragrance consists of fresh and fragrant may rose, juxtaposed with warm and earthy vetiver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987443798</id>
+      <title>1.4 oz Dry Shampoo</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>545015</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987443798</id>
+      <title>4.4 oz Dry Shampoo</title>
+      <s:price currency="USD">26.05</s:price>
+      <s:sku>552966</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555987279958</id>
+    <published>2021-04-01T02:15:52-04:00</published>
+    <updated>2021-04-01T02:15:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nirvana-bourbon-perfume-by-elizabeth-and-james-dry-shampoo"/>
+    <title>Nirvana Bourbon Dry Shampoo By Elizabeth And James</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Elizabeth And James</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NB14DSE.jpg?v=1617824252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth And James<br>
+        <strong>Type: </strong>Dry Shampoo<br>
+        <strong>Price: </strong>
+            23.75 - 28.26
+            <a href="https://chiosny.com/products/nirvana-bourbon-perfume-by-elizabeth-and-james-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nirvana Bourbon Perfume by Elizabeth and James, Launched in 2016 by fashion brand elizabeth and james, nirvana bourbon is an oriental vanilla perfume created for women. American celebrity twin sisters, mary kate and ashley olson opened the fashion brand, which released its first fragrance in 2013. The fragrance combines the earthy aroma of fresh oak tree with sweet and heady bourbon vanilla and accented by fragrant turberose to finish it off.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987279958</id>
+      <title>1.4 oz Dry Shampoo</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>545014</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987279958</id>
+      <title>4.4 oz Dry Shampoo</title>
+      <s:price currency="USD">28.26</s:price>
+      <s:sku>552967</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555987148886</id>
+    <published>2021-04-01T02:15:46-04:00</published>
+    <updated>2021-04-01T02:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nirvana-black-perfume-by-elizabeth-and-james-dry-shampoo"/>
+    <title>Nirvana Black Dry Shampoo By Elizabeth And James</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Elizabeth And James</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NB14DS.jpg?v=1617824244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth And James<br>
+        <strong>Type: </strong>Dry Shampoo<br>
+        <strong>Price: </strong>
+            12.22 - 19.22
+            <a href="https://chiosny.com/products/nirvana-black-perfume-by-elizabeth-and-james-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nirvana Black Perfume by Elizabeth and James, This unisex fragrance was created by us fashion designers elizabeth and james aka mary kate and ashley olsen together with perfumer pierre negrin. It was released in 2014 meant for both men and women to wear. A spicy woodsy scent with a powdery side.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987148886</id>
+      <title>1.4 oz Dry Shampoo</title>
+      <s:price currency="USD">12.22</s:price>
+      <s:sku>545012</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555987148886</id>
+      <title>4.2 oz Dry Shampoo</title>
+      <s:price currency="USD">19.22</s:price>
+      <s:sku>552968</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555975090262</id>
+    <published>2021-04-01T02:07:28-04:00</published>
+    <updated>2021-04-01T02:07:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/molton-brown-body-care-perfume-by-molton-brown-indian-cress-shampoo"/>
+    <title>Molton Brown Body Care Indian Cress Shampoo By Molton Brown</title>
+    <s:type>Indian Cress Shampoo</s:type>
+    <s:vendor>Molton Brown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MBICS10.jpg?v=1617823866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Molton Brown<br>
+        <strong>Type: </strong>Indian Cress Shampoo<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Molton Brown Body Care Perfume by Molton Brown</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555975090262</id>
+      <title>10 oz Indian Cress Shampoo</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>534851</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555866169430</id>
+    <published>2021-04-01T00:56:51-04:00</published>
+    <updated>2021-04-01T00:56:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/demeter-baby-shampoo-perfume-by-demeter-cologne-spray"/>
+    <title>Demeter Baby Shampoo Cologne Spray By Demeter</title>
+    <s:type>Cologne Spray</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DWBS4CS.jpg?v=1617820110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Cologne Spray<br>
+        <strong>Price: </strong>
+            34.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Demeter Baby Shampoo Perfume by Demeter, Demeter baby shampoo, launched by the fragrance house of demeter in 2016, is a light and gentle perfume that is suitable for both women and men. The fresh, powdery aroma of baby shampoo dries to a subtle, slightly sweet scent that is mild and calming. This clean, natural fragrance has a soft sillage and is not overpowering.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555866169430</id>
+      <title>4 oz Cologne Spray</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>534099</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555806466134</id>
+    <published>2021-04-01T00:18:28-04:00</published>
+    <updated>2021-04-01T00:18:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/aramis-cologne-by-aramis-soap-on-rope-body-shampoo"/>
+    <title>Aramis Soap on Rope (Body Shampoo) By Aramis</title>
+    <s:type>Soap on Rope (Body Shampoo)</s:type>
+    <s:vendor>Aramis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ARAMHR.jpg?v=1617817651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aramis<br>
+        <strong>Type: </strong>Soap on Rope (Body Shampoo)<br>
+        <strong>Price: </strong>
+            30.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aramis Cologne by Aramis, Aramis designed aramis in 1965. It's fragrant nature explores essences of bergamot, cumin and jasmine. Blended with notes of patchouli,â  amber and musk, aramis is a formal fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555806466134</id>
+      <title>5.75 oz Soap on Rope</title>
+      <s:price currency="USD">30.22</s:price>
+      <s:sku>417033</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

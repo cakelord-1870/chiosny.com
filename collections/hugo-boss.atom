@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/hugo-boss.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T02:33:19-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556015001686</id>
+    <published>2021-04-01T02:33:19-04:00</published>
+    <updated>2021-04-01T02:33:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pure-purple-perfume-by-hugo-boss-eau-de-parfum-spray"/>
+    <title>Pure Purple Eau De Parfum Spray By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HPPES17.jpg?v=1617825183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pure Purple Perfume by Hugo Boss, This incredible fragrance was created by hugo boss, in 2006. Its amazing scent includes a mixture of nectarine, cyclamen, black violet, amber, white suede, and marzipan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556015001686</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>424739</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916370006</id>
+    <published>2021-04-01T01:31:09-04:00</published>
+    <updated>2021-04-01T01:31:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-xy-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Xy Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGOXYM.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            47.83 - 52.26
+            <a href="https://chiosny.com/products/hugo-xy-cologne-by-hugo-boss-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Xy Cologne by Hugo Boss, A woody aromatic fragrance for men that is fesh and light with a subtle note of mint. Top notes are pear leaf, cedar and bergamot; middle notes are basil and mint; base notes are patchouli, musk and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916370006</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">52.26</s:price>
+      <s:sku>441785</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916370006</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">47.83</s:price>
+      <s:sku>445925</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916337238</id>
+    <published>2021-04-01T01:31:08-04:00</published>
+    <updated>2021-04-01T01:31:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-xx-perfume-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Xx Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGXX34W.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            53.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Xx Perfume by Hugo Boss, A fruity floral for women with top notes of mandarin, blueberry and litchi, heart notes of jasmine and rose. The warm base is created of sensual musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916337238</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">53.28</s:price>
+      <s:sku>450273</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916271702</id>
+    <published>2021-04-01T01:31:01-04:00</published>
+    <updated>2021-04-01T01:31:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-urban-journey-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Urban Journey Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGHMH.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Urban Journey Cologne by Hugo Boss, Step into the urban jungle with this bold, masculine 2018 scent from hugo boss. Hugo urban journey is a refreshing, sophisticated everyday cologne that reflects your rugged, adventurous spirit. Green and floral notes create the top of this fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916271702</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>556041</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916238934</id>
+    <published>2021-04-01T01:31:00-04:00</published>
+    <updated>2021-04-01T01:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-reversed-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Reversed Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGRE42M.jpg?v=1617822011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            45.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Reversed Cologne by Hugo Boss, For the man who loves a bit of rustic nature with a splash of elegance, hugo reversed, a cologne featuring accords of woods and aromatics, will be your new favorite scent. Apply to your pressure points and take in the soothing top notes of grapefruit and bergamot. A heart note of savory rosemary and a base note of earthy vetiver round out the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916238934</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>544920</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916206166</id>
+    <published>2021-04-01T01:30:59-04:00</published>
+    <updated>2021-04-01T01:30:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-red-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Red Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HR27TS.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            25.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Red Cologne by Hugo Boss, Launched in 2013, hugo red is an oriental spicy fragrance for men. Top notes are metallic notes, grapefruit, pink pepper and galbanum; middle notes are rhubarb, cedar, pineapple and metallic notes; base notes are cedarwood and hot amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916206166</id>
+      <title>0.27 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">25.25</s:price>
+      <s:sku>514326</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916173398</id>
+    <published>2021-04-01T01:30:57-04:00</published>
+    <updated>2021-04-01T01:30:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-perfume-by-hugo-boss-eau-de-parfum-spray"/>
+    <title>Hugo Eau De Parfum Spray By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUG25EDPQ.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            33.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Perfume by Hugo Boss, Launched by the design house of hugo boss in 1997, hugo is classified as a refreshing, flowery fragrance. This feminine scent possesses a blend of water lilies, apples, peaches, and berries. Accompanied by watery notes of the clean ocean air.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916173398</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">33.98</s:price>
+      <s:sku>533718</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916140630</id>
+    <published>2021-04-01T01:30:54-04:00</published>
+    <updated>2021-04-01T01:30:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-just-different-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Just Different Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HJD13ME.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            40.13 - 51.36
+            <a href="https://chiosny.com/products/hugo-just-different-cologne-by-hugo-boss-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Just Different Cologne by Hugo Boss, Inspired by energetic and spontaneous men, hugo just different is a powerful scent full of masculinity combined with mysterious and creative energy. A new fragrance by hugo boss for 2011, hugo just different features ice cold mint leaves for the top composition that leads to the heart of aromatic freesia and basil. The base note of cashmeran molecule of musk, woody and spicy scent completes it.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916140630</id>
+      <title>1.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>498363</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916140630</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">40.13</s:price>
+      <s:sku>549779</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916140630</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">47.26</s:price>
+      <s:sku>518093</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916140630</id>
+      <title>6.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">51.36</s:price>
+      <s:sku>518095</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916107862</id>
+    <published>2021-04-01T01:30:53-04:00</published>
+    <updated>2021-04-01T01:30:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-iced-cologne-by-hugo-boss-eau-de-toilette-spray-tester"/>
+    <title>Hugo Iced Eau De Toilette Spray (Tester) By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HIM42TT.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Iced Cologne by Hugo Boss, This fragrance was released in 2017. A refreshing citrus scent with an aquatic personality. Minty fresh and exhilarating at the top.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916107862</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>542396</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916075094</id>
+    <published>2021-04-01T01:30:51-04:00</published>
+    <updated>2021-04-01T01:30:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-iced-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Iced Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGIC42M.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            45.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Iced Cologne by Hugo Boss, This fragrance was released in 2017. A refreshing citrus scent with an aquatic personality. Minty fresh and exhilarating at the top.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916075094</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>536774</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916042326</id>
+    <published>2021-04-01T01:30:50-04:00</published>
+    <updated>2021-04-01T01:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-extreme-perfume-by-hugo-boss-eau-de-parfum-spray-tester"/>
+    <title>Hugo Extreme Eau De Parfum Spray (Tester) By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGEX16EDP.jpg?v=1617822012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Extreme Perfume by Hugo Boss, Hugo extreme by hugo boss was created for the adventurous, confident woman in 2015. Its unique combination of boysenberry and himalayan grass top notes allow the scent to stand out like the strong women who wear it. Undertones such as jasmine, black tea, and osmanthus round out the scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916042326</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>547992</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555916009558</id>
+    <published>2021-04-01T01:30:48-04:00</published>
+    <updated>2021-04-01T01:30:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-extreme-perfume-by-hugo-boss-eau-de-parfum-spray"/>
+    <title>Hugo Extreme Eau De Parfum Spray By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUEX17W.jpg?v=1617821937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            43.10 - 58.67
+            <a href="https://chiosny.com/products/hugo-extreme-perfume-by-hugo-boss-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Extreme Perfume by Hugo Boss, Hugo extreme by hugo boss was created for the adventurous, confident woman in 2015. Its unique combination of boysenberry and himalayan grass top notes allow the scent to stand out like the strong women who wear it. Undertones such as jasmine, black tea, and osmanthus round out the scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916009558</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">43.10</s:price>
+      <s:sku>539216</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555916009558</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">58.67</s:price>
+      <s:sku>539220</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915976790</id>
+    <published>2021-04-01T01:30:47-04:00</published>
+    <updated>2021-04-01T01:30:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-extreme-cologne-by-hugo-boss-eau-de-parfum-spray-tester"/>
+    <title>Hugo Extreme Eau De Parfum Spray (Tester) By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGEX33M.jpg?v=1617821941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Extreme Cologne by Hugo Boss, Hugo extreme eau de parfum brings the classic men's cologne to the next level with a unique and modern spin. It is a burst of masculinity and energizing freshness for the genuine man who wants to live life on his terms. Launched in 2016, the cologne is classified as an aromatic green fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915976790</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>533497</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915944022</id>
+    <published>2021-04-01T01:30:45-04:00</published>
+    <updated>2021-04-01T01:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-extreme-cologne-by-hugo-boss-eau-de-parfum-spray"/>
+    <title>Hugo Extreme Eau De Parfum Spray By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HME33PS.jpg?v=1617821937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            49.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Extreme Cologne by Hugo Boss, Hugo extreme eau de parfum brings the classic men's cologne to the next level with a unique and modern spin. It is a burst of masculinity and energizing freshness for the genuine man who wants to live life on his terms. Launched in 2016, the cologne is classified as an aromatic green fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915944022</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">49.38</s:price>
+      <s:sku>533622</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915911254</id>
+    <published>2021-04-01T01:30:43-04:00</published>
+    <updated>2021-04-01T01:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-energise-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Energise Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ENER50.jpg?v=1617821940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            44.73 - 54.88
+            <a href="https://chiosny.com/products/hugo-energise-cologne-by-hugo-boss-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Energise Cologne by Hugo Boss, Top notes of cardamom, pink pepper and citrus; a heart consisting of coriander, ambrette, juniper and white freesia and a base of jacaranda wood, nubuck leather, suede note, black cocoa and amyris.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915911254</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">44.73</s:price>
+      <s:sku>421747</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915911254</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">54.88</s:price>
+      <s:sku>421746</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915845718</id>
+    <published>2021-04-01T01:30:42-04:00</published>
+    <updated>2021-04-01T01:30:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-element-cologne-by-hugo-boss-shower-gel"/>
+    <title>Hugo Element Shower Gel By Hugo Boss</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HGEMG5.jpg?v=1617821938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            29.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Element Cologne by Hugo Boss, A classic aromatic fougere for men. Top notes are aldehydes, artemisia, lavender, basil, bergamot and lemon; middle notes are coriander, violet, clary sage, jasmine, caraway, lily-of-the-valley and rose; base notes are leather, sandalwood, amber, musk, oakmoss and cedar. A traditional scent that has stood the test of time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915845718</id>
+      <title>5 oz Shower Gel</title>
+      <s:price currency="USD">29.44</s:price>
+      <s:sku>464283</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915812950</id>
+    <published>2021-04-01T01:30:41-04:00</published>
+    <updated>2021-04-01T01:30:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-element-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Element Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGO2ELM.jpg?v=1617821938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            45.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Element Cologne by Hugo Boss, A classic aromatic fougere for men. Top notes are aldehydes, artemisia, lavender, basil, bergamot and lemon; middle notes are coriander, violet, clary sage, jasmine, caraway, lily-of-the-valley and rose; base notes are leather, sandalwood, amber, musk, oakmoss and cedar. A traditional scent that has stood the test of time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915812950</id>
+      <title>3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>461470</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915780182</id>
+    <published>2021-04-01T01:30:39-04:00</published>
+    <updated>2021-04-01T01:30:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-element-cologne-by-hugo-boss-after-shave-balm"/>
+    <title>Hugo Element After Shave Balm By Hugo Boss</title>
+    <s:type>After Shave Balm</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HEL16ASB.jpg?v=1617821937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>After Shave Balm<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Element Cologne by Hugo Boss, A classic aromatic fougere for men. Top notes are aldehydes, artemisia, lavender, basil, bergamot and lemon; middle notes are coriander, violet, clary sage, jasmine, caraway, lily-of-the-valley and rose; base notes are leather, sandalwood, amber, musk, oakmoss and cedar. A traditional scent that has stood the test of time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915780182</id>
+      <title>1.7 oz After Shave Balm</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>548763</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915747414</id>
+    <published>2021-04-01T01:30:37-04:00</published>
+    <updated>2021-04-01T01:30:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-element-cologne-by-hugo-boss-after-shave-unboxed"/>
+    <title>Hugo Element After Shave  (unboxed) By Hugo Boss</title>
+    <s:type>After Shave (unboxed)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HE2ASU.jpg?v=1617821939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>After Shave (unboxed)<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Element Cologne by Hugo Boss, A classic aromatic fougere for men. Top notes are aldehydes, artemisia, lavender, basil, bergamot and lemon; middle notes are coriander, violet, clary sage, jasmine, caraway, lily-of-the-valley and rose; base notes are leather, sandalwood, amber, musk, oakmoss and cedar. A traditional scent that has stood the test of time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915747414</id>
+      <title>2 oz After Shave</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>503421</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915714646</id>
+    <published>2021-04-01T01:30:36-04:00</published>
+    <updated>2021-04-01T01:30:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-deep-red-perfume-by-hugo-boss-eau-de-parfum-spray-tester"/>
+    <title>Hugo Deep Red Eau De Parfum Spray (Tester) By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HDRWT.jpg?v=1617821940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Deep Red Perfume by Hugo Boss, This fragrance was created by the house of hugo boss with perfumers alain astori and beatrice piquet. It was released in 2001. A sweet floral fragrance for women that is truly provocative and addictive.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915714646</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">39.50</s:price>
+      <s:sku>445990</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915681878</id>
+    <published>2021-04-01T01:30:34-04:00</published>
+    <updated>2021-04-01T01:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-deep-red-perfume-by-hugo-boss-eau-de-parfum-spray"/>
+    <title>Hugo Deep Red Eau De Parfum Spray By Hugo Boss</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HDRED50PSW.jpg?v=1617821938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            35.92 - 41.35
+            <a href="https://chiosny.com/products/hugo-deep-red-perfume-by-hugo-boss-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Deep Red Perfume by Hugo Boss, This fragrance was created by the house of hugo boss with perfumers alain astori and beatrice piquet. It was released in 2001. A sweet floral fragrance for women that is truly provocative and addictive.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915681878</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">35.92</s:price>
+      <s:sku>414073</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915681878</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">41.35</s:price>
+      <s:sku>414072</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915649110</id>
+    <published>2021-04-01T01:30:33-04:00</published>
+    <updated>2021-04-01T01:30:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-cologne-by-hugo-boss-shower-gel"/>
+    <title>Hugo Shower Gel By Hugo Boss</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGBSG67M.jpg?v=1617821928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Cologne by Hugo Boss, Launched by the design house of hugo boss in 1995, hugo is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of woods, fresh citrus and spicy leaves. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915649110</id>
+      <title>6.7 oz Shower Gel</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>435106</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915616342</id>
+    <published>2021-04-01T01:30:31-04:00</published>
+    <updated>2021-04-01T01:30:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-cologne-by-hugo-boss-eau-de-toilette-spray-tester"/>
+    <title>Hugo Eau De Toilette Spray (Tester) By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HM42TP.jpg?v=1617821929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Cologne by Hugo Boss, Launched by the design house of hugo boss in 1995, hugo is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of woods, fresh citrus and spicy leaves. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915616342</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>516071</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915583574</id>
+    <published>2021-04-01T01:30:30-04:00</published>
+    <updated>2021-04-01T01:30:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-cologne-by-hugo-boss-eau-de-toilette-spray-limited-edition-music-bottle"/>
+    <title>Hugo Eau De Toilette Spray (Limited Edition Music Bottle) By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray (Limited Edition Music Bottle)</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUGMM42M.jpg?v=1617821925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Limited Edition Music Bottle)<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Cologne by Hugo Boss, Launched by the design house of hugo boss in 1995, hugo is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of woods, fresh citrus and spicy leaves. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915583574</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>528663</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915550806</id>
+    <published>2021-04-01T01:30:26-04:00</published>
+    <updated>2021-04-01T01:30:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-cologne-by-hugo-boss-eau-de-toilette-spray"/>
+    <title>Hugo Eau De Toilette Spray By Hugo Boss</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUOMTS13.jpg?v=1617821929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            35.11 - 59.50
+            <a href="https://chiosny.com/products/hugo-cologne-by-hugo-boss-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Cologne by Hugo Boss, Launched by the design house of hugo boss in 1995, hugo is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of woods, fresh citrus and spicy leaves. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915550806</id>
+      <title>1.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.11</s:price>
+      <s:sku>414055</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915550806</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.98</s:price>
+      <s:sku>502748</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915550806</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">46.22</s:price>
+      <s:sku>516089</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915550806</id>
+      <title>6.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">59.50</s:price>
+      <s:sku>511007</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

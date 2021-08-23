@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/shower-gel.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:15:36-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556078506070</id>
+    <published>2021-04-01T03:15:36-04:00</published>
+    <updated>2021-04-01T03:15:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/xoxo-perfume-by-victory-international-shower-gel"/>
+    <title>Xoxo Shower Gel By Victory International</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Victory International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XOXOSG67.jpg?v=1617827325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victory International<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Xoxo Perfume by Victory International, Xoxo by victory international was released in 2004, and it is the perfect fragrance to wear if you are expecting to do some hugging and kissing during your evening. It has some incredibly fruity accords that anyone, man or woman, can love. The notes you are going to find in this perfume are tahitian vanilla, bergamot, white apricot, passionfruit, sandalwood, suede and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078506070</id>
+      <title>6.8 oz Shower Gel</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>442643</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077424726</id>
+    <published>2021-04-01T03:14:58-04:00</published>
+    <updated>2021-04-01T03:14:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-enchanted-perfume-by-taylor-swift-shower-gel"/>
+    <title>Wonderstruck Enchanted Shower Gel By Taylor Swift</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WONTW34SG.jpg?v=1617827294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Enchanted Perfume by Taylor Swift, Leave passersby feeling wonderstruck when you wear taylor swift's wonderstruck enchanted fragrance for women. Launched in 2012, this mesmerizing scent will hypnotize and leave those in your wake spellbound. It opens to sweet notes of wild berries and pink poppy and then takes a dreamy turn with a heart of sugar-glazed champak petals and peony blossoms.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077424726</id>
+      <title>3.4 oz Shower Gel</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>547851</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556076212310</id>
+    <published>2021-04-01T03:14:15-04:00</published>
+    <updated>2021-04-01T03:14:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-soul-perfume-by-ted-lapidus-shower-gel"/>
+    <title>White Soul Shower Gel By Ted Lapidus</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Ted Lapidus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WSSG34.jpg?v=1617827251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ted Lapidus<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            22.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Soul Perfume by Ted Lapidus, White soul was launched by the ted lapidus collection of perfumes in 2010. It brings together the various avatars of the dainties. The sporty, the sophisticated, the flirty and the undaunted are all embraced by the seamless accord of this fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076212310</id>
+      <title>3.4 oz Shower Gel</title>
+      <s:price currency="USD">22.25</s:price>
+      <s:sku>536600</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067233878</id>
+    <published>2021-04-01T03:08:45-04:00</published>
+    <updated>2021-04-01T03:08:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-yellow-diamond-perfume-by-versace-shower-gel"/>
+    <title>Versace Yellow Diamond Shower Gel By Versace</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVW67SG.jpg?v=1617826947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            61.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Yellow Diamond Perfume by Versace, One spritz of yellow diamond by versace and you'll know why they say diamonds are a girl's best friend. This lavish fragrance for women was introduced in 2011, and it's an ideal scent for wearing anytime you want to feel glamorous and sophisticated. This sensual and sultry scent opens with juicy notes of pear sorbet and lemon before revealing a floral heart of mimosa and orange blossom that is reinforced by a lush precious musk base.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067233878</id>
+      <title>6.7 oz Shower Gel</title>
+      <s:price currency="USD">61.30</s:price>
+      <s:sku>549196</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066775126</id>
+    <published>2021-04-01T03:08:25-04:00</published>
+    <updated>2021-04-01T03:08:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-dylan-blue-cologne-by-versace-shower-gel"/>
+    <title>Versace Pour Homme Dylan Blue Shower Gel By Versace</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VPHDB84W.jpg?v=1617826934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            47.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Dylan Blue Cologne by Versace, Recently launched in 2016, versace pour homme dylan blue by versace provides a delicate balance of citrus, spicy and musk accords, creating an ideal daily scent. The fragrance opens with fresh top notes of water, grapefruit, fig and bergamot. These are followed by a complex middle blend of floral and woodsy violet leaf, papyrus and patchouli mixed with spicy black pepper and ambroxan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066775126</id>
+      <title>8.4 oz Shower Gel</title>
+      <s:price currency="USD">47.33</s:price>
+      <s:sku>548349</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066512982</id>
+    <published>2021-04-01T03:08:11-04:00</published>
+    <updated>2021-04-01T03:08:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-cologne-by-versace-shower-gel"/>
+    <title>Versace Pour Homme Shower Gel By Versace</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVM84SP.jpg?v=1617826920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            41.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Cologne by Versace, An exciting and modern twist on a classic aromatic/fougere for men, this masculine contemporary scent was created by master perfumer alberto morillas. Top notes are citruses, neroli, bergamot and petit grain; middle notes are hyacinth, clary sage, cedar and geranium; base notes are tonka bean, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066512982</id>
+      <title>8.4 oz Shower Gel</title>
+      <s:price currency="USD">41.22</s:price>
+      <s:sku>548306</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065300566</id>
+    <published>2021-04-01T03:07:18-04:00</published>
+    <updated>2021-04-01T03:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-cologne-by-versace-shower-gel"/>
+    <title>Versace Eros Shower Gel By Versace</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVM84SGI.jpg?v=1617826885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            57.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Cologne by Versace, You'd expect nothing less than a manly fragrance from the design house of versace, and you'll get it with versace eros, a decadent fragrance for men of distinction. This woody fresh scent has a definitive oriental vibe that is daring and adventurous-just like you. It features a crisp zing of mint oil embraced by fruity green apple and italian lemon with memorable notes of geranium flowers and venezuelan ambroxan in a succulently sensuous medley that clings to your skin all day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065300566</id>
+      <title>8.4 oz Shower Gel</title>
+      <s:price currency="USD">57.50</s:price>
+      <s:sku>548696</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556063531094</id>
+    <published>2021-04-01T03:06:08-04:00</published>
+    <updated>2021-04-01T03:06:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vanderbilt-perfume-by-gloria-vanderbilt-shower-gel"/>
+    <title>Vanderbilt Shower Gel By Gloria Vanderbilt</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Gloria Vanderbilt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/V5SGW.jpg?v=1617826829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gloria Vanderbilt<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            25.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanderbilt Perfume by Gloria Vanderbilt, Launched by the design house of gloria vanderbilt in 1982, vanderbilt is classified as a refined, oriental, floral fragrance. This feminine scent possesses a blend of carnation, mimosa, rose, and other spicy oriental florals. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556063531094</id>
+      <title>5 oz Shower Gel</title>
+      <s:price currency="USD">25.53</s:price>
+      <s:sku>518773</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556057927766</id>
+    <published>2021-04-01T03:02:17-04:00</published>
+    <updated>2021-04-01T03:02:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/trendy-pink-perfume-by-aquolina-shower-gel"/>
+    <title>Trendy Pink Shower Gel By Aquolina</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Aquolina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TREAW6.jpg?v=1617826604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aquolina<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trendy Pink Perfume by Aquolina, For a young scent that's always on point, trendy pink can't wait to make its debut with the latest girl's fashion. It opens sweet and fresh with rose, peach and freesia, then dips to a creamy center with jasmine, amber and musk. Brisk patchouli combines with sandalwood and oakmoss for the perfect finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556057927766</id>
+      <title>16.9 oz Shower Gel</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>552186</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556055732310</id>
+    <published>2021-04-01T03:00:36-04:00</published>
+    <updated>2021-04-01T03:00:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tommy-bahama-very-cool-cologne-by-tommy-bahama-shower-gel"/>
+    <title>Tommy Bahama Very Cool Shower Gel By Tommy Bahama</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Tommy Bahama</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TOMTM34SG.jpg?v=1617826536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tommy Bahama<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            23.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tommy Bahama Very Cool Cologne by Tommy Bahama, Improve your reputation and popularity with a few sprays of tommy bahama very cool fragrance. Created by tommy bahama in 2006, this all-in-one men's fragrance can be used in a casual setting or while out on a fancy date with your significant other. Take advantage of the ginger and mandarin orange notes for an indolic twist and nutmeg for a masculine edge to your night.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556055732310</id>
+      <title>3.4 oz Shower Gel</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>545545</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556055470166</id>
+    <published>2021-04-01T03:00:25-04:00</published>
+    <updated>2021-04-01T03:00:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tommy-bahama-set-sail-martinique-cologne-by-tommy-bahama-shower-gel"/>
+    <title>Tommy Bahama Set Sail Martinique Shower Gel By Tommy Bahama</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Tommy Bahama</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TOMTM34SGF.jpg?v=1617826525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tommy Bahama<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tommy Bahama Set Sail Martinique Cologne by Tommy Bahama, Bask in the scents of the caribbean with set sail martinique for men, introduced by the creative design house of tommy bahama in 2010. This fresh and spicy masculine fragrance combines notes of fresh pepper, delightful bergamot, luscious blue lavender and irresistible musk for an inspiring and intoxicating fragrance that brings about visions of crashing waves and salty sea shores. Set sail and explore the enticing aromas of tommy bahama’s set sail martinique for men.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556055470166</id>
+      <title>3.4 oz Shower Gel</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>545571</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047605846</id>
+    <published>2021-04-01T02:55:10-04:00</published>
+    <updated>2021-04-01T02:55:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-original-craftsman-cologne-by-maurer-wirtz-shower-gel"/>
+    <title>Tabac Original Craftsman Shower Gel By Maurer &amp; Wirtz</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TCRMSG68.jpg?v=1617826279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tabac Original Craftsman Cologne by Maurer &amp; Wirtz, Launched in 2019, tabac original craftsman is a fragrance for men who like to do things themselves. This masculine scent is part of a collection from german luxury perfume house maurer &amp; wirtz. It opens with top notes of tart grapefruit, spicy black pepper, and bergamot.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047605846</id>
+      <title>6.8 oz Shower Gel</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>548273</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047540310</id>
+    <published>2021-04-01T02:55:08-04:00</published>
+    <updated>2021-04-01T02:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-man-cologne-by-maurer-wirtz-shower-gel"/>
+    <title>Tabac Man Shower Gel By Maurer &amp; Wirtz</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABMM68SG.jpg?v=1617826281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Man Cologne by Maurer &amp; Wirtz, Tabac man by mäurer &amp; wirtz was introduced in 2000 as a masculine scent for any man. The top notes of this aroma include, orange, mandarin, lemon, lavender, peppermint. The middle notes include, cardamom, wood, vetiver, patchouli, sandalwood and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047540310</id>
+      <title>6.8 oz Shower Gel</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>547394</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047278166</id>
+    <published>2021-04-01T02:54:59-04:00</published>
+    <updated>2021-04-01T02:54:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-shower-gel"/>
+    <title>Tabac Shower Gel By Maurer &amp; Wirtz</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TM68SG.jpg?v=1617826269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            23.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047278166</id>
+      <title>6.8 oz Shower Gel</title>
+      <s:price currency="USD">23.38</s:price>
+      <s:sku>497453</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556046753878</id>
+    <published>2021-04-01T02:54:29-04:00</published>
+    <updated>2021-04-01T02:54:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-bath-shower-gel"/>
+    <title>Tabac Bath &amp; Shower Gel By Maurer &amp; Wirtz</title>
+    <s:type>Bath &amp; Shower Gel</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TMSG13.jpg?v=1617826257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Bath &amp; Shower Gel<br>
+        <strong>Price: </strong>
+            27.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556046753878</id>
+      <title>13.5 oz Bath &amp; Shower Gel</title>
+      <s:price currency="USD">27.14</s:price>
+      <s:sku>478941</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556036268118</id>
+    <published>2021-04-01T02:47:29-04:00</published>
+    <updated>2021-04-01T02:47:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sixth-sense-m-perfume-by-marilyn-miglin-shower-gel"/>
+    <title>Sixth Sense M Shower Gel By Marilyn Miglin</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Marilyn Miglin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/M6M67SG.jpg?v=1617825876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marilyn Miglin<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            28.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sixth Sense M Perfume by Marilyn Miglin, This is not a fragrance for shy women. This is a bold, dynamic scent that clearly will empower you. An intense warm floral that will not wilt and has a fair amount of spice to the blend.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556036268118</id>
+      <title>6.7 oz Shower Gel</title>
+      <s:price currency="USD">28.55</s:price>
+      <s:sku>517831</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556036104278</id>
+    <published>2021-04-01T02:47:22-04:00</published>
+    <updated>2021-04-01T02:47:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sira-des-indes-perfume-by-jean-patou-shower-gel"/>
+    <title>Sira Des Indes Shower Gel By Jean Patou</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Jean Patou</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SDISG67.jpg?v=1617825877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Patou<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sira Des Indes Perfume by Jean Patou, It has top notes of banana accords, bergamot, pear, pink berries, and cardamom. A floral middle note and base notes of musk, amber, vanilla, and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556036104278</id>
+      <title>6.7 oz Shower Gel</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>466984</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556035481686</id>
+    <published>2021-04-01T02:46:54-04:00</published>
+    <updated>2021-04-01T02:46:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/silhouette-perfume-by-christian-siriano-shower-gel"/>
+    <title>Silhouette Shower Gel By Christian Siriano</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Christian Siriano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SILCWK.jpg?v=1617825852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Siriano<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silhouette Perfume by Christian Siriano, This fragrance was created by the american fashion designer christian siriano with perfumers christelle laprade and symrise. It was released in 2014. A flowery citrus perfume created to celebrate women from all walks of life.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556035481686</id>
+      <title>6.76 oz Shower Gel</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>554366</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556034039894</id>
+    <published>2021-04-01T02:46:04-04:00</published>
+    <updated>2021-04-01T02:46:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/shalimar-perfume-by-guerlain-shower-gel"/>
+    <title>Shalimar Shower Gel By Guerlain</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Guerlain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SHAL68SHOG.jpg?v=1617825814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Guerlain<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            54.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shalimar Perfume by Guerlain, Launched by the design house of guerlain way back in 1925, shalimar is classified as a refined, oriental fragrance that serves as one of the great icons of early 20th-century perfumery. It's a feminine scent possessing a blend of balsamic and citrus accords, and it's recommended particularly for evening wear. The citrus notes appear in the top notes, specifically mandarin, bergamot, and lemon, as well as a cedar note.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556034039894</id>
+      <title>6.8 oz Shower Gel</title>
+      <s:price currency="USD">54.88</s:price>
+      <s:sku>423500</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556028305494</id>
+    <published>2021-04-01T02:42:03-04:00</published>
+    <updated>2021-04-01T02:42:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/rumeur-perfume-by-lanvin-shower-gel"/>
+    <title>Rumeur Shower Gel By Lanvin</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Lanvin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RWSG5.jpg?v=1617825632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lanvin<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            36.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rumeur Perfume by Lanvin, A woody floral musk fragrance with top notes of magnolia, a heart of white rose, jasmine and orange tree blossom. The fragrance's base is composed of patchouli and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556028305494</id>
+      <title>5 oz Shower Gel</title>
+      <s:price currency="USD">36.20</s:price>
+      <s:sku>455362</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556026863702</id>
+    <published>2021-04-01T02:40:58-04:00</published>
+    <updated>2021-04-01T02:40:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/roxy-love-perfume-by-quicksilver-shower-gel"/>
+    <title>Roxy Love Shower Gel By Quicksilver</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Quicksilver</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RL5SGW.jpg?v=1617825534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Quicksilver<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roxy Love Perfume by Quicksilver, Launched in 2007, this youthful fragrance contains a blend of mandarine, petitgrain, lime, green tea leaves, yuzu, tangerine, grenade, pivoine, freesia, peony, bahia orchid, musk and cedarwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556026863702</id>
+      <title>5 oz Shower Gel</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>502762</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556021915734</id>
+    <published>2021-04-01T02:37:52-04:00</published>
+    <updated>2021-04-01T02:37:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/rihanna-rogue-perfume-by-rihanna-shower-gel"/>
+    <title>Rihanna Rogue Shower Gel By Rihanna</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Rihanna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RR3SGUB.jpg?v=1617825397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rihanna<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            23.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rihanna Rogue Perfume by Rihanna, Rogue for women by rihanna is designed for the daring woman who is in touch with her bold and flirtatious side. This fragrance, introduced in 2013, is defined by sensual notes of suede and lemon blossom for a scent that is mellow, light, and enticing. The perfume's base notes, which include amber and patchouli, are sure to linger on your skin long into the night.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556021915734</id>
+      <title>3 oz Shower Gel</title>
+      <s:price currency="USD">23.24</s:price>
+      <s:sku>552824</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556021030998</id>
+    <published>2021-04-01T02:37:20-04:00</published>
+    <updated>2021-04-01T02:37:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/ri-ri-perfume-by-rihanna-shower-gel"/>
+    <title>Ri Ri Shower Gel By Rihanna</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Rihanna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RIRISG3UB.jpg?v=1617825368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rihanna<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            22.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ri Ri Perfume by Rihanna, This fragrance was released in 2015. A warm crisp tropical fruity floral scent. Great for a romantic date or just a walk on the beach.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556021030998</id>
+      <title>3 oz Shower Gel</title>
+      <s:price currency="USD">22.38</s:price>
+      <s:sku>552822</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556019097686</id>
+    <published>2021-04-01T02:36:11-04:00</published>
+    <updated>2021-04-01T02:36:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/reem-acra-perfume-by-reem-acra-shower-gel"/>
+    <title>Reem Acra Shower Gel By Reem Acra</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Reem Acra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/REERW0.jpg?v=1617825316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reem Acra<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reem Acra Perfume by Reem Acra, Show off your sophisticated style by pairing reem acra eau de parfum for women with your gorgeous evening wear. Introduced in 2012 as the first fragrance from famous wedding dress designer reem acra, this luxurious scent includes rich notes such as amber, peony, and orange blossom that come directly out of her life story. Wear reem acra eau de parfum when you need a modernized classic scent that will turn heads and leave them wanting more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556019097686</id>
+      <title>2.5 oz Shower Gel</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>554407</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556017098838</id>
+    <published>2021-04-01T02:34:46-04:00</published>
+    <updated>2021-04-01T02:34:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/ralph-rocks-perfume-by-ralph-lauren-shower-gel"/>
+    <title>Ralph Rocks Shower Gel By Ralph Lauren</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RRW17SG.jpg?v=1617825244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            22.13 - 22.22
+            <a href="https://chiosny.com/products/ralph-rocks-perfume-by-ralph-lauren-shower-gel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ralph Rocks Perfume by Ralph Lauren, This fragrance has top notes of passion fruit, kiwi, and citrus. Middle notes of freesia, orange blossom, hyacinth, and palm leaves. Base notes of bleached wood, sandalwood, and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556017098838</id>
+      <title>1.7 oz Shower Gel</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>459536</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556017098838</id>
+      <title>2.5 oz Shower Gel</title>
+      <s:price currency="USD">22.22</s:price>
+      <s:sku>516879</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

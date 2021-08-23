@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/soap.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-05-17T16:51:20-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6576016392278</id>
+    <published>2021-05-17T16:51:20-04:00</published>
+    <updated>2021-05-17T16:51:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/dove-soap-extra-fresh"/>
+    <title>Dove Soap Extra Fresh</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/dove2.jpg?v=1621284681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dove<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Dove Men+Care Soap Extra Fresh 3.17 oz, 3 Bars</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Dove Men+Care Extra Fresh Body and Face Bar thoroughly cleanses and hydrates for healthier, stronger skin versus regular bar soap</li>
+<li data-mce-fragment="1">Made with 1/4 moisturizing cream - thoroughly cleans skin without leaving it feel dry or tight</li>
+<li data-mce-fragment="1">Patented design with unique technology developed for men's skin</li>
+<li data-mce-fragment="1">Revitalizing formula, provides fresh, clean feeling that rinses off easily</li>
+<li data-mce-fragment="1">Fights skin dryness for total skin comfort and the extra refreshment you want</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6576016392278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6576014426198</id>
+    <published>2021-05-17T16:46:56-04:00</published>
+    <updated>2021-05-17T16:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/irish-spring-original-deodorant-bar-soap"/>
+    <title>Irish Spring Original, Deodorant Bar Soap,</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Irish Spring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/iris1.jpg?v=1621284417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Irish Spring<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            11.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="prod-ProductTitle prod-productTitle-buyBox font-bold" data-mce-fragment="1" content="Irish Spring Original, Deodorant Bar Soap, 3.7 Ounce, 12 Bar Pack" itemprop="name">Irish Spring Original, Deodorant Bar Soap, 3.7 Ounce, 12 Bar Pack</h1>
+<p><span>Irish Spring Original bar soap delivers the gentle and caring formula you love, with a fresh, clean, and invigorating scent to leave you refreshed. Irish Spring Original Deodorant Bar Soap provides 12-hour deodorant protection, so you can feel fresh throughout the day.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6576014426198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080111702</id>
+    <published>2021-04-01T03:16:39-04:00</published>
+    <updated>2021-04-01T03:16:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-london-soaps-perfume-by-yardley-london-royal-red-roses-luxury-soap"/>
+    <title>Yardley London Soaps Royal Red Roses Luxury Soap By Yardley London</title>
+    <s:type>Royal Red Roses Luxury Soap</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYWL.jpg?v=1617827423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Royal Red Roses Luxury Soap<br>
+        <strong>Price: </strong>
+            13.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley London Soaps Perfume by Yardley London, Yardley london has been making soaps with natural ingredients that have essential oils since 1770. Yardley london soaps are well-known among beauty-conscious women as the best in the market. The company has different soap collections wherein each of them has something unique to offer for every woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080111702</id>
+      <title>3.5 oz Royal Red Roses Luxury Soap</title>
+      <s:price currency="USD">13.11</s:price>
+      <s:sku>550757</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080078934</id>
+    <published>2021-04-01T03:16:38-04:00</published>
+    <updated>2021-04-01T03:16:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-london-soaps-perfume-by-yardley-london-oatmeal-almond-naturally-moisturizing-bath-bar"/>
+    <title>Yardley London Soaps Oatmeal &amp; Almond Naturally Moisturizing Bath Bar By Yardley London</title>
+    <s:type>Oatmeal &amp; Almond Naturally Moisturizing Bath Bar</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OATALMW.jpg?v=1617827421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Oatmeal &amp; Almond Naturally Moisturizing Bath Bar<br>
+        <strong>Price: </strong>
+            11.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley London Soaps Perfume by Yardley London, Yardley london has been making soaps with natural ingredients that have essential oils since 1770. Yardley london soaps are well-known among beauty-conscious women as the best in the market. The company has different soap collections wherein each of them has something unique to offer for every woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080078934</id>
+      <title>4.25 oz Oatmeal &amp; Almond Naturally Moisturizing Bath Bar</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>483413</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080046166</id>
+    <published>2021-04-01T03:16:37-04:00</published>
+    <updated>2021-04-01T03:16:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-london-soaps-perfume-by-yardley-london-lemon-verbena-naturally-moisturizing-bath-bar"/>
+    <title>Yardley London Soaps Lemon Verbena Naturally Moisturizing Bath Bar By Yardley London</title>
+    <s:type>Lemon Verbena Naturally Moisturizing Bath Bar</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARLOLVW.jpg?v=1617827424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Lemon Verbena Naturally Moisturizing Bath Bar<br>
+        <strong>Price: </strong>
+            11.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley London Soaps Perfume by Yardley London, Yardley london has been making soaps with natural ingredients that have essential oils since 1770. Yardley london soaps are well-known among beauty-conscious women as the best in the market. The company has different soap collections wherein each of them has something unique to offer for every woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080046166</id>
+      <title>4.25 oz Lemon Verbena Naturally Moisturizing Bath Bar</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>483411</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080013398</id>
+    <published>2021-04-01T03:16:36-04:00</published>
+    <updated>2021-04-01T03:16:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-london-soaps-perfume-by-yardley-london-imperial-sandalwood-luxury-soap"/>
+    <title>Yardley London Soaps Imperial Sandalwood Luxury Soap By Yardley London</title>
+    <s:type>Imperial Sandalwood Luxury Soap</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYWM.jpg?v=1617827422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Imperial Sandalwood Luxury Soap<br>
+        <strong>Price: </strong>
+            13.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley London Soaps Perfume by Yardley London, Yardley london has been making soaps with natural ingredients that have essential oils since 1770. Yardley london soaps are well-known among beauty-conscious women as the best in the market. The company has different soap collections wherein each of them has something unique to offer for every woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080013398</id>
+      <title>3.5 oz Imperial Sandalwood Luxury Soap</title>
+      <s:price currency="USD">13.15</s:price>
+      <s:sku>550758</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556079980630</id>
+    <published>2021-04-01T03:16:35-04:00</published>
+    <updated>2021-04-01T03:16:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yardley-london-soaps-perfume-by-yardley-london-imperial-jasmin-luxury-soap"/>
+    <title>Yardley London Soaps Imperial Jasmin Luxury Soap By Yardley London</title>
+    <s:type>Imperial Jasmin Luxury Soap</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YARYW7E.jpg?v=1617827422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>Imperial Jasmin Luxury Soap<br>
+        <strong>Price: </strong>
+            13.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yardley London Soaps Perfume by Yardley London, Yardley london has been making soaps with natural ingredients that have essential oils since 1770. Yardley london soaps are well-known among beauty-conscious women as the best in the market. The company has different soap collections wherein each of them has something unique to offer for every woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556079980630</id>
+      <title>3.5 oz Imperial Jasmin Luxury Soap</title>
+      <s:price currency="USD">13.15</s:price>
+      <s:sku>550756</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075851862</id>
+    <published>2021-04-01T03:14:02-04:00</published>
+    <updated>2021-04-01T03:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-jasmine-perfume-by-woods-of-windsor-three-2-1-oz-luxury-soaps"/>
+    <title>White Jasmine Three 2.1 oz Luxury Soaps By Woods Of Windsor</title>
+    <s:type>Three 2.1 oz Luxury Soaps</s:type>
+    <s:vendor>Woods Of Windsor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WJ21LS.jpg?v=1617827242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Woods Of Windsor<br>
+        <strong>Type: </strong>Three 2.1 oz Luxury Soaps<br>
+        <strong>Price: </strong>
+            20.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Jasmine Perfume by Woods of Windsor, Classy, fresh and uplifting, the white jasmine fragrance by woods of windsor offers distinctive, long lasting effect that is bound to linger on you and everyone else. Launched in 2010, its exotic aroma is created by seamlessly combining fresh leafy top notes with refined floral heart of jasmine and the exotic bloom of ylang ylang. The base note of sandalwood and moss completes this aromatic whiff.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075851862</id>
+      <title>2.1 oz Three 2.1 oz Luxury Soaps</title>
+      <s:price currency="USD">20.21</s:price>
+      <s:sku>538836</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556058812502</id>
+    <published>2021-04-01T03:02:53-04:00</published>
+    <updated>2021-04-01T03:02:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/true-rose-perfume-by-woods-of-windsor-three-2-1-oz-luxury-soaps"/>
+    <title>True Rose Three 2.1 oz Luxury Soaps By Woods Of Windsor</title>
+    <s:type>Three 2.1 oz Luxury Soaps</s:type>
+    <s:vendor>Woods Of Windsor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TRLS3.jpg?v=1617826634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Woods Of Windsor<br>
+        <strong>Type: </strong>Three 2.1 oz Luxury Soaps<br>
+        <strong>Price: </strong>
+            19.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Rose Perfume by Woods of Windsor, Woods of windsor has designed this irresistible perfume. It is called true rose and fans of the pretty flower will appreciate the work that has been put in to this bottle. This fragrance for women was launched way back in 2002 but it still is one of the popular ones today.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556058812502</id>
+      <title>2.1 oz Three 2.1 oz Luxury Soaps</title>
+      <s:price currency="USD">19.11</s:price>
+      <s:sku>538831</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556058779734</id>
+    <published>2021-04-01T03:02:52-04:00</published>
+    <updated>2021-04-01T03:02:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/true-rose-perfume-by-woods-of-windsor-soap"/>
+    <title>True Rose Soap By Woods Of Windsor</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Woods Of Windsor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TRUWWK.jpg?v=1617826626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Woods Of Windsor<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Rose Perfume by Woods of Windsor, Woods of windsor has designed this irresistible perfume. It is called true rose and fans of the pretty flower will appreciate the work that has been put in to this bottle. This fragrance for women was launched way back in 2002 but it still is one of the popular ones today.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556058779734</id>
+      <title>6.7 oz Soap</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>552624</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047310934</id>
+    <published>2021-04-01T02:55:01-04:00</published>
+    <updated>2021-04-01T02:55:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-soap"/>
+    <title>Tabac Soap By Maurer &amp; Wirtz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABMM53SG.jpg?v=1617826276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            15.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047310934</id>
+      <title>5.3 oz Soap</title>
+      <s:price currency="USD">15.13</s:price>
+      <s:sku>547607</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047245398</id>
+    <published>2021-04-01T02:54:58-04:00</published>
+    <updated>2021-04-01T02:54:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-shaving-soap-with-bowl"/>
+    <title>Tabac Shaving Soap with Bowl By Maurer &amp; Wirtz</title>
+    <s:type>Shaving Soap with Bowl</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABACSH44.jpg?v=1617826268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Shaving Soap with Bowl<br>
+        <strong>Price: </strong>
+            26.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047245398</id>
+      <title>4.4 oz Shaving Soap with Bowl</title>
+      <s:price currency="USD">26.22</s:price>
+      <s:sku>426747</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047212630</id>
+    <published>2021-04-01T02:54:57-04:00</published>
+    <updated>2021-04-01T02:54:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-shaving-soap-refill"/>
+    <title>Tabac Shaving Soap Refill By Maurer &amp; Wirtz</title>
+    <s:type>Shaving Soap Refill</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABASHVR.jpg?v=1617826268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Shaving Soap Refill<br>
+        <strong>Price: </strong>
+            23.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047212630</id>
+      <title>4.4 oz Shaving Soap Refill</title>
+      <s:price currency="USD">23.22</s:price>
+      <s:sku>454242</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027945046</id>
+    <published>2021-04-01T02:41:48-04:00</published>
+    <updated>2021-04-01T02:41:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royall-rugby-cologne-by-royall-fragrances-face-and-body-bar-soap"/>
+    <title>Royall Rugby Face and Body Bar Soap By Royall Fragrances</title>
+    <s:type>Face and Body Bar Soap</s:type>
+    <s:vendor>Royall Fragrances</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RR8S.jpg?v=1617825625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royall Fragrances<br>
+        <strong>Type: </strong>Face and Body Bar Soap<br>
+        <strong>Price: </strong>
+            18.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royall Rugby Cologne by Royall Fragrances, Mysterious and edgy, royall rugby for men is as versatile as you are. Introduced in 2011 by royall fragrances, this scent offers rich notes of patchouli, vetiver and black currant with a touch of geranium leaves for a unique scent that is suitable for any man. Wear it when you want to present a professional and put-together appearance at work or make sure you've added that final touch for a night out on the town.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027945046</id>
+      <title>8 oz Face and Body Bar Soap</title>
+      <s:price currency="USD">18.33</s:price>
+      <s:sku>536072</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027781206</id>
+    <published>2021-04-01T02:41:41-04:00</published>
+    <updated>2021-04-01T02:41:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royall-lyme-cologne-by-royall-fragrances-face-and-body-bar-soap"/>
+    <title>Royall Lyme Face and Body Bar Soap By Royall Fragrances</title>
+    <s:type>Face and Body Bar Soap</s:type>
+    <s:vendor>Royall Fragrances</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RLSB8.jpg?v=1617825624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royall Fragrances<br>
+        <strong>Type: </strong>Face and Body Bar Soap<br>
+        <strong>Price: </strong>
+            16.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royall Lyme Cologne by Royall Fragrances, Royall lyme is a classic scent that was launched in 1957. The secret blend of spices from all over the world have lead this timeless classic that is zestful. Royall lyme can be used as after shave or a body cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027781206</id>
+      <title>8 oz Face and Body Bar Soap</title>
+      <s:price currency="USD">16.22</s:price>
+      <s:sku>467382</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556007923798</id>
+    <published>2021-04-01T02:28:26-04:00</published>
+    <updated>2021-04-01T02:28:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pino-silvestre-cologne-by-pino-silvestre-soap"/>
+    <title>Pino Silvestre Soap By Pino Silvestre</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Pino Silvestre</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PSTS48.jpg?v=1617824890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pino Silvestre<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            14.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pino Silvestre Cologne by Pino Silvestre, Launched by the design house of pino sylvestre in 1955. It is the result of the following top fragrance notes: bergamot, basil and lemon. The middle notes are: juniper, cedar and tree moss and the base of the fragrance is: pine, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556007923798</id>
+      <title>4.8 oz Soap</title>
+      <s:price currency="USD">14.21</s:price>
+      <s:sku>545197</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992784982</id>
+    <published>2021-04-01T02:19:39-04:00</published>
+    <updated>2021-04-01T02:19:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-paraiba-perfume-by-bvlgari-soap"/>
+    <title>Omnia Paraiba Soap By Bvlgari</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMNBWK.jpg?v=1617824480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            24.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Paraiba Perfume by Bvlgari, Experience the serene divinity of this cool, refreshing scent of omnia paraiba by bulgari. This tropical mist will let you escape the busy world of the city, bringing you to the relaxing scent of paradise. With the breeze of its scent that gently revitalizes the body, this fragrance will surely give you a one of a kind refreshing look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992784982</id>
+      <title>5.3 oz Soap</title>
+      <s:price currency="USD">24.33</s:price>
+      <s:sku>555189</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555972993110</id>
+    <published>2021-04-01T02:05:59-04:00</published>
+    <updated>2021-04-01T02:05:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/miss-dior-miss-dior-cherie-perfume-by-christian-dior-soap"/>
+    <title>Miss Dior (miss Dior Cherie) Soap By Christian Dior</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MD5OZS.jpg?v=1617823743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Miss Dior (miss Dior Cherie) Perfume by Christian Dior, Introducing miss dior (miss dior cherie) perfume created by christian dior. Miss dior cherie perfume is a new interpretation of a classic. Miss dior cherie eau de parfum comes out of the christian dior design house.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555972993110</id>
+      <title>5 oz Soap</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>518197</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555964145750</id>
+    <published>2021-04-01T02:00:10-04:00</published>
+    <updated>2021-04-01T02:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/maja-perfume-by-myrurgia-soap-3-pack"/>
+    <title>Maja Soap (3 pack) By Myrurgia</title>
+    <s:type>Soap (3 pack)</s:type>
+    <s:vendor>Myrurgia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MW31S.jpg?v=1617823481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Myrurgia<br>
+        <strong>Type: </strong>Soap (3 pack)<br>
+        <strong>Price: </strong>
+            17.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maja Perfume by Myrurgia, Launched by the design house of myrurgia in 1921, maja is classified as a refined, subtle, oriental fragrance. This feminine scent possesses a blend of a balanced blend of citrus, lavender, spice and woods. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555964145750</id>
+      <title>3.1 oz Soap</title>
+      <s:price currency="USD">17.13</s:price>
+      <s:sku>481484</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555963916374</id>
+    <published>2021-04-01T02:00:04-04:00</published>
+    <updated>2021-04-01T02:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/maja-perfume-by-myrurgia-3-soap-cakes"/>
+    <title>Maja 3 Soap Cakes By Myrurgia</title>
+    <s:type>3 Soap Cakes</s:type>
+    <s:vendor>Myrurgia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MWS49.jpg?v=1617823471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Myrurgia<br>
+        <strong>Type: </strong>3 Soap Cakes<br>
+        <strong>Price: </strong>
+            20.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maja Perfume by Myrurgia, Launched by the design house of myrurgia in 1921, maja is classified as a refined, subtle, oriental fragrance. This feminine scent possesses a blend of a balanced blend of citrus, lavender, spice and woods. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555963916374</id>
+      <title>4.9 oz 3 Soap Cakes</title>
+      <s:price currency="USD">20.21</s:price>
+      <s:sku>462018</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555956183126</id>
+    <published>2021-04-01T01:55:53-04:00</published>
+    <updated>2021-04-01T01:55:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lily-of-the-valley-yardley-perfume-by-yardley-london-3-x-3-5-oz-soap"/>
+    <title>Lily Of The Valley Yardley 3 x 3.5 oz Soap By Yardley London</title>
+    <s:type>3 x 3.5 oz Soap</s:type>
+    <s:vendor>Yardley London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LOTYS.jpg?v=1617823279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yardley London<br>
+        <strong>Type: </strong>3 x 3.5 oz Soap<br>
+        <strong>Price: </strong>
+            18.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lily Of The Valley Yardley Perfume by Yardley London, Lilies grow all over the countryside in england; they are white flowers that are delicate in nature. Yardley london has bottled their scent and launched the lily of the valley in 2011 that is perfect for all occasions. It provides a fresh and strong scent that will linger for a long time on the wearer and invigorate the wearer’s senses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555956183126</id>
+      <title>3.5 oz 3 x 3.5 oz Soap</title>
+      <s:price currency="USD">18.33</s:price>
+      <s:sku>535326</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555956150358</id>
+    <published>2021-04-01T01:55:52-04:00</published>
+    <updated>2021-04-01T01:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lily-of-the-valley-woods-of-windsor-perfume-by-woods-of-windsor-three-2-1-oz-luxury-soaps"/>
+    <title>Lily Of The Valley (woods Of Windsor) Three 2.1 oz Luxury Soaps By Woods Of Windsor</title>
+    <s:type>Three 2.1 oz Luxury Soaps</s:type>
+    <s:vendor>Woods Of Windsor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LOTH321S.jpg?v=1617823278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Woods Of Windsor<br>
+        <strong>Type: </strong>Three 2.1 oz Luxury Soaps<br>
+        <strong>Price: </strong>
+            21.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lily Of The Valley (woods Of Windsor) Perfume by Woods of Windsor, This green floral scent for women is crisp and fresh. An uplifting fragrance, the composition features orange blossom, musk, green leaves, lemon and lily-of-the-valley. Perfect for daywear, it captures the fleeting scent of spring all year long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555956150358</id>
+      <title>2.1 oz Three 2.1 oz Luxury Soaps</title>
+      <s:price currency="USD">21.22</s:price>
+      <s:sku>538834</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555956117590</id>
+    <published>2021-04-01T01:55:51-04:00</published>
+    <updated>2021-04-01T01:55:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lily-of-the-valley-woods-of-windsor-perfume-by-woods-of-windsor-soap"/>
+    <title>Lily Of The Valley (woods Of Windsor) Soap By Woods Of Windsor</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Woods Of Windsor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LILWWX.jpg?v=1617823268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Woods Of Windsor<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            19.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lily Of The Valley (woods Of Windsor) Perfume by Woods of Windsor, This green floral scent for women is crisp and fresh. An uplifting fragrance, the composition features orange blossom, musk, green leaves, lemon and lily-of-the-valley. Perfect for daywear, it captures the fleeting scent of spring all year long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555956117590</id>
+      <title>6.7 oz Soap</title>
+      <s:price currency="USD">19.88</s:price>
+      <s:sku>552625</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555950514262</id>
+    <published>2021-04-01T01:52:31-04:00</published>
+    <updated>2021-04-01T01:52:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lavender-perfume-by-woods-of-windsor-fine-english-soap"/>
+    <title>Lavender Fine English Soap By Woods Of Windsor</title>
+    <s:type>Fine English Soap</s:type>
+    <s:vendor>Woods Of Windsor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LS360.jpg?v=1617823050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Woods Of Windsor<br>
+        <strong>Type: </strong>Fine English Soap<br>
+        <strong>Price: </strong>
+            18.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender Perfume by Woods of Windsor, Lavender by woods of windsor is a fragrance for women that was first introduced in 1974. Whether you wear this perfume during the day or night, you cannot escape the simple, pleasant and natural smell of lavendar dotted with vanilla. This exquisite fragrance features rosemary, amber and lavender wonderfully.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555950514262</id>
+      <title>3  x 2.1 oz Fine English Soap</title>
+      <s:price currency="USD">18.33</s:price>
+      <s:sku>540940</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555926528086</id>
+    <published>2021-04-01T01:37:38-04:00</published>
+    <updated>2021-04-01T01:37:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/jennifer-aniston-perfume-by-jennifer-aniston-fragrance-mist"/>
+    <title>Jennifer Aniston Perfume Soap</title>
+    <s:type>Fragrance Mist</s:type>
+    <s:vendor>Jennifer Aniston</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/JENJWG.jpg?v=1617822304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jennifer Aniston<br>
+        <strong>Type: </strong>Fragrance Mist<br>
+        <strong>Price: </strong>
+            16.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jennifer Aniston Perfume by Jennifer Aniston, Introduced in february 2011 by the design house of jennifer aniston, this delightful fragrance combines the fresh and sparkling scents of the sea mixed with clean soap and fresh floral notes. This invigorating and refreshing fragrance by jennifer aniston is ideal for the woman who is ready to face each day with a fresh and positive attitude. Opening top notes are comprised of soap and sea spray.</p>
+<p>Fragrance Mist By Jennifer Aniston</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555926528086</id>
+      <title>8 oz Fragrance Mist</title>
+      <s:price currency="USD">16.22</s:price>
+      <s:sku>552002</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

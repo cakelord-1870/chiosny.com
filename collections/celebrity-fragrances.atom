@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/celebrity-fragrances.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:15:05-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556077621334</id>
+    <published>2021-04-01T03:15:05-04:00</published>
+    <updated>2021-04-01T03:15:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-perfume-by-taylor-swift-scented-tattoo"/>
+    <title>Wonderstruck Scented Tattoo By Taylor Swift</title>
+    <s:type>Scented Tattoo</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WONDSCTAT.jpg?v=1617827292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Scented Tattoo<br>
+        <strong>Price: </strong>
+            20.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Perfume by Taylor Swift, The celebrated pop singer taylor swift in co-operation with the distinguished elizabeth arden launched her fragrance wonderstruck in 2011. The nose of the perfume is olivier gillotin of givaudan. The inspiration has been drawn from her song ‘enchanted'—the same effect that this fragrance creates at first meetings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077621334</id>
+      <title>1 pc Scented Tattoo</title>
+      <s:price currency="USD">20.50</s:price>
+      <s:sku>535103</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077555798</id>
+    <published>2021-04-01T03:15:04-04:00</published>
+    <updated>2021-04-01T03:15:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-perfume-by-taylor-swift-mini-edp"/>
+    <title>Wonderstruck Mini EDP By Taylor Swift</title>
+    <s:type>Mini EDP</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WS17MP.jpg?v=1617827291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Mini EDP<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Perfume by Taylor Swift, The celebrated pop singer taylor swift in co-operation with the distinguished elizabeth arden launched her fragrance wonderstruck in 2011. The nose of the perfume is olivier gillotin of givaudan. The inspiration has been drawn from her song ‘enchanted'—the same effect that this fragrance creates at first meetings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077555798</id>
+      <title>0.17 oz Mini EDP</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>536575</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077523030</id>
+    <published>2021-04-01T03:15:03-04:00</published>
+    <updated>2021-04-01T03:15:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-perfume-by-taylor-swift-eau-de-parfum-spray"/>
+    <title>Wonderstruck Eau De Parfum Spray By Taylor Swift</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WONDERW34.jpg?v=1617827293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Perfume by Taylor Swift, The celebrated pop singer taylor swift in co-operation with the distinguished elizabeth arden launched her fragrance wonderstruck in 2011. The nose of the perfume is olivier gillotin of givaudan. The inspiration has been drawn from her song ‘enchanted'—the same effect that this fragrance creates at first meetings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077523030</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>482537</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077490262</id>
+    <published>2021-04-01T03:15:02-04:00</published>
+    <updated>2021-04-01T03:15:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-perfume-by-taylor-swift-50-pack-scented-tatoos"/>
+    <title>Wonderstruck 50 Pack Scented Tatoos By Taylor Swift</title>
+    <s:type>50 Pack Scented Tatoos</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WSTSTATW.jpg?v=1617827295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>50 Pack Scented Tatoos<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Perfume by Taylor Swift, The celebrated pop singer taylor swift in co-operation with the distinguished elizabeth arden launched her fragrance wonderstruck in 2011. The nose of the perfume is olivier gillotin of givaudan. The inspiration has been drawn from her song ‘enchanted'—the same effect that this fragrance creates at first meetings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077490262</id>
+      <title>50 pcs 50 Pack Scented Tatoos</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>535219</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077457494</id>
+    <published>2021-04-01T03:14:59-04:00</published>
+    <updated>2021-04-01T03:14:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-enchanted-perfume-by-taylor-swift-vial-sample"/>
+    <title>Wonderstruck Enchanted Vial (sample) By Taylor Swift</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WSEVS.jpg?v=1617827294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            20.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Enchanted Perfume by Taylor Swift, Leave passersby feeling wonderstruck when you wear taylor swift's wonderstruck enchanted fragrance for women. Launched in 2012, this mesmerizing scent will hypnotize and leave those in your wake spellbound. It opens to sweet notes of wild berries and pink poppy and then takes a dreamy turn with a heart of sugar-glazed champak petals and peony blossoms.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077457494</id>
+      <title>0.05 oz Vial</title>
+      <s:price currency="USD">20.75</s:price>
+      <s:sku>533230</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077424726</id>
+    <published>2021-04-01T03:14:58-04:00</published>
+    <updated>2021-04-01T03:14:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-enchanted-perfume-by-taylor-swift-shower-gel"/>
+    <title>Wonderstruck Enchanted Shower Gel By Taylor Swift</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WONTW34SG.jpg?v=1617827294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Enchanted Perfume by Taylor Swift, Leave passersby feeling wonderstruck when you wear taylor swift's wonderstruck enchanted fragrance for women. Launched in 2012, this mesmerizing scent will hypnotize and leave those in your wake spellbound. It opens to sweet notes of wild berries and pink poppy and then takes a dreamy turn with a heart of sugar-glazed champak petals and peony blossoms.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077424726</id>
+      <title>3.4 oz Shower Gel</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>547851</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556077391958</id>
+    <published>2021-04-01T03:14:54-04:00</published>
+    <updated>2021-04-01T03:14:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wonderstruck-enchanted-perfume-by-taylor-swift-eau-de-parfum-spray"/>
+    <title>Wonderstruck Enchanted Eau De Parfum Spray By Taylor Swift</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WE1PS.jpg?v=1617827280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonderstruck Enchanted Perfume by Taylor Swift, Leave passersby feeling wonderstruck when you wear taylor swift's wonderstruck enchanted fragrance for women. Launched in 2012, this mesmerizing scent will hypnotize and leave those in your wake spellbound. It opens to sweet notes of wild berries and pink poppy and then takes a dreamy turn with a heart of sugar-glazed champak petals and peony blossoms.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556077391958</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>545299</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075688022</id>
+    <published>2021-04-01T03:13:58-04:00</published>
+    <updated>2021-04-01T03:13:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-eau-de-toilette-spray-tester"/>
+    <title>White Diamonds Eau De Toilette Spray (Tester) By Elizabeth Taylor</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WDW34T.jpg?v=1617827239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            33.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075688022</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">33.75</s:price>
+      <s:sku>446225</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075655254</id>
+    <published>2021-04-01T03:13:56-04:00</published>
+    <updated>2021-04-01T03:13:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-eau-de-toilette-spray"/>
+    <title>White Diamonds Eau De Toilette Spray By Elizabeth Taylor</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WDIO50TSW.jpg?v=1617827238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            38.40 - 39.41
+            <a href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075655254</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.41</s:price>
+      <s:sku>402475</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075655254</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>402476</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075622486</id>
+    <published>2021-04-01T03:13:55-04:00</published>
+    <updated>2021-04-01T03:13:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-eau-de-parfum-spray"/>
+    <title>White Diamonds Eau De Parfum Spray By Elizabeth Taylor</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WHDES17.jpg?v=1617827228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075622486</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>402454</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075589718</id>
+    <published>2021-04-01T03:13:54-04:00</published>
+    <updated>2021-04-01T03:13:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-dusting-powder"/>
+    <title>White Diamonds Dusting Powder By Elizabeth Taylor</title>
+    <s:type>Dusting Powder</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XWWHITBP.jpg?v=1617827230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Dusting Powder<br>
+        <strong>Price: </strong>
+            29.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075589718</id>
+      <title>2.6 oz Dusting Powder</title>
+      <s:price currency="USD">29.44</s:price>
+      <s:sku>402470</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075556950</id>
+    <published>2021-04-01T03:13:53-04:00</published>
+    <updated>2021-04-01T03:13:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-body-wash"/>
+    <title>White Diamonds Body Wash By Elizabeth Taylor</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WD68BW.jpg?v=1617827231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075556950</id>
+      <title>6.8 oz Body Wash</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>536155</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075524182</id>
+    <published>2021-04-01T03:13:52-04:00</published>
+    <updated>2021-04-01T03:13:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-perfume-by-elizabeth-taylor-body-lotion"/>
+    <title>White Diamonds Body Lotion By Elizabeth Taylor</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XWWHITBL.jpg?v=1617827232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Perfume by Elizabeth Taylor, White diamonds once again shows her exceptional sense of style.this sophisticated floral has notes of italian neroli, living amazon lily, egyptian tuberose, turkish rose, italian orris, living narcissus, living jasmine, italian sandalwood, patchouli, amber, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075524182</id>
+      <title>6.8 oz Body Lotion</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>402472</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075491414</id>
+    <published>2021-04-01T03:13:50-04:00</published>
+    <updated>2021-04-01T03:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-night-perfume-by-elizabeth-taylor-eau-de-toilette-spray-tester"/>
+    <title>White Diamonds Night Eau De Toilette Spray (Tester) By Elizabeth Taylor</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WDN1OZWT.jpg?v=1617827230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            24.35 - 36.00
+            <a href="https://chiosny.com/products/white-diamonds-night-perfume-by-elizabeth-taylor-eau-de-toilette-spray-tester">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Night Perfume by Elizabeth Taylor, Euphoric, sensual and always elegant, white diamonds night layers glowing citrus tones and heady white florals over a rich powdery musk base. The opening notes are a tart-sweet fusion of mandarin and bergamot softened by delicate apricot nuances. Luminous, intoxicating florals of freesia and night blooming jasmine emerge at the heart, followed by a luxurious, intimate finish of patchouli, resin, white musk and softest sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075491414</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">24.35</s:price>
+      <s:sku>552829</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075491414</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>545766</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075458646</id>
+    <published>2021-04-01T03:13:49-04:00</published>
+    <updated>2021-04-01T03:13:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-night-perfume-by-elizabeth-taylor-eau-de-toilette-spray"/>
+    <title>White Diamonds Night Eau De Toilette Spray By Elizabeth Taylor</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WHIEWD.jpg?v=1617827229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            27.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Night Perfume by Elizabeth Taylor, Euphoric, sensual and always elegant, white diamonds night layers glowing citrus tones and heady white florals over a rich powdery musk base. The opening notes are a tart-sweet fusion of mandarin and bergamot softened by delicate apricot nuances. Luminous, intoxicating florals of freesia and night blooming jasmine emerge at the heart, followed by a luxurious, intimate finish of patchouli, resin, white musk and softest sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075458646</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">27.38</s:price>
+      <s:sku>551998</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075425878</id>
+    <published>2021-04-01T03:13:48-04:00</published>
+    <updated>2021-04-01T03:13:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-lustre-perfume-by-elizabeth-taylor-eau-de-toilette-spray"/>
+    <title>White Diamonds Lustre Eau De Toilette Spray By Elizabeth Taylor</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WDL33WED.jpg?v=1617827229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            34.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Lustre Perfume by Elizabeth Taylor, Enjoy a new take on the classic elizabeth taylor brand of fragrances with white diamonds lustre, an enticing scent for women looking for something that's sure to capture attention. Bergamot and mandarin orange notes form its citrus base, while pear and raspberry notes add a sweet, alluring touch. Narcissus and orange blossom accents broaden this fragrance's aromatic profile, delivering mature, timeless appeal that makes it a great option for special events and date nights.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075425878</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">34.70</s:price>
+      <s:sku>514534</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075393110</id>
+    <published>2021-04-01T03:13:47-04:00</published>
+    <updated>2021-04-01T03:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-diamonds-brilliant-perfume-by-elizabeth-taylor-eau-de-toilette-spray"/>
+    <title>White Diamonds Brilliant Eau De Toilette Spray By Elizabeth Taylor</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WDB33W.jpg?v=1617827231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Diamonds Brilliant Perfume by Elizabeth Taylor, Created by elizabeth taylor in 2001, this bright and luminous fragrance blends mandarin, calla lily, rose, and sandalwood to capture the brilliance of the legendary elizabeth taylor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075393110</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>517624</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556073033814</id>
+    <published>2021-04-01T03:12:15-04:00</published>
+    <updated>2021-04-01T03:12:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vip-private-show-perfume-by-britney-spears-eau-de-parfum-spray-unboxed"/>
+    <title>Vip Private Show Eau De Parfum Spray (unboxed) By Britney Spears</title>
+    <s:type>Eau De Parfum Spray (unboxed)</s:type>
+    <s:vendor>Britney Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VIPBW1799.jpg?v=1617827134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Britney Spears<br>
+        <strong>Type: </strong>Eau De Parfum Spray (unboxed)<br>
+        <strong>Price: </strong>
+            30.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vip Private Show Perfume by Britney Spears, Vip private show is a fruity floral perfume for women. Sweet, juicy notes of addictive blood orange, red apple and exotic mango open the fragrance. The floral heart is composed of delicate orange blossom, lush magnolia and powdery violet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556073033814</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">30.45</s:price>
+      <s:sku>552757</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556073001046</id>
+    <published>2021-04-01T03:12:14-04:00</published>
+    <updated>2021-04-01T03:12:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vip-private-show-perfume-by-britney-spears-eau-de-parfum-spray"/>
+    <title>Vip Private Show Eau De Parfum Spray By Britney Spears</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Britney Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VIPBW17ED.jpg?v=1617827132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Britney Spears<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vip Private Show Perfume by Britney Spears, Vip private show is a fruity floral perfume for women. Sweet, juicy notes of addictive blood orange, red apple and exotic mango open the fragrance. The floral heart is composed of delicate orange blossom, lush magnolia and powdery violet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556073001046</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>549910</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556072902742</id>
+    <published>2021-04-01T03:12:11-04:00</published>
+    <updated>2021-04-01T03:12:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/violet-eyes-perfume-by-elizabeth-taylor-eau-de-parfum-spray"/>
+    <title>Violet Eyes Eau De Parfum Spray By Elizabeth Taylor</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VILEYS1.jpg?v=1617827133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Taylor<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Violet Eyes Perfume by Elizabeth Taylor, The captivating color of the eyes of elizabeth taylor led her to the aroma of violet eyes, 2010. The mysteries of her femininity and charm casting capabilities are entrapped in the violet flacon with a silvery neck. It is dominated by the luscious smell of rose, submerged in the floral-fruity world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556072902742</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>481877</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556062646358</id>
+    <published>2021-04-01T03:05:32-04:00</published>
+    <updated>2021-04-01T03:05:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/usher-ur-perfume-by-usher-eau-de-parfum-spray-tester"/>
+    <title>Usher Ur Eau De Parfum Spray (Tester) By Usher</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Usher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/URW34PT.jpg?v=1617826743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Usher<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            40.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Usher Ur Perfume by Usher, Pop star and actor usher launched this delectable fruity/ floral scent for women in 2008 as the feminine counterpart to his men's cologne ur. Notes include fresh peach, freesia, osmanthus, jasmine, honeysuckle, peony, woodsy notes, musk and praline.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556062646358</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">40.77</s:price>
+      <s:sku>483593</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556062613590</id>
+    <published>2021-04-01T03:05:31-04:00</published>
+    <updated>2021-04-01T03:05:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/usher-ur-perfume-by-usher-eau-de-parfum-spray"/>
+    <title>Usher Ur Eau De Parfum Spray By Usher</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Usher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/USH34WUR.jpg?v=1617826745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Usher<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            33.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Usher Ur Perfume by Usher, Pop star and actor usher launched this delectable fruity/ floral scent for women in 2008 as the feminine counterpart to his men's cologne ur. Notes include fresh peach, freesia, osmanthus, jasmine, honeysuckle, peony, woodsy notes, musk and praline.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556062613590</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">33.46</s:price>
+      <s:sku>457795</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556062580822</id>
+    <published>2021-04-01T03:05:30-04:00</published>
+    <updated>2021-04-01T03:05:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/usher-ur-perfume-by-usher-body-wash"/>
+    <title>Usher Ur Body Wash By Usher</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Usher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/URW67BW.jpg?v=1617826745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Usher<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Usher Ur Perfume by Usher, Pop star and actor usher launched this delectable fruity/ floral scent for women in 2008 as the feminine counterpart to his men's cologne ur. Notes include fresh peach, freesia, osmanthus, jasmine, honeysuckle, peony, woodsy notes, musk and praline.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556062580822</id>
+      <title>6.7 oz Body Wash</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>458831</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556062548054</id>
+    <published>2021-04-01T03:05:28-04:00</published>
+    <updated>2021-04-01T03:05:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/usher-ur-cologne-by-usher-mini-edt-spray"/>
+    <title>Usher Ur Mini EDT Spray By Usher</title>
+    <s:type>Mini EDT Spray</s:type>
+    <s:vendor>Usher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/USMM.jpg?v=1617826743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Usher<br>
+        <strong>Type: </strong>Mini EDT Spray<br>
+        <strong>Price: </strong>
+            22.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Usher Ur Cologne by Usher, For the youthful man seeking a casual scent for every day wear usher ur by usher strikes just the right aromatic note. Created in 2008, this contemporary fragrance for men is clean and smooth like its namesake. It features cool aquatic notes like sea water combined with fruity notes and spices such as nutmeg, bay leaf and basil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556062548054</id>
+      <title>0.17 oz Mini EDT Spray</title>
+      <s:price currency="USD">22.96</s:price>
+      <s:sku>464923</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556062515286</id>
+    <published>2021-04-01T03:05:27-04:00</published>
+    <updated>2021-04-01T03:05:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/usher-ur-cologne-by-usher-eau-de-toilette-spray-tester"/>
+    <title>Usher Ur Eau De Toilette Spray (Tester) By Usher</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Usher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/URM34U.jpg?v=1617826744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Usher<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            35.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Usher Ur Cologne by Usher, For the youthful man seeking a casual scent for every day wear usher ur by usher strikes just the right aromatic note. Created in 2008, this contemporary fragrance for men is clean and smooth like its namesake. It features cool aquatic notes like sea water combined with fruity notes and spices such as nutmeg, bay leaf and basil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556062515286</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>458836</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

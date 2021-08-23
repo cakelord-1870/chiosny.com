@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/deodorant-stick.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:17:33-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556081717334</id>
+    <published>2021-04-01T03:17:33-04:00</published>
+    <updated>2021-04-01T03:17:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/zirh-ikon-cologne-by-zirh-international-alcohol-free-fragrance-deodorant-stick"/>
+    <title>Zirh Ikon Alcohol Free Fragrance Deodorant Stick By Zirh International</title>
+    <s:type>Alcohol Free Fragrance Deodorant Stick</s:type>
+    <s:vendor>Zirh International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ZIRZMS.jpg?v=1617827476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zirh International<br>
+        <strong>Type: </strong>Alcohol Free Fragrance Deodorant Stick<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zirh Ikon Cologne by Zirh International, The company that understands men's grooming introduces its first fragrance for men, a woody oriental for a man with attitude. Top notes are a spicy blend of cardamom, ginger, davano flowers and lemon. The heart notes consist of black cinnamon, cloves, iris root and french labdanum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556081717334</id>
+      <title>2.6 oz Alcohol Free Fragrance Deodorant Stick</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>551896</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556071985238</id>
+    <published>2021-04-01T03:11:37-04:00</published>
+    <updated>2021-04-01T03:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-cologne-by-vince-camuto-deodorant-stick"/>
+    <title>Vince Camuto Deodorant Stick By Vince Camuto</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VCMDS25.jpg?v=1617827105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            26.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Cologne by Vince Camuto, Entice your senses with vince camuto for men by vince camuto. This highly masculine cologne, the design house's answer to its feminine perfume, blends notes of italian bergamot and mandarin with spicy black pepper. Subtle and intriguing accents of lavender and nutmeg provide a sensuous and enjoyable scent, making it a perfect choice for a night on the town with friends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556071985238</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">26.05</s:price>
+      <s:sku>539194</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066611286</id>
+    <published>2021-04-01T03:08:14-04:00</published>
+    <updated>2021-04-01T03:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-dylan-blue-cologne-by-versace-deodorant-stick"/>
+    <title>Versace Pour Homme Dylan Blue Deodorant Stick By Versace</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VPHDB25DS.jpg?v=1617826923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            44.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Dylan Blue Cologne by Versace, Recently launched in 2016, versace pour homme dylan blue by versace provides a delicate balance of citrus, spicy and musk accords, creating an ideal daily scent. The fragrance opens with fresh top notes of water, grapefruit, fig and bergamot. These are followed by a complex middle blend of floral and woodsy violet leaf, papyrus and patchouli mixed with spicy black pepper and ambroxan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066611286</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">44.50</s:price>
+      <s:sku>542794</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066316374</id>
+    <published>2021-04-01T03:08:02-04:00</published>
+    <updated>2021-04-01T03:08:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-cologne-by-versace-deodorant-stick"/>
+    <title>Versace Pour Homme Deodorant Stick By Versace</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VPH25DS.jpg?v=1617826922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            33.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Cologne by Versace, An exciting and modern twist on a classic aromatic/fougere for men, this masculine contemporary scent was created by master perfumer alberto morillas. Top notes are citruses, neroli, bergamot and petit grain; middle notes are hyacinth, clary sage, cedar and geranium; base notes are tonka bean, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066316374</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">33.22</s:price>
+      <s:sku>542796</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065955926</id>
+    <published>2021-04-01T03:07:49-04:00</published>
+    <updated>2021-04-01T03:07:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-man-cologne-by-versace-eau-fraiche-deodorant-stick"/>
+    <title>Versace Man Eau Fraiche Deodorant Stick By Versace</title>
+    <s:type>Eau Fraiche Deodorant Stick</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/vervm25dj.jpg?v=1619014272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau Fraiche Deodorant Stick<br>
+        <strong>Price: </strong>
+            36.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Versace Man Cologne by Versace, The masculine scent of Versace Man Eau Fraiche will help the wearer feel charismatic, confident, sexy, and modern. Its clean, zesty smell reminds one of summer and sunshine, with the subtle hints of other woodsy notes underneath providing an “elegant understatement and a growingly alluring charm,” according to the classic design house Versace. Men, cologne enthusiasts, and fashion collectors will all be appreciative when given this as a gift.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065955926</id>
+      <title>2.5 oz Eau Fraiche Deodorant Stick</title>
+      <s:price currency="USD">36.44</s:price>
+      <s:sku>548308</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065398870</id>
+    <published>2021-04-01T03:07:25-04:00</published>
+    <updated>2021-04-01T03:07:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-flame-cologne-by-versace-deodorant-stick"/>
+    <title>Versace Eros Flame Deodorant Stick By Versace</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/vervm25d.jpg?v=1619014899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            28.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Flame Cologne by Versace, Named for the greek god of love, eros flame is a fragrance of passion. Spritz on a touch of this cologne and those around you will lean in closer. The scent begins with top notes of black pepper, orange, rosemary and lemon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065398870</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">28.33</s:price>
+      <s:sku>546841</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065071190</id>
+    <published>2021-04-01T03:07:07-04:00</published>
+    <updated>2021-04-01T03:07:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-cologne-by-versace-deodorant-stick"/>
+    <title>Versace Eros Deodorant Stick By Versace</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/wem25ds.jpg?v=1619014984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            33.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Cologne by Versace, You'd expect nothing less than a manly fragrance from the design house of versace, and you'll get it with versace eros, a decadent fragrance for men of distinction. This woody fresh scent has a definitive oriental vibe that is daring and adventurous-just like you. It features a crisp zing of mint oil embraced by fruity green apple and italian lemon with memorable notes of geranium flowers and venezuelan ambroxan in a succulently sensuous medley that clings to your skin all day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065071190</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">33.22</s:price>
+      <s:sku>542793</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556058943574</id>
+    <published>2021-04-01T03:02:58-04:00</published>
+    <updated>2021-04-01T03:02:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/trump-empire-cologne-by-donald-trump-deodorant-stick"/>
+    <title>Trump Empire Deodorant Stick By Donald Trump</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Donald Trump</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/201454.jpg?v=1617826637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donald Trump<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            22.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trump Empire Cologne by Donald Trump, Few people have been able to achieve the same level of success as donald trump. If you want to exude success just like him, then you need to try the cologne called trump empire. It is a masculine scent that was first launched in 2012.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556058943574</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">22.96</s:price>
+      <s:sku>536591</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047409238</id>
+    <published>2021-04-01T02:55:04-04:00</published>
+    <updated>2021-04-01T02:55:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-man-cologne-by-maurer-wirtz-deodorant-stick"/>
+    <title>Tabac Man Deodorant Stick By Maurer &amp; Wirtz</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABMM24D.jpg?v=1617826277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Man Cologne by Maurer &amp; Wirtz, Tabac man by mäurer &amp; wirtz was introduced in 2000 as a masculine scent for any man. The top notes of this aroma include, orange, mandarin, lemon, lavender, peppermint. The middle notes include, cardamom, wood, vetiver, patchouli, sandalwood and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047409238</id>
+      <title>2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">29.50</s:price>
+      <s:sku>547392</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556041445462</id>
+    <published>2021-04-01T02:51:04-04:00</published>
+    <updated>2021-04-01T02:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/success-cologne-by-donald-trump-deodorant-stick-alcohol-free"/>
+    <title>Success Deodorant Stick Alcohol Free By Donald Trump</title>
+    <s:type>Deodorant Stick Alcohol Free</s:type>
+    <s:vendor>Donald Trump</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SUC25DS.jpg?v=1617826037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donald Trump<br>
+        <strong>Type: </strong>Deodorant Stick Alcohol Free<br>
+        <strong>Price: </strong>
+            23.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Success Cologne by Donald Trump, This fragrance was created by donald trump and perfumer yann vasnier. Released in 2012, this is a spicy woodsy scent that is very pleasing and always classy. It has top notes of coriander, iced red currant and juniper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556041445462</id>
+      <title>2.5 oz Deodorant Stick Alcohol Free</title>
+      <s:price currency="USD">23.24</s:price>
+      <s:sku>540521</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556035809366</id>
+    <published>2021-04-01T02:47:07-04:00</published>
+    <updated>2021-04-01T02:47:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/silver-shadow-altitude-cologne-by-davidoff-deodorant-stick"/>
+    <title>Silver Shadow Altitude Deodorant Stick By Davidoff</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SSHADOW24DS.jpg?v=1617825868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            35.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Shadow Altitude Cologne by Davidoff, The second in the series of silver shadow fragrances for men, altitude, was created by perfumer jean jaques. This is a scent for a man who takes risks and lives for adventure. The fragrance opens with a burst of juniper berry, grapefruit and green pepper, meeting a spicy heart composed of cumin, curcuma, cardamom, lovage and white cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556035809366</id>
+      <title>2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">35.92</s:price>
+      <s:sku>458929</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556032499798</id>
+    <published>2021-04-01T02:45:00-04:00</published>
+    <updated>2021-04-01T02:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sexual-cologne-by-michel-germain-deodorant-stick"/>
+    <title>Sexual Deodorant Stick By Michel Germain</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Michel Germain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SEXMM26D.jpg?v=1617825762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Germain<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sexual Cologne by Michel Germain, Many men seek out colognes that will grab the attention of women they meet throughout the course of an evening or even just to impress that one special lady in their life. If you want to accomplish that with gusto, then you need to get sexual by michel germain. This fragrance for men contains tops notes of italian bergamot and indian basil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556032499798</id>
+      <title>2.8 oz Deodorant Stick</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>547143</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556009627734</id>
+    <published>2021-04-01T02:29:31-04:00</published>
+    <updated>2021-04-01T02:29:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/polo-black-cologne-by-ralph-lauren-deodorant-stick"/>
+    <title>Polo Black Deodorant Stick By Ralph Lauren</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/POLOBL25DS.jpg?v=1617824941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            41.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polo Black Cologne by Ralph Lauren, This phenomenal fragrance was created by ralph lauren, in 2005. Its incredible scent includes a mixture of iced mango, spanish sage, patchouli noir, sandalwood, and tonka bean. This amazing cologne would make a great gift for any occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556009627734</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">41.35</s:price>
+      <s:sku>425332</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990556758</id>
+    <published>2021-04-01T02:18:07-04:00</published>
+    <updated>2021-04-01T02:18:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-deodorant-stick"/>
+    <title>Obsession Deodorant Stick By Calvin Klein</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMDS26.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            27.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Cologne by Calvin Klein, Launched by the design house of calvin klein in 1986, obsession is classified as a refreshing, oriental, woody fragrance.this masculine scent possesses a blend of lavender, mandarin, clove, nutmeg and amber. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990556758</id>
+      <title>2.6 oz Deodorant Stick</title>
+      <s:price currency="USD">27.74</s:price>
+      <s:sku>524815</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955069014</id>
+    <published>2021-04-01T01:55:12-04:00</published>
+    <updated>2021-04-01T01:55:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-cologne-by-dolce-gabbana-deodorant-stick"/>
+    <title>Light Blue Deodorant Stick By Dolce &amp; Gabbana</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/lbm24ds_6c294186-e95f-4460-be95-226f6f956811.jpg?v=1629300140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            31.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Cologne by Dolce &amp; Gabbana, It starts with sicilian mandarin combined with frozen grapefruit peel, bergamot and juniper. Heart notes of rosemary, szechuan pepper and rosewood, and the mix is rounded out with base notes of musk wood, incense and oak moss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955069014</id>
+      <title>2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">31.22</s:price>
+      <s:sku>458156</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555952775254</id>
+    <published>2021-04-01T01:53:42-04:00</published>
+    <updated>2021-04-01T01:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/leau-dissey-issey-miyake-cologne-by-issey-miyake-deodorant-stick"/>
+    <title>L&apos;eau D&apos;issey (issey Miyake) Deodorant Stick By Issey Miyake</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Issey Miyake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LDI25DS.jpg?v=1617823114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Issey Miyake<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            41.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'eau D'issey (issey Miyake) Cologne by Issey Miyake, Launched by the design house of issey miyake in 1994, l\'eau d\'issey is classified as a refined, aquatic fragrance. This masculine scent possesses a blend of citrus and spice combined with lower notes of musk, amber and woods. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555952775254</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">41.35</s:price>
+      <s:sku>464082</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555925512278</id>
+    <published>2021-04-01T01:37:09-04:00</published>
+    <updated>2021-04-01T01:37:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/jean-paul-gaultier-cologne-by-jean-paul-gaultier-deodorant-stick"/>
+    <title>Jean Paul Gaultier Deodorant Stick By Jean Paul Gaultier</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/JEGMD.jpg?v=1617822282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            44.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jean Paul Gaultier Cologne by Jean Paul Gaultier, The design house of Jean Paul Gaultier launched Le Male cologne in 1995. The now-famous and recognizable Jean Paul Gaultier Le Male perfume succeeds in its appeal to a wide range of men thanks to its unique blend of woody undertones with sharp, oriental scents. This sexy, simple scent is now sometimes colloquially known as the “man in a can” due to its unique packaging.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555925512278</id>
+      <title>2.6 oz Deodorant Stick</title>
+      <s:price currency="USD">44.73</s:price>
+      <s:sku>414344</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555921317974</id>
+    <published>2021-04-01T01:34:28-04:00</published>
+    <updated>2021-04-01T01:34:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/invictus-cologne-by-paco-rabanne-deodorant-stick"/>
+    <title>Invictus Deodorant Stick By Paco Rabanne</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/IN25DST.jpg?v=1617822154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            34.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Invictus Cologne by Paco Rabanne, If you're in need of a midday refresher, spray invictus on yourself to liven up your day. This men's fragrance reveals a number of notes, including hints of grapefruit, hedione jasmine, patchouli, bay leaves, and oak moss. Launched by paco rabanne in 2013, this delightful fragrance is perfect for the man who wants to always be at his best.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555921317974</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>516903</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915518038</id>
+    <published>2021-04-01T01:30:25-04:00</published>
+    <updated>2021-04-01T01:30:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hugo-cologne-by-hugo-boss-deodorant-stick"/>
+    <title>Hugo Deodorant Stick By Hugo Boss</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Hugo Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HUOMD.jpg?v=1617821926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hugo Boss<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            36.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hugo Cologne by Hugo Boss, Launched by the design house of hugo boss in 1995, hugo is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of woods, fresh citrus and spicy leaves. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915518038</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">36.78</s:price>
+      <s:sku>414052</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555911290966</id>
+    <published>2021-04-01T01:27:30-04:00</published>
+    <updated>2021-04-01T01:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/halston-z-14-cologne-by-halston-deodorant-stick"/>
+    <title>Halston Z-14 Deodorant Stick By Halston</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Halston</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/Z14DS25M.jpg?v=1617821796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halston<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            14.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halston Z-14 Cologne by Halston, Created by the design house of halston in 1976, halston z-14 is classified as a sharp, woody, mossy fragrance. This masculine scent possesses a blend of cedar, amber, and lasting citrus.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555911290966</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">14.22</s:price>
+      <s:sku>535488</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555908505686</id>
+    <published>2021-04-01T01:25:29-04:00</published>
+    <updated>2021-04-01T01:25:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/guerlain-homme-cologne-by-guerlain-deodorant-stick"/>
+    <title>Guerlain Homme Deodorant Stick By Guerlain</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Guerlain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/GHDS25.jpg?v=1617821697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Guerlain<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Guerlain Homme Cologne by Guerlain, The first masculine fragrance under the direction of house perfumer thierry wasser, this is a aromatic/citrus for men. The fragrance is built around a 'mojito' accord composed around the ingredients of this popular cocktail (lime, mint, rum). The woody drydown blends vetiver and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555908505686</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">32.50</s:price>
+      <s:sku>464053</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555908276310</id>
+    <published>2021-04-01T01:25:20-04:00</published>
+    <updated>2021-04-01T01:25:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/gucci-pour-homme-sport-cologne-by-gucci-deodorant-stick"/>
+    <title>Gucci Pour Homme Sport Deodorant Stick By Gucci</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ggsmd25_b5d650a7-49c1-48e0-910e-6fdf88df66a7.jpg?v=1619029333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            39.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gucci Pour Homme Sport Cologne by Gucci, This is an aromatic spicy fragrance for men. Top notes are lavender, bergamot, amalfi lemon and basil; middle notes are carnation, iris, jasmine, geranium, sandalwood, patchouli, virginia cedar, spices and pepper; base notes are musk, french labdanum, oakmoss, amber, tonka bean, vanilla and leather.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555908276310</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">39.33</s:price>
+      <s:sku>501682</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555906703446</id>
+    <published>2021-04-01T01:24:10-04:00</published>
+    <updated>2021-04-01T01:24:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/grey-flannel-cologne-by-geoffrey-beene-deodorant-stick"/>
+    <title>Grey Flannel Deodorant Stick By Geoffrey Beene</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Geoffrey Beene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/GF25DS.jpg?v=1617821640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geoffrey Beene<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            23.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grey Flannel Cologne by Geoffrey Beene, Created by the design house of geoffrey beane in 1976, grey flannel is classified as a luxurious, oriental, woody fragrance. This masculine scent possesses a blend of lemon, orange, violet, cinnamon and rose. Accompanied by woody notes of oak and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555906703446</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>535453</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555901984854</id>
+    <published>2021-04-01T01:20:55-04:00</published>
+    <updated>2021-04-01T01:20:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/fubu-heritage-cologne-by-fubu-deodorant-stick-alcohol-free"/>
+    <title>Fubu Heritage Deodorant Stick (Alcohol Free) By Fubu</title>
+    <s:type>Deodorant Stick (Alcohol Free)</s:type>
+    <s:vendor>Fubu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/FUBFAA.jpg?v=1617821487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fubu<br>
+        <strong>Type: </strong>Deodorant Stick (Alcohol Free)<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fubu Heritage Cologne by Fubu, This fragrance is from the fashion house of fubu. Fubu originally stood for five urban brothers united but in more recent years they have changed that to be for us by us. This fragrance was released in 2002.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555901984854</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>554254</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555892613206</id>
+    <published>2021-04-01T01:14:54-04:00</published>
+    <updated>2021-04-01T01:14:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/euphoria-cologne-by-calvin-klein-deodorant-stick"/>
+    <title>Euphoria Deodorant Stick By Calvin Klein</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EUDS25.jpg?v=1617821147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            28.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euphoria Cologne by Calvin Klein, Euphoria is a cologne launched by calvin klein in 2006. In the woody aromatic group of fragrance, this scent opens with the top notes of aromatic ginger and pepper. Herbal aromas take center stage in the heart of the fragrance with essences of sage, black basil, and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555892613206</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">28.15</s:price>
+      <s:sku>435395</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

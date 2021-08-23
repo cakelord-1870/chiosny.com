@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/bvlgari.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-08-18T18:05:40-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6618318569558</id>
+    <published>2021-08-18T18:05:40-04:00</published>
+    <updated>2021-08-18T18:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-goldea-the-roman-night-3-pc-gift-set"/>
+    <title>Bvlgari Goldea The Roman Night 3 Pc gift set</title>
+    <s:type>Eau De Pafum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SETBVLrn3w.jpg?v=1629324385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Pafum Spray<br>
+        <strong>Price: </strong>
+            78.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="inlineblock" data-mce-fragment="1" itemprop="Description">Bvlgari Goldea The Roman Night Absolute Perfume by Bvlgari, This fragrance was created by the design house of bvlgari with perfumer alberto morillas and released in 2018. A synthetic floral perfume for women. This beauty is sensual and romantic. Perfect for date night.<span data-mce-fragment="1"> </span>
+</div>
+<span data-mce-fragment="1"></span>
+<div id="product-read-more-text-mq1" class="inlineblock" data-mce-fragment="1">The vanilla in this blend adds a silky smooth texture to an already intriguing scent. The top notes are orange blossom and black plum. The heart notes are jasmine sambac absolute and madagascan vanilla. The finishing notes are patchouli, crystallized moss and black musk</div>
+<div class="inlineblock" data-mce-fragment="1"></div>
+<div class="inlineblock" data-mce-fragment="1"><span>Gift Set  (2.5oz &amp; 1/2oz SENSUAL EDP SP, Beauty Pouch)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6618318569558</id>
+      <title>2.5 fl oz Gift Set / Women</title>
+      <s:price currency="USD">78.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556026372182</id>
+    <published>2021-04-01T02:40:37-04:00</published>
+    <updated>2021-04-01T02:40:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/rose-goldea-blossom-delight-perfume-by-bvlgari-eau-de-parfum-spray"/>
+    <title>Rose Goldea Blossom Delight Eau De Parfum Spray By Bvlgari</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ROSBWR.jpg?v=1617825520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            72.00 - 87.00
+            <a href="https://chiosny.com/products/rose-goldea-blossom-delight-perfume-by-bvlgari-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rose Goldea Blossom Delight Perfume by Bvlgari, Created by alberto morillas and first launched by bvlgari in 2019, rose goldea blossom delight is a light, classically chic scent. The opening is a soft tropical effusion of jasmine absolute and fresh papaya mingled with crisp nuances of violet leaf. Red rose, delicate rosebuds and green hints of rose leaf emerge at the heart, accompanied by sheer, shimmering lily of the valley.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556026372182</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>551008</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556026372182</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>551006</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556006088790</id>
+    <published>2021-04-01T02:27:18-04:00</published>
+    <updated>2021-04-01T02:27:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/petits-mamans-perfume-by-bvlgari-eau-de-toilette-spray-tester"/>
+    <title>Petits &amp; Mamans Eau De Toilette Spray (Tester) By Bvlgari</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PMW34T.jpg?v=1617824837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petits &amp; Mamans Perfume by Bvlgari, This fragrance was created by the design house of bvlgari with perfumer nathalie lorson and released in 1998. A powdery floral scent created using no alcohol in the blend. It was design for women and their children in mind.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006088790</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>446019</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556006056022</id>
+    <published>2021-04-01T02:27:14-04:00</published>
+    <updated>2021-04-01T02:27:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/petits-mamans-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Petits &amp; Mamans Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PM13TS.jpg?v=1617824836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            50.00 - 66.75
+            <a href="https://chiosny.com/products/petits-mamans-perfume-by-bvlgari-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petits &amp; Mamans Perfume by Bvlgari, This fragrance was created by the design house of bvlgari with perfumer nathalie lorson and released in 1998. A powdery floral scent created using no alcohol in the blend. It was design for women and their children in mind.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006056022</id>
+      <title>1.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>537526</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006056022</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">66.75</s:price>
+      <s:sku>403048</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992883286</id>
+    <published>2021-04-01T02:19:43-04:00</published>
+    <updated>2021-04-01T02:19:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-pink-sapphire-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Omnia Pink Sapphire Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMNBW135ED.jpg?v=1617824481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            45.30 - 52.20
+            <a href="https://chiosny.com/products/omnia-pink-sapphire-perfume-by-bvlgari-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Pink Sapphire Perfume by Bvlgari, Omnia pink sapphire is a playful women’s fragrance released by the fashion brand bvlgari in 2018. The top notes are a vibrant, fruity blast of sour grapefruit, pink pepper, and delicate pomelo. The middle notes are floral tiare and frangipani, combining for a sweet and pleasant heart.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992883286</id>
+      <title>1.35 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>546784</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992883286</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>540719</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992850518</id>
+    <published>2021-04-01T02:19:42-04:00</published>
+    <updated>2021-04-01T02:19:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-perfume-by-bvlgari-gift-set"/>
+    <title>Omnia Gift Set By Bvlgari</title>
+    <s:type>Gift Set -</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMMINGSW.jpg?v=1617824478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Gift Set -<br>
+        <strong>Price: </strong>
+            59.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Perfume by Bvlgari, Omnia is an elegant,sexy scent that is sure to please. This fragrance posses a blend of saffron, ginger, cardamom and black pepper imbue,mandarin, masala tea, white chocolate and indian wood. This oriental sweet spicy scent will leave you feeling classy and sophisticated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992850518</id>
+      <title>5 x .17 oz EDT</title>
+      <s:price currency="USD">59.33</s:price>
+      <s:sku>547618</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992817750</id>
+    <published>2021-04-01T02:19:40-04:00</published>
+    <updated>2021-04-01T02:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-perfume-by-bvlgari-eau-de-parfum-spray"/>
+    <title>Omnia Eau De Parfum Spray By Bvlgari</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BVLGARIOM4W.jpg?v=1617824479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            45.88 - 61.99
+            <a href="https://chiosny.com/products/omnia-perfume-by-bvlgari-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Perfume by Bvlgari, Omnia is an elegant,sexy scent that is sure to please. This fragrance posses a blend of saffron, ginger, cardamom and black pepper imbue,mandarin, masala tea, white chocolate and indian wood. This oriental sweet spicy scent will leave you feeling classy and sophisticated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992817750</id>
+      <title>1.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">45.88</s:price>
+      <s:sku>403224</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992817750</id>
+      <title>2.2 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>403223</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992784982</id>
+    <published>2021-04-01T02:19:39-04:00</published>
+    <updated>2021-04-01T02:19:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-paraiba-perfume-by-bvlgari-soap"/>
+    <title>Omnia Paraiba Soap By Bvlgari</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMNBWK.jpg?v=1617824480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            24.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Paraiba Perfume by Bvlgari, Experience the serene divinity of this cool, refreshing scent of omnia paraiba by bulgari. This tropical mist will let you escape the busy world of the city, bringing you to the relaxing scent of paradise. With the breeze of its scent that gently revitalizes the body, this fragrance will surely give you a one of a kind refreshing look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992784982</id>
+      <title>5.3 oz Soap</title>
+      <s:price currency="USD">24.33</s:price>
+      <s:sku>555189</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992752214</id>
+    <published>2021-04-01T02:19:38-04:00</published>
+    <updated>2021-04-01T02:19:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-paraiba-perfume-by-bvlgari-shower-oil"/>
+    <title>Omnia Paraiba Shower Oil By Bvlgari</title>
+    <s:type>Shower Oil</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMNBW1.jpg?v=1617824470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Shower Oil<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Paraiba Perfume by Bvlgari, Experience the serene divinity of this cool, refreshing scent of omnia paraiba by bulgari. This tropical mist will let you escape the busy world of the city, bringing you to the relaxing scent of paradise. With the breeze of its scent that gently revitalizes the body, this fragrance will surely give you a one of a kind refreshing look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992752214</id>
+      <title>3.4 oz Shower Oil</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>555190</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992719446</id>
+    <published>2021-04-01T02:19:37-04:00</published>
+    <updated>2021-04-01T02:19:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-paraiba-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Omnia Paraiba Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMBVL22.jpg?v=1617824468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Paraiba Perfume by Bvlgari, Experience the serene divinity of this cool, refreshing scent of omnia paraiba by bulgari. This tropical mist will let you escape the busy world of the city, bringing you to the relaxing scent of paradise. With the breeze of its scent that gently revitalizes the body, this fragrance will surely give you a one of a kind refreshing look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992719446</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>531690</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992686678</id>
+    <published>2021-04-01T02:19:35-04:00</published>
+    <updated>2021-04-01T02:19:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-paraiba-perfume-by-bvlgari-body-lotion"/>
+    <title>Omnia Paraiba Body Lotion By Bvlgari</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMNBWF.jpg?v=1617824471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Paraiba Perfume by Bvlgari, Experience the serene divinity of this cool, refreshing scent of omnia paraiba by bulgari. This tropical mist will let you escape the busy world of the city, bringing you to the relaxing scent of paradise. With the breeze of its scent that gently revitalizes the body, this fragrance will surely give you a one of a kind refreshing look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992686678</id>
+      <title>3.4 oz Body Lotion</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>555247</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992653910</id>
+    <published>2021-04-01T02:19:34-04:00</published>
+    <updated>2021-04-01T02:19:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-indian-garnet-perfume-by-bvlgari-eau-de-toilette-spray-tester"/>
+    <title>Omnia Indian Garnet Eau De Toilette Spray (Tester) By Bvlgari</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/omigtsw_d7cd7135-a28c-4cfd-9e8a-ea611076acbb.jpg?v=1627054067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            89.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Indian Garnet Perfume by Bvlgari, Exotic and enticing, omnia india garnet allows you to express your feminine nature while also creating feelings of intrigue and mystery. This medium-bodied women's fragrance was created by bvlgari and released in 2014. Spritz on a little omnia indian garnet before your next date or romantic encounter, and prepare to impress the world with your appeal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992653910</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">89.44</s:price>
+      <s:sku>518184</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992621142</id>
+    <published>2021-04-01T02:19:33-04:00</published>
+    <updated>2021-04-01T02:19:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-indian-garnet-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Omnia Indian Garnet Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMNI14GW.jpg?v=1617824470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Indian Garnet Perfume by Bvlgari, Exotic and enticing, omnia india garnet allows you to express your feminine nature while also creating feelings of intrigue and mystery. This medium-bodied women's fragrance was created by bvlgari and released in 2014. Spritz on a little omnia indian garnet before your next date or romantic encounter, and prepare to impress the world with your appeal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992621142</id>
+      <title>1.35 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>514303</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992588374</id>
+    <published>2021-04-01T02:19:32-04:00</published>
+    <updated>2021-04-01T02:19:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-green-jade-perfume-by-bvlgari-body-lotion"/>
+    <title>Omnia Green Jade Body Lotion By Bvlgari</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OGJBL68.jpg?v=1617824467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Green Jade Perfume by Bvlgari, The famous jeweler is well known for its fine gems. This floral aquatic for women is elegantly designed from its scent and its beautiful flacon. Symbol of luck and prosperity, this lovely and light fragrance opens with fresh accords of green mandarin and spring water, and blending notes of white peony, pear blossom and jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992588374</id>
+      <title>6.7 oz Body Lotion</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>481208</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992555606</id>
+    <published>2021-04-01T02:19:31-04:00</published>
+    <updated>2021-04-01T02:19:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-crystalline-perfume-by-bvlgari-shower-oil"/>
+    <title>Omnia Crystalline Shower Oil By Bvlgari</title>
+    <s:type>Shower Oil</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMCR33SO.jpg?v=1617824468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Shower Oil<br>
+        <strong>Price: </strong>
+            36.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Crystalline Perfume by Bvlgari, Immerse yourself in elegance when you wear omnia crystalline by the design house of bvlgari. Created for women in 2005, this lovely scent expertly meshes the woody notes of bamboo and balsa wood with nashi fruit and lotus blossum for a heady aroma that people are sure to notice. Use it to complement your formal attire as you dine at the finest of restaurants or to enhance the casual outfit you wear to your neighborhood eatery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992555606</id>
+      <title>3.3 oz Shower Oil</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>546604</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992522838</id>
+    <published>2021-04-01T02:19:30-04:00</published>
+    <updated>2021-04-01T02:19:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-crystalline-perfume-by-bvlgari-eau-de-toilette-spray-tester"/>
+    <title>Omnia Crystalline Eau De Toilette Spray (Tester) By Bvlgari</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OCWT22.jpg?v=1617824469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            54.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Crystalline Perfume by Bvlgari, Immerse yourself in elegance when you wear omnia crystalline by the design house of bvlgari. Created for women in 2005, this lovely scent expertly meshes the woody notes of bamboo and balsa wood with nashi fruit and lotus blossum for a heady aroma that people are sure to notice. Use it to complement your formal attire as you dine at the finest of restaurants or to enhance the casual outfit you wear to your neighborhood eatery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992522838</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">54.88</s:price>
+      <s:sku>446577</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992490070</id>
+    <published>2021-04-01T02:19:28-04:00</published>
+    <updated>2021-04-01T02:19:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-crystalline-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Omnia Crystalline Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMCTS13.jpg?v=1617824469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            52.20 - 59.78
+            <a href="https://chiosny.com/products/omnia-crystalline-perfume-by-bvlgari-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Crystalline Perfume by Bvlgari, Immerse yourself in elegance when you wear omnia crystalline by the design house of bvlgari. Created for women in 2005, this lovely scent expertly meshes the woody notes of bamboo and balsa wood with nashi fruit and lotus blossum for a heady aroma that people are sure to notice. Use it to complement your formal attire as you dine at the finest of restaurants or to enhance the casual outfit you wear to your neighborhood eatery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992490070</id>
+      <title>1.35 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>423257</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992490070</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">59.78</s:price>
+      <s:sku>423256</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992457302</id>
+    <published>2021-04-01T02:19:27-04:00</published>
+    <updated>2021-04-01T02:19:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-coral-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Omnia Coral Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OM22TSW.jpg?v=1617824467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            56.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Coral Perfume by Bvlgari, Added to the omnia family in 2012 by perfumer alberto morillas. Omnia coral has staying power and will delight you for hours. This floral and fruity fragrance is blended with a sensual and exotic set of notes that will tickle your imagination.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992457302</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">56.56</s:price>
+      <s:sku>498200</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992424534</id>
+    <published>2021-04-01T02:19:26-04:00</published>
+    <updated>2021-04-01T02:19:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-amethyste-perfume-by-bvlgari-gift-set"/>
+    <title>Omnia Amethyste Gift Set By Bvlgari</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMAMGSW.jpg?v=1617824459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            59.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Amethyste Perfume by Bvlgari, Launched in 2007, it opens on notes of green sap and pink grapefruit, giving way to the prominent accords of iris and bulgarian rosebud. The base features heliotrope and solar woods accords.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992424534</id>
+      <title>5 x .17 oz Eau de toilette</title>
+      <s:price currency="USD">59.44</s:price>
+      <s:sku>547619</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992391766</id>
+    <published>2021-04-01T02:19:24-04:00</published>
+    <updated>2021-04-01T02:19:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/omnia-amethyste-perfume-by-bvlgari-eau-de-toilette-spray"/>
+    <title>Omnia Amethyste Eau De Toilette Spray By Bvlgari</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OAW13.jpg?v=1617824456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            52.82 - 55.44
+            <a href="https://chiosny.com/products/omnia-amethyste-perfume-by-bvlgari-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Omnia Amethyste Perfume by Bvlgari, Launched in 2007, it opens on notes of green sap and pink grapefruit, giving way to the prominent accords of iris and bulgarian rosebud. The base features heliotrope and solar woods accords.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992391766</id>
+      <title>1.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">52.82</s:price>
+      <s:sku>439693</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992391766</id>
+      <title>2.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">55.44</s:price>
+      <s:sku>433194</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555837595734</id>
+    <published>2021-04-01T00:37:57-04:00</published>
+    <updated>2021-04-01T00:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-white-perfume-by-bvlgari-eau-de-cologne-spray"/>
+    <title>Bvlgari White Eau De Cologne Spray By Bvlgari</title>
+    <s:type>Eau De Cologne Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BVLGEPATB25W.jpg?v=1617819060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Cologne Spray<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bvlgari White Perfume by Bvlgari, Bvlgari white by the design house of bulgari was introduced in 2002. An alluring, beautiful that possesses a blend of citrus with white tea, white pepper floral, musk and amber. This feminine scent is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555837595734</id>
+      <title>2.5 oz Eau De Cologne Spray</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>403473</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555837562966</id>
+    <published>2021-04-01T00:37:56-04:00</published>
+    <updated>2021-04-01T00:37:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-splendida-rose-rose-perfume-by-bvlgari-eau-de-parfum-spray"/>
+    <title>Bvlgari Splendida Rose Rose Eau De Parfum Spray By Bvlgari</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BSRR17W.jpg?v=1617819059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            67.00 - 83.66
+            <a href="https://chiosny.com/products/bvlgari-splendida-rose-rose-perfume-by-bvlgari-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bvlgari Splendida Rose Rose Perfume by Bvlgari, Sheer damask rose and sparkling citrus fuse with lovely woody undertones in bvlgari splendida rose, a light, uplifting floral scent released by bvlgari in 2017. The opening is crisply refreshing, mingling tart-sweet mandarin, honeyed blackberry and white mulberry. Fresh, powdery rose dominates the heart, harmonized with subtle smoke and dark chocolate nuances of vetiver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555837562966</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>543109</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555837562966</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">83.66</s:price>
+      <s:sku>539956</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555837530198</id>
+    <published>2021-04-01T00:37:54-04:00</published>
+    <updated>2021-04-01T00:37:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-splendida-magnolia-sensuel-perfume-by-bvlgari-eau-de-parfum-spray"/>
+    <title>Bvlgari Splendida Magnolia Sensuel Eau De Parfum Spray By Bvlgari</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BVLBW34ED9.jpg?v=1617819058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bvlgari Splendida Magnolia Sensuel Perfume by Bvlgari, Bvlgari splendida magnolia sensuel is a rich floral perfume for women. The fragrance opens sweetly with tangerine and orange blossom. An intoxicating trio of white flowers is found in the heart with lush magnolia, orange blossom, and jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555837530198</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>548932</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555837497430</id>
+    <published>2021-04-01T00:37:53-04:00</published>
+    <updated>2021-04-01T00:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-splendida-iris-dor-perfume-by-bvlgari-eau-de-parfum-spray"/>
+    <title>Bvlgari Splendida Iris D&apos;or Eau De Parfum Spray By Bvlgari</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BVLBWS.jpg?v=1617819060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bvlgari Splendida Iris D'or Perfume by Bvlgari, Introduced in 2017, bvlgari splendida iris d’or is an elegant floral woody musk that mingles powdery blooms and green notes with lovely balsamic undertones. The opening is beguiling with a lightly citrusy accord of bergamot and crisp violet leaf. Softest florals emerge at the heart, fusing shimmering iris and violet flower with sugar-spun nuances of mimosa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555837497430</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>553437</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555837464662</id>
+    <published>2021-04-01T00:37:49-04:00</published>
+    <updated>2021-04-01T00:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-man-wood-neroli-cologne-by-bvlgari-eau-de-parfum-spray-tester"/>
+    <title>Bvlgari Man Wood Neroli Eau De Parfum Spray (Tester) By Bvlgari</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BMWNER34.jpg?v=1617819063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bvlgari Man Wood Neroli Cologne by Bvlgari, Musky and full of wild essence, bvlgari man wood neroli is the perfect way to add intrigue to any outfit. It opens as the name would suggest with a burst of neroli as well as splashes of sharp bergamot. The middle is no less complex thanks to the addition of orange blossom, cedar and nagarmotha.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555837464662</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>549015</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

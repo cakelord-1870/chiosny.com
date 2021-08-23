@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/after-shave.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:14:32-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556076736598</id>
+    <published>2021-04-01T03:14:32-04:00</published>
+    <updated>2021-04-01T03:14:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wings-cologne-by-giorgio-beverly-hills-after-shave-unboxed"/>
+    <title>Wings After Shave (unboxed) By Giorgio Beverly Hills</title>
+    <s:type>After Shave (unboxed)</s:type>
+    <s:vendor>Giorgio Beverly Hills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WINGM34AS.jpg?v=1617827270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Beverly Hills<br>
+        <strong>Type: </strong>After Shave (unboxed)<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wings Cologne by Giorgio Beverly Hills, Launched by the design house of giorgio beverly hills in 1994, wings is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of spices, amber and greens, sensuous blend.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076736598</id>
+      <title>3.4 oz After Shave</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>548759</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556076703830</id>
+    <published>2021-04-01T03:14:31-04:00</published>
+    <updated>2021-04-01T03:14:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/wings-cologne-by-giorgio-beverly-hills-after-shave"/>
+    <title>Wings After Shave By Giorgio Beverly Hills</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Giorgio Beverly Hills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/73334.jpg?v=1617827262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Beverly Hills<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            49.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wings Cologne by Giorgio Beverly Hills, Launched by the design house of giorgio beverly hills in 1994, wings is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of spices, amber and greens, sensuous blend.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076703830</id>
+      <title>3.4 oz After Shave</title>
+      <s:price currency="USD">49.66</s:price>
+      <s:sku>402551</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556071952470</id>
+    <published>2021-04-01T03:11:36-04:00</published>
+    <updated>2021-04-01T03:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vince-camuto-cologne-by-vince-camuto-after-shave-balm"/>
+    <title>Vince Camuto After Shave Balm By Vince Camuto</title>
+    <s:type>After Shave Balm</s:type>
+    <s:vendor>Vince Camuto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VC5OZASB.jpg?v=1617827106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vince Camuto<br>
+        <strong>Type: </strong>After Shave Balm<br>
+        <strong>Price: </strong>
+            24.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vince Camuto Cologne by Vince Camuto, Entice your senses with vince camuto for men by vince camuto. This highly masculine cologne, the design house's answer to its feminine perfume, blends notes of italian bergamot and mandarin with spicy black pepper. Subtle and intriguing accents of lavender and nutmeg provide a sensuous and enjoyable scent, making it a perfect choice for a night on the town with friends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556071952470</id>
+      <title>5 oz After Shave Balm</title>
+      <s:price currency="USD">24.20</s:price>
+      <s:sku>539888</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066578518</id>
+    <published>2021-04-01T03:08:13-04:00</published>
+    <updated>2021-04-01T03:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-dylan-blue-cologne-by-versace-after-shave-lotion"/>
+    <title>Versace Pour Homme Dylan Blue After Shave Lotion By Versace</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VDBMA34.jpg?v=1617826919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            42.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Dylan Blue Cologne by Versace, Recently launched in 2016, versace pour homme dylan blue by versace provides a delicate balance of citrus, spicy and musk accords, creating an ideal daily scent. The fragrance opens with fresh top notes of water, grapefruit, fig and bergamot. These are followed by a complex middle blend of floral and woodsy violet leaf, papyrus and patchouli mixed with spicy black pepper and ambroxan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066578518</id>
+      <title>3.4 oz After Shave Lotion</title>
+      <s:price currency="USD">42.33</s:price>
+      <s:sku>539361</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066545750</id>
+    <published>2021-04-01T03:08:12-04:00</published>
+    <updated>2021-04-01T03:08:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-dylan-blue-cologne-by-versace-after-shave-balm"/>
+    <title>Versace Pour Homme Dylan Blue After Shave Balm By Versace</title>
+    <s:type>After Shave Balm</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VPHDB34B.jpg?v=1617826923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>After Shave Balm<br>
+        <strong>Price: </strong>
+            41.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Dylan Blue Cologne by Versace, Recently launched in 2016, versace pour homme dylan blue by versace provides a delicate balance of citrus, spicy and musk accords, creating an ideal daily scent. The fragrance opens with fresh top notes of water, grapefruit, fig and bergamot. These are followed by a complex middle blend of floral and woodsy violet leaf, papyrus and patchouli mixed with spicy black pepper and ambroxan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066545750</id>
+      <title>3.4 oz After Shave Balm</title>
+      <s:price currency="USD">41.22</s:price>
+      <s:sku>543175</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066283606</id>
+    <published>2021-04-01T03:08:01-04:00</published>
+    <updated>2021-04-01T03:08:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-cologne-by-versace-after-shave-lotion"/>
+    <title>Versace Pour Homme After Shave Lotion By Versace</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VPH34ASL.jpg?v=1617826907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            45.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Cologne by Versace, An exciting and modern twist on a classic aromatic/fougere for men, this masculine contemporary scent was created by master perfumer alberto morillas. Top notes are citruses, neroli, bergamot and petit grain; middle notes are hyacinth, clary sage, cedar and geranium; base notes are tonka bean, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066283606</id>
+      <title>3.4 oz After Shave Lotion</title>
+      <s:price currency="USD">45.33</s:price>
+      <s:sku>540172</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065890390</id>
+    <published>2021-04-01T03:07:47-04:00</published>
+    <updated>2021-04-01T03:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-man-cologne-by-versace-eau-fraiche-after-shave"/>
+    <title>Versace Man Eau Fraiche After Shave By Versace</title>
+    <s:type>Eau Fraiche After Shave</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VMEF34AS.jpg?v=1617826896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau Fraiche After Shave<br>
+        <strong>Price: </strong>
+            52.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Versace Man Cologne by Versace, The masculine scent of Versace Man Eau Fraiche will help the wearer feel charismatic, confident, sexy, and modern. Its clean, zesty smell reminds one of summer and sunshine, with the subtle hints of other woodsy notes underneath providing an “elegant understatement and a growingly alluring charm,” according to the classic design house Versace. Men, cologne enthusiasts, and fashion collectors will all be appreciative when given this as a gift.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065890390</id>
+      <title>3.4 oz Eau Fraiche After Shave</title>
+      <s:price currency="USD">52.71</s:price>
+      <s:sku>540174</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065333334</id>
+    <published>2021-04-01T03:07:22-04:00</published>
+    <updated>2021-04-01T03:07:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-flame-cologne-by-versace-after-shave-lotion"/>
+    <title>Versace Eros Flame After Shave Lotion By Versace</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVM34AS.jpg?v=1617826887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Flame Cologne by Versace, Named for the greek god of love, eros flame is a fragrance of passion. Spritz on a touch of this cologne and those around you will lean in closer. The scent begins with top notes of black pepper, orange, rosemary and lemon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065333334</id>
+      <title>3.4 oz After Shave Lotion</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>547305</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065038422</id>
+    <published>2021-04-01T03:07:05-04:00</published>
+    <updated>2021-04-01T03:07:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-cologne-by-versace-after-shave-lotion"/>
+    <title>Versace Eros After Shave Lotion By Versace</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VEM34AS.jpg?v=1617826871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            67.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Cologne by Versace, You'd expect nothing less than a manly fragrance from the design house of versace, and you'll get it with versace eros, a decadent fragrance for men of distinction. This woody fresh scent has a definitive oriental vibe that is daring and adventurous-just like you. It features a crisp zing of mint oil embraced by fruity green apple and italian lemon with memorable notes of geranium flowers and venezuelan ambroxan in a succulently sensuous medley that clings to your skin all day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065038422</id>
+      <title>3.4 oz After Shave Lotion</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>540175</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556055371862</id>
+    <published>2021-04-01T03:00:21-04:00</published>
+    <updated>2021-04-01T03:00:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tommy-bahama-set-sail-martinique-cologne-by-tommy-bahama-after-shave-balm"/>
+    <title>Tommy Bahama Set Sail Martinique After Shave Balm By Tommy Bahama</title>
+    <s:type>After Shave Balm</s:type>
+    <s:vendor>Tommy Bahama</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TOMTM34AS.jpg?v=1617826524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tommy Bahama<br>
+        <strong>Type: </strong>After Shave Balm<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tommy Bahama Set Sail Martinique Cologne by Tommy Bahama, Bask in the scents of the caribbean with set sail martinique for men, introduced by the creative design house of tommy bahama in 2010. This fresh and spicy masculine fragrance combines notes of fresh pepper, delightful bergamot, luscious blue lavender and irresistible musk for an inspiring and intoxicating fragrance that brings about visions of crashing waves and salty sea shores. Set sail and explore the enticing aromas of tommy bahama’s set sail martinique for men.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556055371862</id>
+      <title>3.4 oz After Shave Balm</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>545544</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556055240790</id>
+    <published>2021-04-01T03:00:14-04:00</published>
+    <updated>2021-04-01T03:00:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tommy-bahama-maritime-cologne-by-tommy-bahama-after-shave-balm-unboxed"/>
+    <title>Tommy Bahama Maritime After Shave Balm (unboxed) By Tommy Bahama</title>
+    <s:type>After Shave Balm (unboxed)</s:type>
+    <s:vendor>Tommy Bahama</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/74175M.jpg?v=1617826512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tommy Bahama<br>
+        <strong>Type: </strong>After Shave Balm (unboxed)<br>
+        <strong>Price: </strong>
+            22.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tommy Bahama Maritime Cologne by Tommy Bahama, A long-loved and much-enjoyed company, tommy bahama has long focused on bringing the essence of the beach to men and women in the form of clothing, accessories and even fragrances. Tommy bahama maritime, launched in 201, is the product of this goal. The top notes used to bring the life of the ocean into this fashionable little bottle are bergamot, lavender, pink pepper and clary sage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556055240790</id>
+      <title>3.4 oz After Shave Balm</title>
+      <s:price currency="USD">22.75</s:price>
+      <s:sku>556162</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049637462</id>
+    <published>2021-04-01T02:56:36-04:00</published>
+    <updated>2021-04-01T02:56:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-essence-cologne-by-porsche-after-shave-lotion"/>
+    <title>The Essence After Shave Lotion By Porsche</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Porsche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TE27ASL.jpg?v=1617826341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Porsche<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Essence Cologne by Porsche, Created by perfumers anne flipo and bruno jovanovic, this is a contemporary, chic scent for men that will set her heart racing. Top notes are artical, juniper and blueberry; middle notes are russian coriander, pepper and siberian pine; base notes are fir balsam, incense and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049637462</id>
+      <title>2.7 oz After Shave Lotion</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>534013</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047343702</id>
+    <published>2021-04-01T02:55:02-04:00</published>
+    <updated>2021-04-01T02:55:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-man-cologne-by-maurer-wirtz-after-shave-lotion"/>
+    <title>Tabac Man After Shave Lotion By Maurer &amp; Wirtz</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABMM17AS.jpg?v=1617826277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            33.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Man Cologne by Maurer &amp; Wirtz, Tabac man by mäurer &amp; wirtz was introduced in 2000 as a masculine scent for any man. The top notes of this aroma include, orange, mandarin, lemon, lavender, peppermint. The middle notes include, cardamom, wood, vetiver, patchouli, sandalwood and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047343702</id>
+      <title>1.7 oz After Shave Lotion</title>
+      <s:price currency="USD">33.25</s:price>
+      <s:sku>548146</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556046655574</id>
+    <published>2021-04-01T02:54:27-04:00</published>
+    <updated>2021-04-01T02:54:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-after-shave-spray"/>
+    <title>Tabac After Shave Spray By Maurer &amp; Wirtz</title>
+    <s:type>After Shave Spray</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XMTABACAS.jpg?v=1617826256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>After Shave Spray<br>
+        <strong>Price: </strong>
+            27.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556046655574</id>
+      <title>3.4 oz After Shave Spray</title>
+      <s:price currency="USD">27.79</s:price>
+      <s:sku>401866</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556046622806</id>
+    <published>2021-04-01T02:54:24-04:00</published>
+    <updated>2021-04-01T02:54:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-after-shave-lotion"/>
+    <title>Tabac After Shave Lotion By Maurer &amp; Wirtz</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TACMA17.jpg?v=1617826254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            23.00 - 28.55
+            <a href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-after-shave-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556046622806</id>
+      <title>1.7 oz After Shave Lotion</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>401878</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556046622806</id>
+      <title>3.4 oz After Shave Lotion</title>
+      <s:price currency="USD">28.55</s:price>
+      <s:sku>552589</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556046590038</id>
+    <published>2021-04-01T02:54:22-04:00</published>
+    <updated>2021-04-01T02:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-after-shave"/>
+    <title>Tabac After Shave By Maurer &amp; Wirtz</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TACMA10.jpg?v=1617826256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            28.26 - 34.21
+            <a href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-after-shave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556046590038</id>
+      <title>10 oz After Shave</title>
+      <s:price currency="USD">34.21</s:price>
+      <s:sku>401875</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556046590038</id>
+      <title>5.1 oz After Shave</title>
+      <s:price currency="USD">28.26</s:price>
+      <s:sku>401871</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556040659030</id>
+    <published>2021-04-01T02:50:29-04:00</published>
+    <updated>2021-04-01T02:50:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/stetson-cologne-by-coty-after-shave-yellow-color"/>
+    <title>Stetson After Shave (yellow color) By Coty</title>
+    <s:type>After Shave (yellow color)</s:type>
+    <s:vendor>Coty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/STETSON35AS.jpg?v=1617826023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coty<br>
+        <strong>Type: </strong>After Shave (yellow color)<br>
+        <strong>Price: </strong>
+            26.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stetson Cologne by Coty, Launched by the design house of coty in 1981, stetson is classified as a refined, oriental, woody fragrance. This masculine scent possesses a blend of rich, woodsy, citrus spices. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556040659030</id>
+      <title>3.5 oz After Shave</title>
+      <s:price currency="USD">26.35</s:price>
+      <s:sku>423018</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556040626262</id>
+    <published>2021-04-01T02:50:28-04:00</published>
+    <updated>2021-04-01T02:50:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/stetson-cologne-by-coty-after-shave-unboxed"/>
+    <title>Stetson After Shave (unboxed) By Coty</title>
+    <s:type>After Shave (unboxed)</s:type>
+    <s:vendor>Coty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SM2ASU.jpg?v=1617826023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coty<br>
+        <strong>Type: </strong>After Shave (unboxed)<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stetson Cologne by Coty, Launched by the design house of coty in 1981, stetson is classified as a refined, oriental, woody fragrance. This masculine scent possesses a blend of rich, woodsy, citrus spices. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556040626262</id>
+      <title>2 oz After Shave</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>525878</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027093078</id>
+    <published>2021-04-01T02:41:11-04:00</published>
+    <updated>2021-04-01T02:41:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royal-copenhagen-musk-cologne-by-royal-copenhagen-after-shave-unboxed"/>
+    <title>Royal Copenhagen Musk After Shave (unboxed) By Royal Copenhagen</title>
+    <s:type>After Shave (unboxed)</s:type>
+    <s:vendor>Royal Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RCM1ASU.jpg?v=1617825544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Copenhagen<br>
+        <strong>Type: </strong>After Shave (unboxed)<br>
+        <strong>Price: </strong>
+            22.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Copenhagen Musk Cologne by Royal Copenhagen, Launched by the design house of royal copenhagen in 1976, royal copenhagen musk is classified as a refined, subtle, oriental fragrance. This masculine scent possesses a blend of basil, sage, clove, nutmeg and moss. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027093078</id>
+      <title>1 oz After Shave</title>
+      <s:price currency="USD">22.98</s:price>
+      <s:sku>443145</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556026994774</id>
+    <published>2021-04-01T02:41:04-04:00</published>
+    <updated>2021-04-01T02:41:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royal-copenhagen-cologne-by-royal-copenhagen-after-shave-lotion"/>
+    <title>Royal Copenhagen After Shave Lotion By Royal Copenhagen</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Royal Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RYCMA8.jpg?v=1617825532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Copenhagen<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Copenhagen Cologne by Royal Copenhagen, Launched by the design house of royal copenhagen in 1970, royal copenhagen is classified as a refined, oriental, woody fragrance. This masculine scent possesses a blend of orange, lemon, jasmine, moss, and amber. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556026994774</id>
+      <title>8 oz After Shave Lotion</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>401144</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556013690966</id>
+    <published>2021-04-01T02:32:28-04:00</published>
+    <updated>2021-04-01T02:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/premium-cologne-by-phat-farm-after-shave-soother-unboxed"/>
+    <title>Premium After Shave Soother (unboxed) By Phat Farm</title>
+    <s:type>After Shave Soother (unboxed)</s:type>
+    <s:vendor>Phat Farm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PM34ASSU.jpg?v=1617825140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Phat Farm<br>
+        <strong>Type: </strong>After Shave Soother (unboxed)<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium Cologne by Phat Farm, Crisp but warm, premium is a masculine scent that goes from work days or class to nights out without missing a beat. The top notes combine the herbal-scented bite of wet cilantro leaf with the cooling aroma of chilled vodka citron, opening to cracked pink peppercorn and lightly sweet tobacco flower with a base of urbam tar accord. Introduced in 2001 by phat farm, the men's fragrance is clean, fresh and spicy, evoking the spirit of youthful vibrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556013690966</id>
+      <title>3.4 oz After Shave Soother</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>541438</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556013559894</id>
+    <published>2021-04-01T02:32:22-04:00</published>
+    <updated>2021-04-01T02:32:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/preferred-stock-cologne-by-coty-after-shave"/>
+    <title>Preferred Stock After Shave By Coty</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Coty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PREF75AS.jpg?v=1617825128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coty<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            23.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Preferred Stock Cologne by Coty, Launched by the design house of coty in 1990, preferred stock is classified as a refreshing, spicy, lavender, amber fragrance. This masculine scent possesses a blend of green, leafy, floral notes, as well as a touch of wood. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556013559894</id>
+      <title>0.5 oz After Shave</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>433023</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556007727190</id>
+    <published>2021-04-01T02:28:19-04:00</published>
+    <updated>2021-04-01T02:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pino-silvestre-cologne-by-pino-silvestre-after-shave-spray"/>
+    <title>Pino Silvestre After Shave Spray By Pino Silvestre</title>
+    <s:type>After Shave Spray</s:type>
+    <s:vendor>Pino Silvestre</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PSMAS42.jpg?v=1617824890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pino Silvestre<br>
+        <strong>Type: </strong>After Shave Spray<br>
+        <strong>Price: </strong>
+            27.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pino Silvestre Cologne by Pino Silvestre, Launched by the design house of pino sylvestre in 1955. It is the result of the following top fragrance notes: bergamot, basil and lemon. The middle notes are: juniper, cedar and tree moss and the base of the fragrance is: pine, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556007727190</id>
+      <title>4.2 oz After Shave Spray</title>
+      <s:price currency="USD">27.14</s:price>
+      <s:sku>450996</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556006482006</id>
+    <published>2021-04-01T02:27:34-04:00</published>
+    <updated>2021-04-01T02:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/photo-cologne-by-karl-lagerfeld-after-shave"/>
+    <title>Photo After Shave By Karl Lagerfeld</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Karl Lagerfeld</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MPHOTAS.jpg?v=1617824844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Karl Lagerfeld<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Photo Cologne by Karl Lagerfeld, Launched by the design house of karl lagerfeld in 1990, photo is classified as a sharp, spicy, lavender, amber fragrance. This masculine scent possesses a blend of geranium, grapefruit and jasmine. Accompanied by wood and leather.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006482006</id>
+      <title>1 oz After Shave</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>400589</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556000026710</id>
+    <published>2021-04-01T02:24:30-04:00</published>
+    <updated>2021-04-01T02:24:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/paul-sebastian-cologne-by-paul-sebastian-after-shave-lotion"/>
+    <title>Paul Sebastian After Shave Lotion By Paul Sebastian</title>
+    <s:type>After Shave Lotion</s:type>
+    <s:vendor>Paul Sebastian</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XMPAULSAS.jpg?v=1617824696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paul Sebastian<br>
+        <strong>Type: </strong>After Shave Lotion<br>
+        <strong>Price: </strong>
+            28.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paul Sebastian Cologne by Paul Sebastian, Paul sebastian by paul sebastian was launched by the design house in 1979, and is classified as a refined, subtle, spicy and aromatic fragrance. Recommended primarily for evening wear, the scent is a lovely blend of lavender, sage, jasmine, rose, amber, and musk. It beautifully evokes the time period in which it originated, and men who wear it will express an air of sophistication and class.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556000026710</id>
+      <title>4 oz After Shave Lotion</title>
+      <s:price currency="USD">28.67</s:price>
+      <s:sku>400417</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

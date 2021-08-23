@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/creed.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-07-20T16:58:58-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6607594586198</id>
+    <published>2021-07-20T16:58:58-04:00</published>
+    <updated>2021-07-20T16:58:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/aventus-cologne-decant-by-creed"/>
+    <title>Aventus Cologne Decant By Creed</title>
+    <s:type>Eau De Parfium Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/aventuscologne.jpg?v=1626814740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfium Spray<br>
+        <strong>Price: </strong>
+            16.44 - 24.98
+            <a href="https://chiosny.com/products/aventus-cologne-decant-by-creed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">ventus Cologne by Creed is an Aromatic Fruity fragrance for men. This is a new fragrance. Aventus Cologne was launched in 2019. The nose behind this fragrance is Olivier Creed.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Aventus Cologne Notes</strong></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Top notes are pineapple, green apple, mint, ginger, mandarin orange, and pink pepper; middle notes are patchouli, sandalwood, and vetiver; base notes are musk, styrax, birch, and tonka bean.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:tag>Decants</s:tag>
+    <s:tag>Samples</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6607594586198</id>
+      <title>1 Ml Sample</title>
+      <s:price currency="USD">16.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6607594586198</id>
+      <title>2 Ml Glass Spray</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6607572631638</id>
+    <published>2021-07-20T15:53:02-04:00</published>
+    <updated>2021-07-20T15:53:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/viking-by-creed-decant"/>
+    <title>Viking By Creed Decant</title>
+    <s:type>Eau De Parfium Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VIKING.jpg?v=1626810930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfium Spray<br>
+        <strong>Price: </strong>
+            12.99 - 49.99
+            <a href="https://chiosny.com/products/viking-by-creed-decant">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Viking, a fiery men’s fragrance that bottles the fearless spirit of boundless exploration for the modern man who goes against the grain. Inspired by the incredibly crafted longships, a centerpiece of the Viking Age and one of the greatest design feats of the ninth century. A symbol of voyage and undeniable perseverance, longships were carefully designed for the skilled seaman who embodied unbridled determination to conquer. Viking marks the brand’s first major men’s scent since the introduction of the cult best-selling Aventus in 2010. Viking</span><span data-mce-fragment="1"> was launched in 2017. The nose behind this fragrance is Oliver Creed.</span></p>
+<p><strong>Viking Notes</strong></p>
+<p>Top notes are Calabrian bergamot, Sicilian lemon, la réunion baie rose (pink peppercorn). Middle note are peppercorn, Bulgarian rose, peppermint. Base note are Indian sandalwood, Haitian vetiver, Indian patchouli, lavender absolute.</p>
+<p><strong><em>This item is a hand-decanted sample. The original bottle on the main picture is not for sale, it just shows the original bottle from which perfume will be decanted. Therefore, the customer will receive the authentic fragrance poured from original bottle into a new sterile vial. The size of the vial is your choice.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decants</s:tag>
+    <s:tag>Samples</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6607572631638</id>
+      <title>1 Ml Sample / Men</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6607572631638</id>
+      <title>2 Ml Glass Spray / Men</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6607572631638</id>
+      <title>6 Ml Glass spray / Men</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6607567585366</id>
+    <published>2021-07-20T15:45:17-04:00</published>
+    <updated>2021-07-20T15:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/aventus-by-creed"/>
+    <title>Aventus by Creed Decants</title>
+    <s:type>Eau De Pafum Spray</s:type>
+    <s:vendor>Aventus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/aventusdecants.jpg?v=1626810236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aventus<br>
+        <strong>Type: </strong>Eau De Pafum Spray<br>
+        <strong>Price: </strong>
+            13.99 - 49.99
+            <a href="https://chiosny.com/products/aventus-by-creed">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The most popular fragrance ever created in the history of the House of Creed, Aventus is a fragrance for men - also adored by women - celebrating strength, power, vision, and success. Introduced in 2010, Creed's Aventus is inspired by the dramatic life of a historic emperor who waged war, peace, and romance on his terms, riding on horseback to victory. The unrivaled Aventus is comprised of superb ingredients, a worldly blend and must-have for the individual who savors a life well-lived. </span><br data-mce-fragment="1"><span data-mce-fragment="1">Royal but not imposing, Creed Aventus is made with ingredients hand-selected worldwide by Olivier Creed, along with his son, Erwin, the seventh generation of Creed and its future chief. Essences he chose were shipped to Creed's French workshop, where father and son created Aventus using hand production methods that date to the founding of the House of Creed in 1760. The result: a work of excellence fit for the most discerning clientele. </span><br data-mce-fragment="1"><span data-mce-fragment="1">The Aventus bottle is designed with a sleek black leather band wrapped around the classic Creed "flask". The silver emblem of horse and rider evokes unbounded adventure and spirit. Aventus</span><span data-mce-fragment="1"> was launched in 2010. </span><span data-mce-fragment="1">Aventus</span><span data-mce-fragment="1"> was created by </span><span data-mce-fragment="1"><a href="https://www.fragrantica.com/noses/Olivier_Creed_Sixth_Generation.html" data-mce-fragment="1" data-mce-href="https://www.fragrantica.com/noses/Olivier_Creed_Sixth_Generation.html"><b data-mce-fragment="1">Olivier Creed Sixth Generation</b></a> and <a href="https://www.fragrantica.com/noses/Erwin_Creed_Seventh_Generation.html" data-mce-fragment="1" data-mce-href="https://www.fragrantica.com/noses/Erwin_Creed_Seventh_Generation.html"><b data-mce-fragment="1">Erwin CreedSeventh Generation</b></a>.</span></p>
+<div class="description" itemprop="description">
+<p><strong><em>he original bottle on the main picture is not for sale, it just shows the original bottle from which perfume will be decanted. Therefore, the customer will receive the authentic fragrance poured from the original bottle into a new sterile vial. The size of the vial is your choice.</em></strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decants</s:tag>
+    <s:tag>samples</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6607567585366</id>
+      <title>1 Ml Sample / Men</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6607567585366</id>
+      <title>2 Ml Glass Spray / Men</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6607567585366</id>
+      <title>6 Ml Glass Spray / Men</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075360342</id>
+    <published>2021-04-01T03:13:46-04:00</published>
+    <updated>2021-04-01T03:13:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-amber-perfume-by-creed-eau-de-parfum-spray"/>
+    <title>White Amber Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WAEDPW25.jpg?v=1617827228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Amber Perfume by Creed, White amber is a creamy floral perfume released in 2017 and appropriate for both men and women. Created by perfumer olivier creed, this fragrance features sweet, fruity top notes that blend with notes of jasmine and benzoin in the heart of the scent. The base of this perfume is characterized by warm, earthy notes of sandalwood and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075360342</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">245.00</s:price>
+      <s:sku>544796</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556073099350</id>
+    <published>2021-04-01T03:12:17-04:00</published>
+    <updated>2021-04-01T03:12:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/virgin-island-water-perfume-by-creed-eau-de-parfum-spray-unisex"/>
+    <title>Virgin Island Water Eau De Parfum Spray (Unisex) By Creed</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/61621w.jpg?v=1625927831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            294.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Virgin Island Water Perfume by Creed, Representing different scents carried by the caribbean trade winds. It has top notes of copra, lime from the antilles, white bergamont and mandarin orange; middle notes of hibiscus, ginger, ylang-ylang and indian jasmine, and base notes of musk and sugar cane and white rum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556073099350</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">294.33</s:price>
+      <s:sku>539405</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556073066582</id>
+    <published>2021-04-01T03:12:16-04:00</published>
+    <updated>2021-04-01T03:12:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/virgin-island-water-cologne-by-creed-eau-de-parfum-spray-unisex"/>
+    <title>Virgin Island Water Eau De Parfum Spray (Unisex) By Creed</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VIW34MC.jpg?v=1617827133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            284.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Virgin Island Water Cologne by Creed, Representing different scents carried by the caribbean trade winds. It has top notes of copra, lime from the antilles, white bergamont and mandarin orange; middle notes of hibiscus, ginger, ylang-ylang and indian jasmine, and base notes of musk and sugar cane and white rum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556073066582</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">284.55</s:price>
+      <s:sku>539406</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556071559254</id>
+    <published>2021-04-01T03:11:24-04:00</published>
+    <updated>2021-04-01T03:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/viking-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Viking By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CRVIK4OZM.jpg?v=1617827101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            256.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Viking Cologne by Creed, Colognes should give men an added sense of feeling utterly masculine, and one of the manliest groups of people that have ever existed was the vikings. Viking by creed is a great fragrance for men that came out in 2016. Pink pepper, black currant and bergamot are the top notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556071559254</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">256.88</s:price>
+      <s:sku>534785</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556063727702</id>
+    <published>2021-04-01T03:06:16-04:00</published>
+    <updated>2021-04-01T03:06:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/vanisia-perfume-by-creed-millesime-eau-de-parfum-spray"/>
+    <title>Vanisia Millesime Eau De Parfum Spray By Creed</title>
+    <s:type>Millesime Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WVANISIA.jpg?v=1617826828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            143.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanisia Perfume by Creed, Vanisia’s creed scent boasts an intensity that is only befitting of a sophisticated and classy woman. It has a main top note of bergamot, middle notes of jasmine and bulgarian rose and base notes of sandalwood, vanilla, amber and ambergris. This complex and nuanced base allows the sweet bergamot to shine both during the day and at night, and it was designed to be simultaneously rich, sensual and mysterious.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556063727702</id>
+      <title>2.5 oz Millesime Eau De Parfum Spray</title>
+      <s:price currency="USD">143.05</s:price>
+      <s:sku>402294</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047638614</id>
+    <published>2021-04-01T02:55:12-04:00</published>
+    <updated>2021-04-01T02:55:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabarome-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Tabarome Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TM33MS.jpg?v=1617826280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabarome Cologne by Creed, Originally created for winston churchill, and a favorite of humphrey bogart, tabarome makes it's debut in the united states just in time to end the 20th century. Tabarome is a very sensual, sophisticated and warm fragrance; the rich notes of tobacco leaves, green tea, ginger and bergamot make this creed scent the first choice of the power elite.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047638614</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">270.00</s:price>
+      <s:sku>545277</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556039381078</id>
+    <published>2021-04-01T02:49:32-04:00</published>
+    <updated>2021-04-01T02:49:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/spring-flower-perfume-by-creed-vial-sample"/>
+    <title>Spring Flower Vial (sample) By Creed</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/vspringsm_6d328f8b-62f7-43e7-b0bf-1b61916050dd.jpg?v=1619473758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            12.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Flower Perfume by Creed, Spring flower by the classic design house of creed is a timeless, elegant scent. This very feminine scent is a sensual blend of fruits, with rose, jasmine, peach, melon and apple notes. A beautiful floral scent with crisp fruits to give it an elegant feeling.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039381078</id>
+      <title>0.05 oz Vial</title>
+      <s:price currency="USD">12.33</s:price>
+      <s:sku>422977</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556039348310</id>
+    <published>2021-04-01T02:49:31-04:00</published>
+    <updated>2021-04-01T02:49:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/spring-flower-perfume-by-creed-millesime-eau-de-parfum-spray"/>
+    <title>Spring Flower Millesime By Creed (unboxed)</title>
+    <s:type>Millesime Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/sf25psu.jpg?v=1626280021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            224.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Flower Perfume by Creed, Spring flower by the classic design house of creed is a timeless, elegant scent. This very feminine scent is a sensual blend of fruits, with rose, jasmine, peach, melon and apple notes. A beautiful floral scent with crisp fruits to give it an elegant feeling.</p>
+<p>Spring Flower Millesime By Creed (unboxed)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039348310</id>
+      <title>2.5 oz Millesime Eau De Parfum Spray</title>
+      <s:price currency="USD">224.88</s:price>
+      <s:sku>401735</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027715670</id>
+    <published>2021-04-01T02:41:37-04:00</published>
+    <updated>2021-04-01T02:41:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royal-water-cologne-by-creed-millesime-spray"/>
+    <title>Royal Water Millesime Spray By Creed</title>
+    <s:type>Millesime Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RW17M.jpg?v=1617825618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Spray<br>
+        <strong>Price: </strong>
+            143.00 - 198.88
+            <a href="https://chiosny.com/products/royal-water-cologne-by-creed-millesime-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Water Cologne by Creed, Men and women alike can enjoy the refreshing clean scent offered by royal water by creed. This perfume was first released in 1997, and it has citrusy accords that are definitely going to perk you up. These citruses are found in the very opening of the cologne, and they are infused with peppermint for an extra kick.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027715670</id>
+      <title>1.7 oz Millesime Spray</title>
+      <s:price currency="USD">143.00</s:price>
+      <s:sku>548015</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027715670</id>
+      <title>2.5 oz Millesime Spray</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>432678</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027715670</id>
+      <title>3.3 oz Millesime Spray</title>
+      <s:price currency="USD">198.88</s:price>
+      <s:sku>401200</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027682902</id>
+    <published>2021-04-01T02:41:36-04:00</published>
+    <updated>2021-04-01T02:41:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royal-water-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Royal Water By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CRWAT1M.jpg?v=1624559247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            199.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Water Cologne by Creed, Men and women alike can enjoy the refreshing clean scent offered by royal water by creed. This perfume was first released in 1997, and it has citrusy accords that are definitely going to perk you up. These citruses are found in the very opening of the cologne, and they are infused with peppermint for an extra kick.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027682902</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">199.88</s:price>
+      <s:sku>544088</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027584598</id>
+    <published>2021-04-01T02:41:33-04:00</published>
+    <updated>2021-04-01T02:41:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royal-princess-oud-perfume-by-creed-millesime-spray"/>
+    <title>Royal Princess Oud Millesime Spray By Creed</title>
+    <s:type>Millesime Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/73446w.jpg?v=1621468623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Spray<br>
+        <strong>Price: </strong>
+            244.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Princess Oud Perfume by Creed, Launched in 2015, royal princess oud is a rich, complex scent that’s fit for a monarch. For thousands of years, oud (also known as agarwood) was prized for its musky, nutty scent and is reportedly one of the most expensive woods in the world. Its oil has traditionally been used as incense and perfume throughout the middle east, but now british perfumer creed has used it to create a modern, east-meets-west fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027584598</id>
+      <title>2.5 oz Millesime Spray</title>
+      <s:price currency="USD">244.88</s:price>
+      <s:sku>533100</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556027486294</id>
+    <published>2021-04-01T02:41:28-04:00</published>
+    <updated>2021-04-01T02:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/royal-mayfair-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Royal Mayfair Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RM25MS.jpg?v=1617825619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            148.22 - 195.00
+            <a href="https://chiosny.com/products/royal-mayfair-cologne-by-creed-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Mayfair Cologne by Creed, Released by the house of creed with perfumer olivier creed and released in 2015. A refreshing green floral cologne for men. This scent was originally launched in 2009 as a limited edition, now creed is adding it to its line of fragrances of perfumes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027486294</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">148.22</s:price>
+      <s:sku>531377</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556027486294</id>
+      <title>4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>518778</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555994882134</id>
+    <published>2021-04-01T02:21:04-04:00</published>
+    <updated>2021-04-01T02:21:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/original-santal-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Original Santal By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OS33MS.jpg?v=1617824545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Original Santal Cologne by Creed, This fantastic fragrance was created by creed, in 2005. Its marvelous scent includes a mixture of cinnamon, coriander, juniper berry, sandalwood, lavender, rosemary, ginger, orange tree absolute, tonka bean, and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555994882134</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>543223</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555985608790</id>
+    <published>2021-04-01T02:14:38-04:00</published>
+    <updated>2021-04-01T02:14:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/neroli-sauvage-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Neroli Sauvage Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NERCM33ED.jpg?v=1617824199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neroli Sauvage Cologne by Creed, Neroli sauvage is a citrus, aromatic, and animalic masculine fragrance launched in 1994 for men. Neroli is the bitter orange tree blossom, named for an italian duchess in 17th-century nerola region of italy who popularized this luscious, grassy aroma. Sauvage means wild in italian, and this fragrance celebrates top notes of grapefruit and bergamot, heart notes of spicy yet fresh lemon verbena and neroli, all floating on a base of white floral and ambergris.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985608790</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>545497</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555960541270</id>
+    <published>2021-04-01T01:58:14-04:00</published>
+    <updated>2021-04-01T01:58:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/love-in-black-perfume-by-creed-eau-de-parfum-spray"/>
+    <title>Love In Black By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/25LINBLK.jpg?v=1617823381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            169.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love In Black Perfume by Creed, Composed in 2008 by erwin creed to chronicle the life of first lady jaqueline kennedy whom he met during her travels to europe. Like jackie o, this dark, mysterious pefume is also approachable. The bottle is made with the black sand she loved when she wed aristotle onassis in the greek isles and was released on the 40 anniversary of that wedding.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555960541270</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">169.88</s:price>
+      <s:sku>454794</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555898773590</id>
+    <published>2021-04-01T01:18:48-04:00</published>
+    <updated>2021-04-01T01:18:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/fleurs-de-gardenia-perfume-by-creed-millesime-spray"/>
+    <title>Fleurs De Gardenia Millesime Spray By Creed</title>
+    <s:type>Millesime Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/W25GFLURS.jpg?v=1617821340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Spray<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fleurs De Gardenia Perfume by Creed, If you're the type to stop and smell the flowers, then fleurs de gardenia is a women's perfume after your own heart. Pink pepper and black currant get the fragrance started off on a lively, invigorating note, evoking a spirit of fun and adventure. The heart notes unfurl like blossoms, brimming over with the enticing scents of fresh peony and gardenia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555898773590</id>
+      <title>2.5 oz Millesime Spray</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>502770</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555898675286</id>
+    <published>2021-04-01T01:18:43-04:00</published>
+    <updated>2021-04-01T01:18:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/fleurissimo-perfume-by-creed-millesime-eau-de-parfum-spray"/>
+    <title>Fleurissimo Millesime Eau De Parfum Spray By Creed</title>
+    <s:type>Millesime Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WFLEURIS25.jpg?v=1617821340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fleurissimo Perfume by Creed, Fleurissimo was created for the legendary grace kelly on her wedding day to her real life prince, prince rainier of monaco. Romance and beauty, fleurissimo is a blend of tuberose, bulgarian rose, violet and florentine iris.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555898675286</id>
+      <title>2.5 oz Millesime Eau De Parfum Spray</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>403539</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555889139798</id>
+    <published>2021-04-01T01:12:24-04:00</published>
+    <updated>2021-04-01T01:12:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/erolfa-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Erolfa Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/E25MPS.jpg?v=1617821033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            256.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Erolfa Cologne by Creed, Erolfa was introduced by the design house of creed in 1992. This refreshing masculine scent possesses a blend of citrus, coriandre, basil and cedarwood. Erolfa is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555889139798</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">256.44</s:price>
+      <s:sku>538517</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555844214870</id>
+    <published>2021-04-01T00:42:11-04:00</published>
+    <updated>2021-04-01T00:42:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cedre-blanc-perfume-by-creed-eau-de-parfum-spray"/>
+    <title>Cedre Blanc Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CEDRB33W.jpg?v=1617819252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cedre Blanc Perfume by Creed, Classic and contemporary style blend beautifully in cedre blanc, a women's fragrance from the design house of creed. Distinctive but subtle, this elegant scent is the ideal way to enhance your natural confidence without overpowering your timeless style. Introduced in 2014, the fragrance opens with notes of bergamot and cardamom, which bloom beautifully into geranium and laurel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555844214870</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>515079</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555828289622</id>
+    <published>2021-04-01T00:31:29-04:00</published>
+    <updated>2021-04-01T00:31:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bois-du-portugal-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Bois Du Portugal Eau De Parfum Spray By Creed</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BOICMN.jpg?v=1617818710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bois Du Portugal Cologne by Creed, Upon glancing at a bottle of bois du portugal by creed, buyers might notice that the word millesime appears on the bottle. This marks fragrances that are made only with the best crops of the scent note contributors each year. The expertly-grown and selected top notes in this fragrance include bergamot, and is followed by a simple middle not of lavender.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555828289622</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>551141</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555812986966</id>
+    <published>2021-04-01T00:22:26-04:00</published>
+    <updated>2021-04-01T00:22:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/aventus-cologne-cologne-by-creed-eau-de-parfum-spray"/>
+    <title>Creed Aventus Cologne men Eau De Parfum Spray 3.3 oz</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/avcol33m_c5a7d29b-56fe-45cd-a050-503a066cee62.jpg?v=1619488103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            298.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aventus Cologne Cologne by Creed, First launched in 2010, aventus cologne by creed is a distinctive masculine scent that layers elements of bright, tart-sweet fruit and clean florals over a smoky wood base. The opening is a crisp and piquant blend of bergamot, black currant, green apple and pineapple. Earthy-sweet, enveloping notes emerge next, mingling birch, rose and moroccan jasmine with lovely undertones of patchouli and oak moss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555812986966</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">298.33</s:price>
+      <s:sku>547513</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555812954198</id>
+    <published>2021-04-01T00:22:25-04:00</published>
+    <updated>2021-04-01T00:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/aventus-cologne-by-creed-millesime-spray"/>
+    <title>Aventus Millesime Spray By Creed</title>
+    <s:type>Millesime Spray</s:type>
+    <s:vendor>Creed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/aven84m_4322cd8e-7ea5-45c9-a879-7ce3402bf3e2.jpg?v=1619488197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creed<br>
+        <strong>Type: </strong>Millesime Spray<br>
+        <strong>Price: </strong>
+            674.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aventus Cologne by Creed, Oliver Creed presented this Creed cologne for men to the world in 2010. Creed had high aspirations for Creed Aventus cologne. In fact, Emperor Napoleon Bonaparte was the inspiration behind the Aventus Creed cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555812954198</id>
+      <title>8.4 oz Millesime Spray</title>
+      <s:price currency="USD">674.33</s:price>
+      <s:sku>548005</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

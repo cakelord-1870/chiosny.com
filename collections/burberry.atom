@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/burberry.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:13:37-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556075098198</id>
+    <published>2021-04-01T03:13:37-04:00</published>
+    <updated>2021-04-01T03:13:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/weekend-perfume-by-burberry-eau-de-parfum-spray-tester"/>
+    <title>Weekend Eau De Parfum Spray (Tester) By Burberry</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WW34T.jpg?v=1617827217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            41.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weekend Perfume by Burberry, Launched by the design house of burberry\'s in 1997, weekend is classified as a sharp, flowery fragrance. This feminine scent possesses a blend of soft peach, apricot, marigold, sandalwood, vanilla and musk. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075098198</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">41.50</s:price>
+      <s:sku>449179</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556075065430</id>
+    <published>2021-04-01T03:13:35-04:00</published>
+    <updated>2021-04-01T03:13:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/weekend-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>Weekend Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BUWES1.jpg?v=1617827219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            34.50 - 45.30
+            <a href="https://chiosny.com/products/weekend-perfume-by-burberry-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weekend Perfume by Burberry, Launched by the design house of burberry\'s in 1997, weekend is classified as a sharp, flowery fragrance. This feminine scent possesses a blend of soft peach, apricot, marigold, sandalwood, vanilla and musk. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075065430</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>402430</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075065430</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">38.98</s:price>
+      <s:sku>402425</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556075065430</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>402428</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556074999894</id>
+    <published>2021-04-01T03:13:34-04:00</published>
+    <updated>2021-04-01T03:13:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/weekend-cologne-by-burberry-eau-de-toilette-spray-tester"/>
+    <title>Weekend Eau De Toilette Spray (Tester) By Burberry</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BWMT.jpg?v=1617827215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            34.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weekend Cologne by Burberry, Launched by the design house of burberry\'s in 1997, weekend is classified as a sharp, woody, mossy fragrance. This masculine scent possesses a blend of crisp woods and citrus. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556074999894</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">34.79</s:price>
+      <s:sku>445907</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556074934358</id>
+    <published>2021-04-01T03:13:32-04:00</published>
+    <updated>2021-04-01T03:13:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/weekend-cologne-by-burberry-eau-de-toilette-spray"/>
+    <title>Weekend Eau De Toilette Spray By Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BUWMTS1.jpg?v=1617827218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            32.87 - 41.93
+            <a href="https://chiosny.com/products/weekend-cologne-by-burberry-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weekend Cologne by Burberry, Launched by the design house of burberry\'s in 1997, weekend is classified as a sharp, woody, mossy fragrance. This masculine scent possesses a blend of crisp woods and citrus. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556074934358</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">32.87</s:price>
+      <s:sku>402420</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556074934358</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.23</s:price>
+      <s:sku>402419</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556074934358</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>402424</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049408086</id>
+    <published>2021-04-01T02:56:28-04:00</published>
+    <updated>2021-04-01T02:56:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-beat-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>The Beat Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEBTW1.jpg?v=1617826341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            39.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Beat Perfume by Burberry, From burberry, britain’s most fashionable brand, meet the beat. A hip and trendsetting floral/woody scent with english attitude. Traditional floral notes of iris, bergamot and bluebell combine with ceylon tea, cardamom, pink pepper, mandarin, white musk, vetiver, and cedarwood for a smoky and sexy composition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049408086</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">39.80</s:price>
+      <s:sku>451321</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049375318</id>
+    <published>2021-04-01T02:56:24-04:00</published>
+    <updated>2021-04-01T02:56:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-beat-cologne-by-burberry-mini-edt"/>
+    <title>The Beat Mini EDT By Burberry</title>
+    <s:type>Mini EDT</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEBEMIM.jpg?v=1617826343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Mini EDT<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Beat Cologne by Burberry, From the trendsetting purveyor of all things british, this is a contemporary citrus/aromatic for men. Created by master perfumer oliver polge, the beat resonates with notes of musky citron (a citrus fruit), fresh vetiver and a pinch of pepper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049375318</id>
+      <title>0.15 oz Mini EDT</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>461332</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049342550</id>
+    <published>2021-04-01T02:56:23-04:00</published>
+    <updated>2021-04-01T02:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-beat-cologne-by-burberry-eau-de-toilette-spray"/>
+    <title>The Beat Eau De Toilette Spray By Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TBMT17.jpg?v=1617826334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            38.23 - 45.88
+            <a href="https://chiosny.com/products/the-beat-cologne-by-burberry-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Beat Cologne by Burberry, From the trendsetting purveyor of all things british, this is a contemporary citrus/aromatic for men. Created by master perfumer oliver polge, the beat resonates with notes of musky citron (a citrus fruit), fresh vetiver and a pinch of pepper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049342550</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.23</s:price>
+      <s:sku>457999</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049342550</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.88</s:price>
+      <s:sku>460148</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555982954582</id>
+    <published>2021-04-01T02:12:59-04:00</published>
+    <updated>2021-04-01T02:12:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/my-burberry-perfume-by-burberry-vial-sample"/>
+    <title>My Burberry Vial (sample) By Burberry</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MYBBW9.jpg?v=1617824125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Burberry Perfume by Burberry, With the resplendent bouquet of fruit and flowers, my burberry for women takes you from day to evening with grace and sophistication. Lovely notes of sweet pea, geranium, freesia and rose entwine with the essence of bergamot to create an unforgettably fresh scent. Introduced in 2014, this striking fragrance from burberry lets you express your unique femininity and features layers of depth and intensity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982954582</id>
+      <title>0.07 oz Vial</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>556000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555982921814</id>
+    <published>2021-04-01T02:12:57-04:00</published>
+    <updated>2021-04-01T02:12:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/my-burberry-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>My Burberry Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MYB10OZW.jpg?v=1617824123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            40.13 - 71.00
+            <a href="https://chiosny.com/products/my-burberry-perfume-by-burberry-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Burberry Perfume by Burberry, With the resplendent bouquet of fruit and flowers, my burberry for women takes you from day to evening with grace and sophistication. Lovely notes of sweet pea, geranium, freesia and rose entwine with the essence of bergamot to create an unforgettably fresh scent. Introduced in 2014, this striking fragrance from burberry lets you express your unique femininity and features layers of depth and intensity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982921814</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">40.13</s:price>
+      <s:sku>517532</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982921814</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">71.00</s:price>
+      <s:sku>515828</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555982889046</id>
+    <published>2021-04-01T02:12:53-04:00</published>
+    <updated>2021-04-01T02:12:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/my-burberry-blush-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>My Burberry Blush Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MYBB1OZW.jpg?v=1617824113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            46.00 - 60.72
+            <a href="https://chiosny.com/products/my-burberry-blush-perfume-by-burberry-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Burberry Blush Perfume by Burberry, Fruity, floral and feminine, my burberry blush was created for burberry in 2017. Designed by perfumer francis kurkdjian, the scent's top notes include lemon and pomegranate. After the initial spritz, the wearer finds the heart of the fragrance, which includes rose, green apple and geranium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982889046</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>545120</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982889046</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">60.72</s:price>
+      <s:sku>545662</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555982856278</id>
+    <published>2021-04-01T02:12:51-04:00</published>
+    <updated>2021-04-01T02:12:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/my-burberry-black-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>My Burberry Black Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MYBB1EDP.jpg?v=1617824112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            51.30 - 67.30
+            <a href="https://chiosny.com/products/my-burberry-black-perfume-by-burberry-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Burberry Black Perfume by Burberry, This fragrance was created by the design house of burberry with perfumer francis kurkdjian and released in 2016. A rich blend of notes that create a luscious oriental floral perfume to be cherished. Smooth by nature and completely captivating, this intoxicating scent will not disappoint.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982856278</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">51.30</s:price>
+      <s:sku>539357</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982856278</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">67.30</s:price>
+      <s:sku>534140</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555981512790</id>
+    <published>2021-04-01T02:11:58-04:00</published>
+    <updated>2021-04-01T02:11:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mr-burberry-indigo-cologne-by-burberry-vial-sample"/>
+    <title>Mr Burberry Indigo Vial (sample) By Burberry</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MRBBMV.jpg?v=1617824068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            21.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mr Burberry Indigo Cologne by Burberry, Released in 2018 by burberry, mr burberry indigo is a fresh and citrusy scent for men. Fruity top notes of lemon oil, blackcurrant and rosemary pull you into the fragrance before fresh heart notes of green violet leaf, spearmint and driftwood fill your senses. Earthy base notes of white oak moss, amber and musk add a warm and masculine touch to the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981512790</id>
+      <title>0.06 oz Vial</title>
+      <s:price currency="USD">21.25</s:price>
+      <s:sku>556001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555981480022</id>
+    <published>2021-04-01T02:11:57-04:00</published>
+    <updated>2021-04-01T02:11:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mr-burberry-indigo-cologne-by-burberry-gift-set"/>
+    <title>Mr Burberry Indigo Gift Set By Burberry</title>
+    <s:type>Gift Set - 3.3 oz Eau De Toilette Spray + 1 oz Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MBINDIGS.jpg?v=1617824072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Gift Set - 3.3 oz Eau De Toilette Spray + 1 oz Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mr Burberry Indigo Cologne by Burberry, Released in 2018 by burberry, mr burberry indigo is a fresh and citrusy scent for men. Fruity top notes of lemon oil, blackcurrant and rosemary pull you into the fragrance before fresh heart notes of green violet leaf, spearmint and driftwood fill your senses. Earthy base notes of white oak moss, amber and musk add a warm and masculine touch to the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981480022</id>
+      <title>3.3 oz Eau De Toilette Spray + 1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>548549</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555981447254</id>
+    <published>2021-04-01T02:11:55-04:00</published>
+    <updated>2021-04-01T02:11:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mr-burberry-indigo-cologne-by-burberry-eau-de-toilette-spray"/>
+    <title>Mr Burberry Indigo Eau De Toilette Spray By Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MB16MED.jpg?v=1617824068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            40.77 - 44.73
+            <a href="https://chiosny.com/products/mr-burberry-indigo-cologne-by-burberry-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mr Burberry Indigo Cologne by Burberry, Released in 2018 by burberry, mr burberry indigo is a fresh and citrusy scent for men. Fruity top notes of lemon oil, blackcurrant and rosemary pull you into the fragrance before fresh heart notes of green violet leaf, spearmint and driftwood fill your senses. Earthy base notes of white oak moss, amber and musk add a warm and masculine touch to the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981447254</id>
+      <title>1.6 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">40.77</s:price>
+      <s:sku>548326</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981447254</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">44.73</s:price>
+      <s:sku>542326</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555981414486</id>
+    <published>2021-04-01T02:11:52-04:00</published>
+    <updated>2021-04-01T02:11:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mr-burberry-cologne-by-burberry-eau-de-toilette-spray"/>
+    <title>Mr Burberry Eau De Toilette Spray By Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BMRMTS1.jpg?v=1617824068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            35.63 - 62.51
+            <a href="https://chiosny.com/products/mr-burberry-cologne-by-burberry-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mr Burberry Cologne by Burberry, Mr. Burberry is a masculine cologne for the confident man. The herbal, woody composition is inspired by classic, aromatic fougère of many famous fragrances.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981414486</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.63</s:price>
+      <s:sku>535128</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981414486</id>
+      <title>1.6 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">41.88</s:price>
+      <s:sku>533681</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981414486</id>
+      <title>5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">62.51</s:price>
+      <s:sku>534114</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555981381718</id>
+    <published>2021-04-01T02:11:50-04:00</published>
+    <updated>2021-04-01T02:11:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mr-burberry-cologne-by-burberry-eau-de-parfum-spray"/>
+    <title>Mr Burberry Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MB16EDPM.jpg?v=1617824070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            45.30 - 75.00
+            <a href="https://chiosny.com/products/mr-burberry-cologne-by-burberry-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mr Burberry Cologne by Burberry, Mr. Burberry is a masculine cologne for the confident man. The herbal, woody composition is inspired by classic, aromatic fougère of many famous fragrances.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981381718</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>545103</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981381718</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>537405</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555981381718</id>
+      <title>5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>539184</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835990102</id>
+    <published>2021-04-01T00:36:59-04:00</published>
+    <updated>2021-04-01T00:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-touch-perfume-by-burberry-eau-de-parfum-spray-tester"/>
+    <title>Burberry Touch Eau De Parfum Spray (Tester) By Burberry</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BTW34T.jpg?v=1617819021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            35.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Touch Perfume by Burberry, Launched by the design house of burberry in 2000, burberrys touch is classified as a refreshing, gentle, oriental fragrance. This feminine scent possesses a blend of citrus and rose top notes, with floral mid notes and base notes of vanilla, oakmoss and cedar. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835990102</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>446819</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835957334</id>
+    <published>2021-04-01T00:36:57-04:00</published>
+    <updated>2021-04-01T00:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-touch-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>Burberry Touch Eau De Parfum Spray By Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BUTES1.jpg?v=1617819020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            35.05 - 48.40
+            <a href="https://chiosny.com/products/burberry-touch-perfume-by-burberry-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Touch Perfume by Burberry, Launched by the design house of burberry in 2000, burberrys touch is classified as a refreshing, gentle, oriental fragrance. This feminine scent possesses a blend of citrus and rose top notes, with floral mid notes and base notes of vanilla, oakmoss and cedar. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835957334</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>417688</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835957334</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">46.79</s:price>
+      <s:sku>417687</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835957334</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>417686</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835924566</id>
+    <published>2021-04-01T00:36:56-04:00</published>
+    <updated>2021-04-01T00:36:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-touch-cologne-by-burberry-eau-de-toilette-spray-unboxed"/>
+    <title>Burberry Touch Eau De Toilette Spray (unboxed) By Burberry</title>
+    <s:type>Eau De Toilette Spray (unboxed)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BTT34MU.jpg?v=1617819021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (unboxed)<br>
+        <strong>Price: </strong>
+            53.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Touch Cologne by Burberry, The burberry man likes to experience his sensuality steeped in authenticity and elegance. For this lover of fine fabrics, burberry has devised a fragrance, which is comfortable, welcoming and yet rich in contrasts. The fragrance, created by jean-pierre bethouard, firmenich, displays an initial freshness of hard-to-define notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835924566</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">53.56</s:price>
+      <s:sku>467301</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835859030</id>
+    <published>2021-04-01T00:36:55-04:00</published>
+    <updated>2021-04-01T00:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-touch-cologne-by-burberry-eau-de-toilette-spray-tester"/>
+    <title>Burberry Touch Eau De Toilette Spray (Tester) By Burberry</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BTMT34T.jpg?v=1617819021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Touch Cologne by Burberry, The burberry man likes to experience his sensuality steeped in authenticity and elegance. For this lover of fine fabrics, burberry has devised a fragrance, which is comfortable, welcoming and yet rich in contrasts. The fragrance, created by jean-pierre bethouard, firmenich, displays an initial freshness of hard-to-define notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835859030</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>446570</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835826262</id>
+    <published>2021-04-01T00:36:53-04:00</published>
+    <updated>2021-04-01T00:36:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-touch-cologne-by-burberry-eau-de-toilette-spray"/>
+    <title>Burberry Touch Eau De Toilette Spray By Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BUTMTS1.jpg?v=1617819020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            33.92 - 48.40
+            <a href="https://chiosny.com/products/burberry-touch-cologne-by-burberry-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Touch Cologne by Burberry, The burberry man likes to experience his sensuality steeped in authenticity and elegance. For this lover of fine fabrics, burberry has devised a fragrance, which is comfortable, welcoming and yet rich in contrasts. The fragrance, created by jean-pierre bethouard, firmenich, displays an initial freshness of hard-to-define notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835826262</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">33.92</s:price>
+      <s:sku>417682</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835826262</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.98</s:price>
+      <s:sku>417685</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835826262</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>417681</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835793494</id>
+    <published>2021-04-01T00:36:52-04:00</published>
+    <updated>2021-04-01T00:36:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-summer-perfume-by-burberry-eau-de-toilette-spray-2013-tester"/>
+    <title>Burberry Summer Eau De Toilette Spray (2013 Tester) By Burberry</title>
+    <s:type>Eau De Toilette Spray (2013 Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/bsw2011_9b5f161f-7a64-4a15-8bba-699f2cb781da.jpg?v=1624985942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (2013 Tester)<br>
+        <strong>Price: </strong>
+            33.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Summer Perfume by Burberry, It has fragrance notes of mandarin, bergamot, grapefruit, green apple, water lily, freesia, rose, white musk, vanilla, green oakmoss, and precious woods.</p>
+<p>tester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835793494</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">33.44</s:price>
+      <s:sku>547927</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835760726</id>
+    <published>2021-04-01T00:36:51-04:00</published>
+    <updated>2021-04-01T00:36:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-summer-perfume-by-burberry-eau-de-toilette-spray-2011"/>
+    <title>Burberry Summer Eau De Toilette Spray (2011) By Burberry</title>
+    <s:type>Eau De Toilette Spray (2011)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BSW2011.jpg?v=1617818944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (2011)<br>
+        <strong>Price: </strong>
+            51.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Summer Perfume by Burberry, It has fragrance notes of mandarin, bergamot, grapefruit, green apple, water lily, freesia, rose, white musk, vanilla, green oakmoss, and precious woods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835760726</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">51.22</s:price>
+      <s:sku>482530</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835727958</id>
+    <published>2021-04-01T00:36:50-04:00</published>
+    <updated>2021-04-01T00:36:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-summer-cologne-by-burberry-eau-de-toilette-spray-2013-tester"/>
+    <title>Burberry Summer Eau De Toilette Spray (2013 Tester) By Burberry</title>
+    <s:type>Eau De Toilette Spray (2013 Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/burb38_dccc8719-3c67-4e4e-9655-f102a7330cee.jpg?v=1620580541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (2013 Tester)<br>
+        <strong>Price: </strong>
+            36.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Summer Cologne by Burberry, Launched in 2007, burberry summer for men is in the aromatic group of fragrances. The opening note is the fresh and fruity scent of pineapple, which gives way to the green and spicy middle notes of mint and fennel. Base notes of musk, tonkin beans, and cedar provide a woody and spicy finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835727958</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">36.22</s:price>
+      <s:sku>552586</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555835695190</id>
+    <published>2021-04-01T00:36:49-04:00</published>
+    <updated>2021-04-01T00:36:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-sport-perfume-by-burberry-shower-gel"/>
+    <title>Burberry Sport Shower Gel By Burberry</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BURBW5SG.jpg?v=1617818944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Sport Perfume by Burberry, From the british house of iconic plaid, a new twist to their popular fragrances a lively floral for women that is sporty and dynamic. Created by noses oliver polge and beatricepiguet, the scent opens with top notes of sea salt and mandarine. The heart encompasses light and green floral notes of magnolia, honeysuckle and petit grain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555835695190</id>
+      <title>5 oz Shower Gel</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>548784</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/chanel.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-07-20T15:48:40-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6607569387606</id>
+    <published>2021-07-20T15:48:40-04:00</published>
+    <updated>2021-07-20T15:48:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bleu-de-chanel-parfum-decant"/>
+    <title>Bleu de Chanel Parfum Decant</title>
+    <s:type>Eau De Parfium Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/bleuparfum.jpg?v=1626810521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfium Spray<br>
+        <strong>Price: </strong>
+            12.99 - 21.44
+            <a href="https://chiosny.com/products/bleu-de-chanel-parfum-decant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">BLEU DE CHANEL represents the colour of freedom.  A fragrance unveiling three nuances of its temperament in three interpretations: Eau de Toilette from 2010, Eau de Parfum from 2014, and Parfum from 2018. </p>
+<p data-mce-fragment="1">"The most intense of the BLEU DE CHANEL fragrances. Powerful and refined,<span data-mce-fragment="1"> </span><b data-mce-fragment="1">BLEU DE CHANEL Parfum</b><span data-mce-fragment="1"> </span>for men reveals the essence of determination. An aromatic freshness opens, lingering on the warm, addictive fullness of Cedar and Sandalwood from New Caledonia that sweeps throughout the intense, woody fragrance."</p>
+<p data-mce-fragment="1">The nose behind this fragrance is Olivier Polge.</p>
+<p data-mce-fragment="1"><strong><em>he original bottle on the main picture is not for sale, it just shows the original bottle from which perfume will be decanted. Therefore, the customer will receive the authentic fragrance poured from the original bottle into a new sterile vial. The size of the vial is your choice.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decants</s:tag>
+    <s:tag>Samples</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6607569387606</id>
+      <title>1 Ml Sample / Men</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6607569387606</id>
+      <title>2 Ml Glass Spray / Men</title>
+      <s:price currency="USD">21.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6590208016470</id>
+    <published>2021-06-13T19:14:05-04:00</published>
+    <updated>2021-06-13T19:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bleu-de-chanel-all-body-spray"/>
+    <title>Bleu de Chanel All body Spray</title>
+    <s:type>All Over Body Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ALLSPRAY.jpg?v=1623626061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>All Over Body Spray<br>
+        <strong>Price: </strong>
+            94.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A portable fragrance mist that can be sprayed generously all over to amplify the scent of BLEU DE CHANEL throughout the day. 5.0 fl oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6590208016470</id>
+      <title>5.0 fl oz / Men</title>
+      <s:price currency="USD">94.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6570548756566</id>
+    <published>2021-05-05T12:43:23-04:00</published>
+    <updated>2021-05-05T12:43:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chance-eau-vive-by-chanel"/>
+    <title>Chance Eau vive by Chanel</title>
+    <s:type>Eau De Toilette</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/eauvive.jpg?v=1620232993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Toilette<br>
+        <strong>Price: </strong>
+            101.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chance Eau vive by Chanel Eau de toilette </p>
+<p><span data-mce-fragment="1">Radiant with energy, the vibrant floral fragrance sweeps you into a lively whirlwind of happiness for a chance encounter.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6570548756566</id>
+      <title>1.7 oz Eau de toilette / Women</title>
+      <s:price currency="USD">101.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6570548756566</id>
+      <title>3.4 oz Eau de toilette / Women</title>
+      <s:price currency="USD">101.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6558601969750</id>
+    <published>2021-04-08T12:50:23-04:00</published>
+    <updated>2021-04-08T12:50:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/gabrielle-essence-by-chanel"/>
+    <title>Gabrielle Essence By Chanel</title>
+    <s:type>Eau De Parfium Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/essence_32945748-1f6f-4eda-8fca-4cb30705b131.jpg?v=1619020411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfium Spray<br>
+        <strong>Price: </strong>
+            154.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Inspired by the free and passionate woman who became Coco Chanel, GABRIELLE CHANEL ESSENCE is a more voluptuous, intensely feminine interpretation of the luminous floral fragrance. The striking square glass bottle is reimagined with bolder golden accents on the cap and label.</span></p>
+<p><span data-mce-fragment="1">Eau de parfum</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6558601969750</id>
+      <title>3.4 oz Eau de Parfum / Women</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556453208150</id>
+    <published>2021-04-01T22:10:27-04:00</published>
+    <updated>2021-04-01T22:10:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chance-eau-tendre-by-chanel"/>
+    <title>chance eau tendre by Chanel</title>
+    <s:type>Eau De Toiette Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/chanceeau.jpg?v=1617827495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Toiette Spray<br>
+        <strong>Price: </strong>
+            131.22 - 159.88
+            <a href="https://chiosny.com/products/chance-eau-tendre-by-chanel">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">An enhanced interpretation of the unexpected fruity-floral fragrance, CHANCE EAU TENDRE Eau de Parfum sweeps you into an intensified whirlwind of tenderness. The signature CHANCE bottle is reinvented with a silver cap and golden accent.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6556453208150</id>
+      <title>3.4 oz Eau de parfum / Women</title>
+      <s:price currency="USD">159.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556453208150</id>
+      <title>3.4 Eau de toilette Eau Fraiche / Women</title>
+      <s:price currency="USD">139.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556453208150</id>
+      <title>3.4 oz Eau tendre / Women</title>
+      <s:price currency="USD">139.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556453208150</id>
+      <title>3.4 oz Eau vive / Women</title>
+      <s:price currency="USD">131.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556453208150</id>
+      <title>3.4 oz Chance Eau de toilette / Women</title>
+      <s:price currency="USD">134.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556446294102</id>
+    <published>2021-04-01T21:49:38-04:00</published>
+    <updated>2021-04-01T21:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/antaeus-cologne"/>
+    <title>Antaeus Cologne by Chanel</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/antaeus.jpg?v=1617817608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            144.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1" itemprop="Description">Antaeus Cologne by Chanel, Created by the house of chanel with perfumers jacques polge and francois demachy. It was released in 1981. </span><span data-mce-fragment="1"></span><span id="product-read-more-text-mq1" class="mq1dnone" data-mce-fragment="1">A luxurious spicy woodsy cologne with light shades of citrus. Antaeus is the name of an ancient greek demigod. Strong yet easy going at times. Full of life and spirit, this scent will give all of this to you. The top notes are coriander, lime, bergamot, clary sage, lemon and myrrh. The heart notes are rose, romantic jasmine, thyme and basil.<span data-mce-fragment="1"> </span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556446294102</id>
+      <title>3.4 oz Eau de toilette / Men</title>
+      <s:price currency="USD">144.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556445311062</id>
+    <published>2021-04-01T21:46:15-04:00</published>
+    <updated>2021-04-01T21:46:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pour-monsieur-chanel-for-men"/>
+    <title>Pour Monsieur Chanel for Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/pourmon.jpg?v=1617827497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            148.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Created in 1955 as an Eau de Toilette, POUR MONSIEUR was the first Chanel men’s fragrance. A more intense version of the original, the Eau de Parfum is a fresh, woody Chypre scent that still retains its understated elegance. A refined and timeless composition.</span></p>
+<p>Free shipping</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556445311062</id>
+      <title>2.5 oz Eau de parfum / Men</title>
+      <s:price currency="USD">148.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556415328342</id>
+    <published>2021-04-01T20:25:37-04:00</published>
+    <updated>2021-04-01T20:25:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chanel-coco-eau-de-parfum"/>
+    <title>Chanel Coco Eau de Parfum</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COC10PSW.jpg?v=1619535649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            152.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1" itemprop="Description">Coco Perfume by Chanel, Created by the house of chanel with perfumer jacques polge and released in 1984. An oriental spicy perfume for women. </span><span data-mce-fragment="1"></span><span id="product-read-more-text-mq1" class="" data-mce-fragment="1">A spirited blend of notes that create a remarkable and vibrant perfume. Sheer luxury comes to mind when you spray this on your skin. The top notes are coriander, mandarin, pimento and frangipani. The heart notes are ylang ylang, bulgarian rose, orange blossom, jasmine, iris, cinnamon and angelica.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556415328342</id>
+      <title>3.4 oz Eau de parfum / Women</title>
+      <s:price currency="USD">152.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556414509142</id>
+    <published>2021-04-01T20:23:17-04:00</published>
+    <updated>2021-04-01T20:23:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chanel-no5-eau-de-premier-tester"/>
+    <title>Chanel no5 Eau de Premier Tester</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/tesCHP1W_f2890f55-9c0a-4ebb-a627-9a40b8ac15d4.jpg?v=1617827487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            121.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Chanel no5 Eau de Premier Tester Un Box 3.4 oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556414509142</id>
+      <title>3.4 oz / Women</title>
+      <s:price currency="USD">121.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556406415446</id>
+    <published>2021-04-01T19:57:15-04:00</published>
+    <updated>2021-04-01T19:57:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chanel-5-leau-no-box-with-cap-tester"/>
+    <title>Chanel 5 L&apos;eau no box with Cap tester</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/tesCH5l1w.jpg?v=1617827484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            98.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1" itemprop="Description">Chanel No. 5 L'eau Perfume by Chanel, In the fall of 2016, chanel released its newest addition to its long line of stellar fragrances with no. </span><span data-mce-fragment="1"></span><span id="product-read-more-text-mq1" class="" data-mce-fragment="1">5 l’eau. At the top of this perfume are aldehydes, neroli, orange, mandarin and lemon. The heart of the fragrance has notes of jasmine, ylang-ylang and rose. White musk and cedar make up the base. The target audience for this perfume is millennials looking for something youthful and sophisticated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556406415446</id>
+      <title>3.4 oz Eau de toilette / Women</title>
+      <s:price currency="USD">98.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556405727318</id>
+    <published>2021-04-01T19:45:54-04:00</published>
+    <updated>2021-04-01T19:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/rouge-lipstick-by-chanel"/>
+    <title>Rouge Lipstick by Chanel</title>
+    <s:type></s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/lipstick.jpg?v=1617827486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ultra hydrating rouge Lipstick.</p>
+<p><span>ROUGE COCO lip colour is more expressive than ever in a hydrating, next-generation formula that provides full coverage with a creamy yet lightweight finish.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6556405727318</id>
+      <title>1.0 oz / Women</title>
+      <s:price currency="USD">55.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556405497942</id>
+    <published>2021-04-01T19:43:53-04:00</published>
+    <updated>2021-04-01T19:43:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/gardenia-les-excusifs-de-chanel"/>
+    <title>Gardenia Les excusifs de Chanel</title>
+    <s:type>Eau De Pafum Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/gardenia.jpg?v=1619535730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Pafum Spray<br>
+        <strong>Price: </strong>
+            4784.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The lush, gardenia-infused fragrance created by Coco Chanel as an ode to her beloved camellia is offered in a Parfum—the purest and most powerful concentration—and presented in a rare collectible form: a deluxe grand flacon. A true keepsake for fragrance connoisseurs, the Classic Bottle is cut like a diamond and completed with the art of baudruchage, a fine seal held in place by a white pearl-cotton thread and sealed with a black wax stamp, to protect the fragrance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556405497942</id>
+      <title>30.4 oz / Men</title>
+      <s:price currency="USD">4784.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556405497942</id>
+      <title>30.4 oz / Women</title>
+      <s:price currency="USD">4784.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555902836822</id>
+    <published>2021-04-01T01:21:28-04:00</published>
+    <updated>2021-04-01T01:21:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/gabrielle-perfume-by-chanel-eau-de-parfum-spray"/>
+    <title>Gabrielle By Chanel</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/gbarielle.jpg?v=1619020808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            77.44 - 159.80
+            <a href="https://chiosny.com/products/gabrielle-perfume-by-chanel-eau-de-parfum-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gabrielle Perfume by Chanel, Introduced in 2017, gabrielle by chanel is a sweet perfume that was inspired by traditional floral notes. At the open of the blend are citrusy notes of mandarin orange, grapefruit and black current. Floral middle notes of ylang-ylang, orange blossom and jasmine give the perfume its feminine, sweet scent, while the note of pink pepper adds complexity to the blend.</p>
+<p>Eau De Parfum Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555902836822</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">147.44</s:price>
+      <s:sku>537729</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555902836822</id>
+      <title>3.4 oz Eau de parfum</title>
+      <s:price currency="USD">159.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555902836822</id>
+      <title>3.4 oz Essence</title>
+      <s:price currency="USD">152.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555902836822</id>
+      <title>6.8 fl oz Shower Gel</title>
+      <s:price currency="USD">77.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555856011350</id>
+    <published>2021-04-01T00:50:17-04:00</published>
+    <updated>2021-04-01T00:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/coco-mademoiselle-perfume-by-chanel-eau-de-toilette-spray"/>
+    <title>Coco Mademoiselle Eau De Toilette Spray By Chanel</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MADE2w_1.jpg?v=1619535686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            108.44 - 168.00
+            <a href="https://chiosny.com/products/coco-mademoiselle-perfume-by-chanel-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coco Mademoiselle Perfume by Chanel, Released in 2001, coco mademoiselle is an intoxicating perfume for women that contains sweet and woody notes. The top notes of this perfume are instantly recognizable as bergamot, mandarin orange, orange and orange blossom. The middle notes are turkish rose, jasmine and mimosa while the notes at the base consist of white musk, vetiver, vanilla, opoponax, patchouli and tonka bean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555856011350</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>532712</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555856011350</id>
+      <title>3.4 oz Eau de toilette</title>
+      <s:price currency="USD">149.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555856011350</id>
+      <title>1.6 oz Eau de Parfum</title>
+      <s:price currency="USD">108.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555845066838</id>
+    <published>2021-04-01T00:42:47-04:00</published>
+    <updated>2021-04-01T00:42:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chanel-paris-biarritz-perfume-by-chanel-eau-de-toilette-spray"/>
+    <title>Chanel Paris Biarritz Eau De Toilette Spray By Chanel</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CHANPBI42W.jpg?v=1617819278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            169.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chanel Paris Biarritz Perfume by Chanel, A luxurious perfume, chanel paris biarritz was introduced in 2018 by chanel. This scent is specially crafted to capture the sophisticated and sporty atmosphere of biarritz, a lovely town off the coast of france. Fruity top notes of tangerine, grapefruit and lemon create a summery essence reminiscent of a day at the beach.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555845066838</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">169.88</s:price>
+      <s:sku>545670</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555824783446</id>
+    <published>2021-04-01T00:29:12-04:00</published>
+    <updated>2021-04-01T00:29:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bleu-de-chanel-cologne-by-chanel-eau-de-parfum-spray"/>
+    <title>Bleu De Chanel Eau De Parfum Spray By Chanel</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BDC34EDPM.jpg?v=1617818605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            48.44 - 189.44
+            <a href="https://chiosny.com/products/bleu-de-chanel-cologne-by-chanel-eau-de-parfum-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bleu De Chanel Cologne by Chanel, Chanel is one brand that has the most exciting products in the fashion industry, be it clothing or perfumes. To start with, this perfume's bottle is designed in such a way that only one word can do it justice – chic! the bleu de chanel was launched in 2010 to rave reviews.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555824783446</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">181.44</s:price>
+      <s:sku>533694</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555824783446</id>
+      <title>3.4 Parfum Edition</title>
+      <s:price currency="USD">189.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555824783446</id>
+      <title>2.0 oz Deodorant stick</title>
+      <s:price currency="USD">48.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555824783446</id>
+      <title>6.8 oz Shower Gel</title>
+      <s:price currency="USD">64.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

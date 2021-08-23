@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/calvin-klein.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:03:17-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556059369558</id>
+    <published>2021-04-01T03:03:17-04:00</published>
+    <updated>2021-04-01T03:03:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/truth-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Truth Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TRU30PSW.jpg?v=1617826645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            33.46 - 44.84
+            <a href="https://chiosny.com/products/truth-perfume-by-calvin-klein-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Truth Perfume by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumers alberto morillas, jacques cavallier belletrud and thierry wasser. It was released in 2000. A warm flowery perfume for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556059369558</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">44.73</s:price>
+      <s:sku>402170</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556059369558</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">33.46</s:price>
+      <s:sku>402172</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556059369558</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">44.84</s:price>
+      <s:sku>402165</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556034269270</id>
+    <published>2021-04-01T02:46:13-04:00</published>
+    <updated>2021-04-01T02:46:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sheer-beauty-perfume-by-calvin-klein-eau-de-toilette-spray"/>
+    <title>Sheer Beauty Eau De Toilette Spray By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CALK34W.jpg?v=1617825813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Beauty Perfume by Calvin Klein, Launched in 2010, sheer beauty by calvin klein belongs to today's woman: rippling with unaffected youth, confidence and enthusiasm. Suffused with floral notes, the fragrance is composed of opening notes of bergamot, red berries and peach bellini, followed by floral heart of intense peony, pink lily and jasmine and with a base of sandalwood, musk and vanilla blossom. These notes coalesce to form accords of fruit and white florals, making it absolutely perfect for daytime wear in the spring and summer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556034269270</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>491085</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556031156310</id>
+    <published>2021-04-01T02:44:04-04:00</published>
+    <updated>2021-04-01T02:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/secret-obsession-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Secret Obsession Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SOWP17.jpg?v=1617825728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            35.63 - 37.36
+            <a href="https://chiosny.com/products/secret-obsession-perfume-by-calvin-klein-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Secret Obsession Perfume by Calvin Klein, Calvin klein knows sexy and secret obsession is an intense floral/oriental fragrance that is sultry and addictive. Between love and madness is the secret of this intoxicating scent, with its complex blend of exotic plum, mace, rose de damas, egyptian jasmine, french orange flower, spicy orchid, ylang, tuberose, moroccan cedarwood, wormwood, cashmere woods, burnt amber, madagascan vanilla, australian sandalwood, florentine orris root.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556031156310</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">37.36</s:price>
+      <s:sku>455315</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556031156310</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">35.63</s:price>
+      <s:sku>454891</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556020768854</id>
+    <published>2021-04-01T02:37:10-04:00</published>
+    <updated>2021-04-01T02:37:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/reveal-calvin-klein-perfume-by-calvin-klein-eau-de-parfum-spray-rollerball"/>
+    <title>Reveal Calvin Klein Eau De Parfum Spray Rollerball By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray Rollerball</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RCK33RBP.jpg?v=1617825357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray Rollerball<br>
+        <strong>Price: </strong>
+            23.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reveal Calvin Klein Perfume by Calvin Klein, Spritz on reveal, a bold and heady fragrance for women from the design house of calvin klein. Released in 2014, this scent features a spicy blend of white and black pepper and salt combined with an exotic touch of iris and ambergris for an exciting scent that will leave noses mesmerized long after you've left the room. Apply it before work for an energized start to the day, or apply it in the afternoon to recharge and get ready for whatever the day holds in store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556020768854</id>
+      <title>0.33 oz Eau De Parfum Spray Rollerball</title>
+      <s:price currency="USD">23.33</s:price>
+      <s:sku>535318</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556020736086</id>
+    <published>2021-04-01T02:37:09-04:00</published>
+    <updated>2021-04-01T02:37:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/reveal-calvin-klein-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Reveal Calvin Klein Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/REV17WCK.jpg?v=1617825354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reveal Calvin Klein Perfume by Calvin Klein, Spritz on reveal, a bold and heady fragrance for women from the design house of calvin klein. Released in 2014, this scent features a spicy blend of white and black pepper and salt combined with an exotic touch of iris and ambergris for an exciting scent that will leave noses mesmerized long after you've left the room. Apply it before work for an energized start to the day, or apply it in the afternoon to recharge and get ready for whatever the day holds in store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556020736086</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>515334</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556020703318</id>
+    <published>2021-04-01T02:37:08-04:00</published>
+    <updated>2021-04-01T02:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/reveal-calvin-klein-cologne-by-calvin-klein-eau-de-toilette-spray"/>
+    <title>Reveal Calvin Klein Eau De Toilette Spray By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/REVCSG.jpg?v=1617825354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reveal Calvin Klein Cologne by Calvin Klein, Turn over a new leaf when you dab on a splash of reveal calvin klein. Introduced to the world in 2015 by the calvin klein fashion house, this exhilarating men's fragrance features luscious pear and sweet agave notes that have been blended with spicy clary sage and rich tonka bean. The deep brandy base notes of this scent ground the entire mix with a distinctly masculine flair that allows you to subtly showcase your quiet strength.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556020703318</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>555969</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990786134</id>
+    <published>2021-04-01T02:18:22-04:00</published>
+    <updated>2021-04-01T02:18:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-perfume-by-calvin-klein-eau-de-parfum-spray-tester"/>
+    <title>Obsession Eau De Parfum Spray (Tester) By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OWP34T.jpg?v=1617824421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            32.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Perfume by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumer jean guichard and released in 1985. This is a remarkable oriental spicy perfume with a fresh take especially for women. The blend will offer you a very sensual experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990786134</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">32.87</s:price>
+      <s:sku>447164</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990753366</id>
+    <published>2021-04-01T02:18:15-04:00</published>
+    <updated>2021-04-01T02:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Obsession Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OBSMNN.jpg?v=1617824421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            25.94 - 36.61
+            <a href="https://chiosny.com/products/obsession-perfume-by-calvin-klein-eau-de-parfum-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Perfume by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumer jean guichard and released in 1985. This is a remarkable oriental spicy perfume with a fresh take especially for women. The blend will offer you a very sensual experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990753366</id>
+      <title>0.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">25.94</s:price>
+      <s:sku>400056</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990753366</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">36.61</s:price>
+      <s:sku>400057</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990753366</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>400050</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990753366</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">36.20</s:price>
+      <s:sku>400042</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990720598</id>
+    <published>2021-04-01T02:18:14-04:00</published>
+    <updated>2021-04-01T02:18:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-night-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Obsession Night Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OBNES34.jpg?v=1617824421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            37.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Night Perfume by Calvin Klein, This special fragrance was created by calvin klein, in 2005. Its attractive scent includes a mixture of citrus, fresh flowers, vanilla, amber, bergamot, orange, mandarin, white floral, angelica root, gardenia, rose, jasmine, vanilla, tonka bean, amber, labdanum, sandalwood, cashmere wood. This amazing perfume would make a spectacular gift for any occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990720598</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">37.94</s:price>
+      <s:sku>424349</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990687830</id>
+    <published>2021-04-01T02:18:13-04:00</published>
+    <updated>2021-04-01T02:18:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-night-cologne-by-calvin-klein-eau-de-toilette-spray"/>
+    <title>Obsession Night Eau De Toilette Spray By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OBSNIGHT34.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            37.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Night Cologne by Calvin Klein, This fragrance was released in 2005. A warm spicy scent for men. An elegant, sexy fragrance that will enhance your day or evening.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990687830</id>
+      <title>4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.36</s:price>
+      <s:sku>419570</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990655062</id>
+    <published>2021-04-01T02:18:12-04:00</published>
+    <updated>2021-04-01T02:18:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-eau-de-toilette-spray-tester"/>
+    <title>Obsession Eau De Toilette Spray (Tester) By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OM4T.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            32.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Cologne by Calvin Klein, Launched by the design house of calvin klein in 1986, obsession is classified as a refreshing, oriental, woody fragrance.this masculine scent possesses a blend of lavender, mandarin, clove, nutmeg and amber. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990655062</id>
+      <title>4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">32.87</s:price>
+      <s:sku>446011</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990622294</id>
+    <published>2021-04-01T02:18:08-04:00</published>
+    <updated>2021-04-01T02:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-eau-de-toilette-spray"/>
+    <title>Obsession Eau De Toilette Spray By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMEDTS5.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            25.63 - 43.85
+            <a href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-eau-de-toilette-spray">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Cologne by Calvin Klein, Launched by the design house of calvin klein in 1986, obsession is classified as a refreshing, oriental, woody fragrance.this masculine scent possesses a blend of lavender, mandarin, clove, nutmeg and amber. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990622294</id>
+      <title>0.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">25.63</s:price>
+      <s:sku>441835</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990622294</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">32.58</s:price>
+      <s:sku>400016</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990622294</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>400028</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990622294</id>
+      <title>4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.92</s:price>
+      <s:sku>400038</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990622294</id>
+      <title>6.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">43.85</s:price>
+      <s:sku>429247</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990556758</id>
+    <published>2021-04-01T02:18:07-04:00</published>
+    <updated>2021-04-01T02:18:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-deodorant-stick"/>
+    <title>Obsession Deodorant Stick By Calvin Klein</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMDS26.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            27.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Cologne by Calvin Klein, Launched by the design house of calvin klein in 1986, obsession is classified as a refreshing, oriental, woody fragrance.this masculine scent possesses a blend of lavender, mandarin, clove, nutmeg and amber. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990556758</id>
+      <title>2.6 oz Deodorant Stick</title>
+      <s:price currency="USD">27.74</s:price>
+      <s:sku>524815</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990491222</id>
+    <published>2021-04-01T02:18:06-04:00</published>
+    <updated>2021-04-01T02:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-after-shave-balm"/>
+    <title>Obsession After Shave Balm By Calvin Klein</title>
+    <s:type>After Shave Balm</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMASB5.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>After Shave Balm<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Cologne by Calvin Klein, Launched by the design house of calvin klein in 1986, obsession is classified as a refreshing, oriental, woody fragrance.this masculine scent possesses a blend of lavender, mandarin, clove, nutmeg and amber. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990491222</id>
+      <title>5 oz After Shave Balm</title>
+      <s:price currency="USD">53.00</s:price>
+      <s:sku>459524</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990458454</id>
+    <published>2021-04-01T02:18:05-04:00</published>
+    <updated>2021-04-01T02:18:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsession-cologne-by-calvin-klein-after-shave"/>
+    <title>Obsession After Shave By Calvin Klein</title>
+    <s:type>After Shave</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XMOBSEAS.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>After Shave<br>
+        <strong>Price: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsession Cologne by Calvin Klein, Launched by the design house of calvin klein in 1986, obsession is classified as a refreshing, oriental, woody fragrance.this masculine scent possesses a blend of lavender, mandarin, clove, nutmeg and amber. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990458454</id>
+      <title>4 oz After Shave</title>
+      <s:price currency="USD">39.55</s:price>
+      <s:sku>400021</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990425686</id>
+    <published>2021-04-01T02:18:03-04:00</published>
+    <updated>2021-04-01T02:18:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsessed-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Obsessed Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OW34S.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            53.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsessed Perfume by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumers honorine blanc and annick menardo. It was released in 2017. A refreshing flowery perfume with the wonderful presence of musk and a hint of spice.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990425686</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">53.50</s:price>
+      <s:sku>537592</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990392918</id>
+    <published>2021-04-01T02:18:02-04:00</published>
+    <updated>2021-04-01T02:18:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsessed-intense-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Obsessed Intense Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OBSIN34W.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsessed Intense Perfume by Calvin Klein, Obsessed intense is a striking, floral perfume for women released by calvin klein in 2018. The top notes are a juicy citrus blend. Mandarin orange, other citrus and elemi blend together for a zesty opening.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990392918</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>540906</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990360150</id>
+    <published>2021-04-01T02:18:01-04:00</published>
+    <updated>2021-04-01T02:18:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsessed-cologne-by-calvin-klein-vial-sample"/>
+    <title>Obsessed Vial (sample) By Calvin Klein</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OBSCM4S.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsessed Cologne by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumers ilias ermenidis and christophe raynaud. It was released in 2017 as a companion fragrance to the women's scent by the same name. It is a masculine oriental woodsy scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990360150</id>
+      <title>0.04 oz Vial</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>549241</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990327382</id>
+    <published>2021-04-01T02:18:00-04:00</published>
+    <updated>2021-04-01T02:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsessed-cologne-by-calvin-klein-eau-de-toilette-spray-tester"/>
+    <title>Obsessed Eau De Toilette Spray (Tester) By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OBSCS6.jpg?v=1617824412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsessed Cologne by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumers ilias ermenidis and christophe raynaud. It was released in 2017 as a companion fragrance to the women's scent by the same name. It is a masculine oriental woodsy scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990327382</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>553954</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990294614</id>
+    <published>2021-04-01T02:17:58-04:00</published>
+    <updated>2021-04-01T02:17:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/obsessed-cologne-by-calvin-klein-eau-de-toilette-spray"/>
+    <title>Obsessed Eau De Toilette Spray By Calvin Klein</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/I0080622.jpg?v=1617824344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            36.78 - 42.50
+            <a href="https://chiosny.com/products/obsessed-cologne-by-calvin-klein-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Obsessed Cologne by Calvin Klein, This fragrance was created by the design house of calvin klein with perfumers ilias ermenidis and christophe raynaud. It was released in 2017 as a companion fragrance to the women's scent by the same name. It is a masculine oriental woodsy scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990294614</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">36.78</s:price>
+      <s:sku>550453</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990294614</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>537504</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555900280918</id>
+    <published>2021-04-01T01:19:50-04:00</published>
+    <updated>2021-04-01T01:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/forbidden-euphoria-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Forbidden Euphoria Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/FOREU1OZW.jpg?v=1617821438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Forbidden Euphoria Perfume by Calvin Klein, Calvin klein presented forbidden euphoria in 2011. Young, independent, zesty and full of fun is what this perfume is all about. Take centrestage in your journey of life commandingly, make your presence felt wherever you walk, be surrounded by those you love and are loved by and live a life of joy and sweetness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555900280918</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>502641</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555893104726</id>
+    <published>2021-04-01T01:15:16-04:00</published>
+    <updated>2021-04-01T01:15:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/euphoria-pure-gold-perfume-by-calvin-klein-eau-de-parfum-spray"/>
+    <title>Euphoria Pure Gold Eau De Parfum Spray By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EUPGW.jpg?v=1617821171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euphoria Pure Gold Perfume by Calvin Klein, For the woman who likes a touch of sweetness, euphoria pure gold is a delicate fragrance sure to become your new signature scent. Released in 2017 by luxury brand calvin klein, this gorgeous perfume has accords of leather, amber and florals. At first spritz you are greeted by neroli and dates before moving to a floral heart of rose, ylang-ylang, orange blossom and almond.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555893104726</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>544209</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555893071958</id>
+    <published>2021-04-01T01:15:15-04:00</published>
+    <updated>2021-04-01T01:15:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/euphoria-pure-gold-cologne-by-calvin-klein-eau-de-parfum-spray-tester"/>
+    <title>Euphoria Pure Gold Eau De Parfum Spray (Tester) By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/UPGTSM.jpg?v=1617821169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euphoria Pure Gold Cologne by Calvin Klein, Released in 2017 by luxury fashion house calvin klein, euphoria pure gold is an oriental cologne with a delectable blend of spices, woods and musk. Apply to your pressure points and experience a spicy head accord of pine needles, saffron and cardamom. Rose, juniper and vanilla provide balance and a hint of sweetness before melting to a base of musk, sandalwood, oud and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555893071958</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>553451</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555893039190</id>
+    <published>2021-04-01T01:15:13-04:00</published>
+    <updated>2021-04-01T01:15:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/euphoria-perfume-by-calvin-klein-gift-set"/>
+    <title>Euphoria Gift Set By Calvin Klein</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DELFC5PCW.jpg?v=1617821167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            53.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euphoria Perfume by Calvin Klein, The Calvin Klein brand has been widely respected for many years in the fragrance industry, creating perfumes and colognes that have become the signature scents of millions of people. In 2005, he introduced Calvin Klein Euphoria, and perhaps unsurprisingly, women all over the globe were positively euphoric once they got a whiff of it. Calvin Klein Euphoria perfume is a fun and enticing scent for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555893039190</id>
+      <title>5x .33 oz</title>
+      <s:price currency="USD">53.50</s:price>
+      <s:sku>545212</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555893006422</id>
+    <published>2021-04-01T01:15:12-04:00</published>
+    <updated>2021-04-01T01:15:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/euphoria-perfume-by-calvin-klein-eau-de-parfum-spray-tester"/>
+    <title>Euphoria Eau De Parfum Spray (Tester) By Calvin Klein</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Calvin Klein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EUWP34T.jpg?v=1617821159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Calvin Klein<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            45.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euphoria Perfume by Calvin Klein, The Calvin Klein brand has been widely respected for many years in the fragrance industry, creating perfumes and colognes that have become the signature scents of millions of people. In 2005, he introduced Calvin Klein Euphoria, and perhaps unsurprisingly, women all over the globe were positively euphoric once they got a whiff of it. Calvin Klein Euphoria perfume is a fun and enticing scent for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555893006422</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>455062</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

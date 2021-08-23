@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/bond-no-9.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T11:07:11-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556173926486</id>
+    <published>2021-04-01T11:07:11-04:00</published>
+    <updated>2021-04-01T11:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bond-no-9-nolita-perfume-liptstick"/>
+    <title>Bond No. 9 Nolita Perfume + liptstick</title>
+    <s:type></s:type>
+    <s:vendor>Chio&apos;s New York</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/b9nol1w.jpg?v=1617827475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chio&#39;s New York<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            258.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1" itemprop="Description">Bond No. 9 Nolita Perfume by Bond No. 9, This fragrance was released in 2017. A warm woodsy floral perfume for women. </span><span data-mce-fragment="1"></span><span id="product-read-more-text-mq1" class="mq1dnone" data-mce-fragment="1">This beautiful sensual fragrance is perfect for date night or a romantic outing. Endulce yourself with this flirty bouquet of flowers sweetened by tangerine and warmed by the lower notes. The top notes are freesia and tangerine. The heart notes are lily and jasmine sambac. The finishing notes are amber, musk and sandalwood</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6556173926486</id>
+      <title>3.4 EDP / Women</title>
+      <s:price currency="USD">258.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556039315542</id>
+    <published>2021-04-01T02:49:30-04:00</published>
+    <updated>2021-04-01T02:49:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/spring-fling-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Spring Fling Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/spfl34edp_62771d87-64a6-4b7d-bb72-d7cc796b1b95.jpg?v=1619487937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            191.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span itemprop="Description">Spring Fling Perfume by Bond No. 9, Spring fling perfume by bond no. 9. This fragrance was released in 2018. A beautiful floral scent for women. </span><span></span><span class="" id="product-read-more-text-mq1">The beautiful bottle is just a bonus to how remarkable this perfume is. With a clean, fresh personality, this scent is a rare find. A floral bouquet enhanced by some fresh fruity notes and anchored by sexy warm notes keeps this blend so sensual and romantic. The top notes are lily of the valley, fruit notes and exotic passion flower. The heart notes</span><span> </span><span class="" id="product-read-more-text">are jasmine blossom, freesia and honeysuckle. The finishing notes are amber, musk and teak wood.<span> </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039315542</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">191.44</s:price>
+      <s:sku>550346</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556034302038</id>
+    <published>2021-04-01T02:46:14-04:00</published>
+    <updated>2021-04-01T02:46:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/shelter-island-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Shelter Island Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SHELI33WBO.jpg?v=1617825815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shelter Island Perfume by Bond No. 9, Wrap yourself in the fresh salt air of the seacoast with shelter island by renowned perfume maker bond no. 9.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556034302038</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>534349</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556028665942</id>
+    <published>2021-04-01T02:42:17-04:00</published>
+    <updated>2021-04-01T02:42:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sag-harbor-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Sag Harbor Eau De Pafum Spray By Bond No. 9 - Chio&apos;s New York</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SAGHW.jpg?v=1617825643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            181.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sag Harbor Perfume by Bond No. 9, Launched in 2012 sag harbor has top notes of bergamont and ivy. It has middle notes of honeysuckle, magnolia, peony and grape.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556028665942</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">181.88</s:price>
+      <s:sku>496794</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555999273046</id>
+    <published>2021-04-01T02:23:59-04:00</published>
+    <updated>2021-04-01T02:23:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/park-avenue-perfume-by-bond-no-9-eau-de-parfum-spray-tester"/>
+    <title>Park Avenue Eau De Parfum Spray (Tester) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PATST233.jpg?v=1617824674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Park Avenue Perfume by Bond No. 9, Created for women with distinguished taste in 2003, park avenue by bond no. 9 is a delightfully elegant surprise.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555999273046</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>540915</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555989835862</id>
+    <published>2021-04-01T02:17:40-04:00</published>
+    <updated>2021-04-01T02:17:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nuits-de-noho-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Nuits De Noho Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ndnbp17.jpg?v=1620058809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.88 - 159.99
+            <a href="https://chiosny.com/products/nuits-de-noho-perfume-by-bond-no-9-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nuits De Noho Perfume by Bond No. 9, Launched by world renown perfume house bond no. 9 in 2003, combines an ecclectic set of notes including mandarin, pineapple leaves, jasmine, rosewood, patchouli, vanilla, and gray musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555989835862</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">99.88</s:price>
+      <s:sku>480639</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555989835862</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>456076</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555989114966</id>
+    <published>2021-04-01T02:17:11-04:00</published>
+    <updated>2021-04-01T02:17:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nouveau-bowery-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Nouveau Bowery Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NOUV17BW.jpg?v=1617824311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.00 - 125.00
+            <a href="https://chiosny.com/products/nouveau-bowery-perfume-by-bond-no-9-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nouveau Bowery Perfume by Bond No. 9, Bond no. 9 introduced nouveau bowery in 2003.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555989114966</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>536164</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555989114966</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>460291</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555985870934</id>
+    <published>2021-04-01T02:14:52-04:00</published>
+    <updated>2021-04-01T02:14:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/new-york-musk-perfume-by-bond-no-9-eau-de-parfum-spray-unisex"/>
+    <title>New York Musk Eau De Parfum Spray (Unisex) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NYM17PS.jpg?v=1617824211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            171.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New York Musk Perfume by Bond No. 9, New york musk by bond no. 9 is a 2012 addition to the new york collection, which attempts to capture the unique energy of the city in fragrance form.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985870934</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">171.88</s:price>
+      <s:sku>537389</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555985838166</id>
+    <published>2021-04-01T02:14:48-04:00</published>
+    <updated>2021-04-01T02:14:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/new-york-amber-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>New York Amber Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NYAO17.jpg?v=1617824203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            107.00 - 205.00
+            <a href="https://chiosny.com/products/new-york-amber-perfume-by-bond-no-9-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New York Amber Perfume by Bond No. 9, From the company that makes scents out of new york, this is a deep oriental fragrance created by laurent le guerneiit is powerful earthy exotic scent that seduces with its honey tinged resinous aroma. East meets west in this unisexy fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985838166</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku>537390</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985838166</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>513069</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555985674326</id>
+    <published>2021-04-01T02:14:42-04:00</published>
+    <updated>2021-04-01T02:14:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/new-bond-street-perfume-by-bond-no-9-eau-de-parfum-spray-tester"/>
+    <title>New Bond Street Eau De Parfum Spray (Tester) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NEWBONDSTTS.jpg?v=1617824200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            116.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Bond Street Perfume by Bond No. 9, When women need a fragrance to wear out on a crisp fall night, they turn to new bond street. Its spicy top notes combine lily-of-the-valley and lime with pepper, before yielding to a rich heart of cocoa, chestnut and coffee.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985674326</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">116.00</s:price>
+      <s:sku>544175</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555985641558</id>
+    <published>2021-04-01T02:14:40-04:00</published>
+    <updated>2021-04-01T02:14:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/new-bond-street-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>New Bond Street Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NEWBWT.jpg?v=1617824202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            110.00 - 154.00
+            <a href="https://chiosny.com/products/new-bond-street-perfume-by-bond-no-9-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Bond Street Perfume by Bond No. 9, When women need a fragrance to wear out on a crisp fall night, they turn to new bond street. Its spicy top notes combine lily-of-the-valley and lime with pepper, before yielding to a rich heart of cocoa, chestnut and coffee.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985641558</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>555058</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555985641558</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>544582</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555963654230</id>
+    <published>2021-04-01T01:59:52-04:00</published>
+    <updated>2021-04-01T01:59:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/madison-square-park-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Madison Square Park Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MADSQPW.jpg?v=1617823455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Madison Square Park Perfume by Bond No. 9, Packed in an eye-catching neon pink and green bottle, the madison square park eau de parfum from bond no. 9 launched in 2011 has a fruity vibrancy that is feminine and sprightly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555963654230</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>483309</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555963621462</id>
+    <published>2021-04-01T01:59:51-04:00</published>
+    <updated>2021-04-01T01:59:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/madison-soiree-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Madison Soiree Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MASO99.jpg?v=1617823459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Madison Soiree Perfume by Bond No. 9, Launched by the new york design house of bond no. 9 has an inviting heady aroma of the worlds favorite flowers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555963621462</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>456082</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555954872406</id>
+    <published>2021-04-01T01:55:02-04:00</published>
+    <updated>2021-04-01T01:55:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/liberty-island-perfume-by-bond-no-9-eau-de-parfum-spray-unisex"/>
+    <title>Liberty Island Eau De Parfum Spray (Unisex) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/B9LISW34.jpg?v=1617823231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Liberty Island Perfume by Bond No. 9, This is a unsex fragrance released in 2016. Both men and women will enjoy wearing this fresh fruity floral scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954872406</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>536773</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555931672662</id>
+    <published>2021-04-01T01:41:17-04:00</published>
+    <updated>2021-04-01T01:41:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/jones-beach-perfume-by-bond-no-9-eau-de-parfum-spray-unisex"/>
+    <title>Jones Beach Eau De Parfum Spray (Unisex) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/JBBN933W.jpg?v=1617822478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jones Beach Perfume by Bond No. 9, Jones beach perfume was created by the house of bond no. 9 with perfumer aurelien guichard and released in 2019.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555931672662</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>547251</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555917221974</id>
+    <published>2021-04-01T01:31:46-04:00</published>
+    <updated>2021-04-01T01:31:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/i-love-new-york-earth-day-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>I Love New York Earth Day Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ILOBW34ED.jpg?v=1617822040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            102.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Love New York Earth Day Perfume by Bond No. 9, Women will love this complex, sophisticated green floral scent by bond no. 9.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555917221974</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">102.50</s:price>
+      <s:sku>549374</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555905949782</id>
+    <published>2021-04-01T01:23:40-04:00</published>
+    <updated>2021-04-01T01:23:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/great-jones-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Great Jones Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/GJON9W.jpg?v=1617821617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great Jones Perfume by Bond No. 9, Launched by the renown design house bond no. 9 is an eniticing blend of citrus and wood, with notes of orange, clean cedarwood, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555905949782</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>456083</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555905228886</id>
+    <published>2021-04-01T01:23:09-04:00</published>
+    <updated>2021-04-01T01:23:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/gold-coast-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Gold Coast Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/GCBN934W.jpg?v=1623777792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            232.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Coast Perfume by Bond No. 9, An eye-catching rose gold decanter hints at the feminine wonderland that awaits inside each bottle of gold coast from bond no. 9.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555905228886</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">232.44</s:price>
+      <s:sku>548996</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555882815574</id>
+    <published>2021-04-01T01:07:52-04:00</published>
+    <updated>2021-04-01T01:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/eau-de-noho-perfume-by-bond-no-9-eau-de-parfum-spray-tester"/>
+    <title>Eau De Noho Eau De Parfum Spray (Tester) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EDN3TSW.jpg?v=1617820835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eau De Noho Perfume by Bond No. 9, Eau de noho by bond no. 9 is one fragrance women and men alike can enjoy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555882815574</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>517404</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555882782806</id>
+    <published>2021-04-01T01:07:51-04:00</published>
+    <updated>2021-04-01T01:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/eau-de-noho-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Eau De Noho Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EADNOB9.jpg?v=1617820836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eau De Noho Perfume by Bond No. 9, Eau de noho by bond no. 9 is one fragrance women and men alike can enjoy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555882782806</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>456078</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555847032918</id>
+    <published>2021-04-01T00:43:52-04:00</published>
+    <updated>2021-04-01T00:43:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/chez-bond-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Chez Bond Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CHEZB33W.jpg?v=1617819337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            198.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chez Bond Perfume by Bond No. 9, Founder laurice rahme named her company for the address of her perfumery in n.y.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555847032918</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">198.44</s:price>
+      <s:sku>460292</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555834024022</id>
+    <published>2021-04-01T00:35:34-04:00</published>
+    <updated>2021-04-01T00:35:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bryant-park-perfume-by-bond-no-9-eau-de-parfum-spray-tester"/>
+    <title>Bryant Park Eau De Parfum Spray (Tester) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BPB933PT.jpg?v=1617818885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            116.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bryant Park Perfume by Bond No. 9, A women’s work is never finished. Bryant park has everything you need to get through the day in style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555834024022</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">116.30</s:price>
+      <s:sku>526564</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555833991254</id>
+    <published>2021-04-01T00:35:33-04:00</published>
+    <updated>2021-04-01T00:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bryant-park-perfume-by-bond-no-9-eau-de-parfum-spray"/>
+    <title>Bryant Park Eau De Parfum Spray By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BRYPAR17.jpg?v=1617818888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            103.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bryant Park Perfume by Bond No. 9, A women’s work is never finished. Bryant park has everything you need to get through the day in style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555833991254</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku>456121</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555833696342</id>
+    <published>2021-04-01T00:35:21-04:00</published>
+    <updated>2021-04-01T00:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/brooklyn-cologne-by-bond-no-9-eau-de-parfum-spray-unisex"/>
+    <title>Brooklyn Eau De Parfum Spray (Unisex) By Bond No. 9</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/bb9m17_5741f1b2-527f-41df-b7e7-30228e8775fa.jpg?v=1622046129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            121.44 - 139.44
+            <a href="https://chiosny.com/products/brooklyn-cologne-by-bond-no-9-eau-de-parfum-spray-unisex">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span itemprop="Description">Brooklyn Cologne by Bond No. 9, This orietnal spicy fragrance for men won a fragrance foundation award in 2009. </span><span></span><span class="mq1dnone" id="product-read-more-text-mq1">It features cardamom, geranium leaves and cedar. The composition is refreshed with grapefruit and juniper berries. Guaiac wood and leather introduce a gentler and warmer nuance. The perfume was created by laurice rahme, perfumer, founder and president of the bond no 9 company as an homage to the art and rebirth of the city</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555833696342</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">121.44</s:price>
+      <s:sku>466162</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555833696342</id>
+      <title>3.4 oz Eau de parfum</title>
+      <s:price currency="USD">139.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555829141590</id>
+    <published>2021-04-01T00:32:03-04:00</published>
+    <updated>2021-04-01T00:32:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bond-no-9-soho-perfume-by-bond-no-9-eau-de-parfum-spray-tester"/>
+    <title>Bond No. 9 Soho</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Bond No. 9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BONBWA.jpg?v=1617818732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No. 9<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            149.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bond No. 9 Soho Perfume by Bond No. 9, Soho by bond no.</p>
+<p>Eau De Parfum Spray (Tester) By Bond No. 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555829141590</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">149.88</s:price>
+      <s:sku>551511</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

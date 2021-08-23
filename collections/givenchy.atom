@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/givenchy.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:17:03-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556080865366</id>
+    <published>2021-04-01T03:17:03-04:00</published>
+    <updated>2021-04-01T03:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/ysatis-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Ysatis Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YSA50TSW.jpg?v=1617827443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            59.75 - 60.88
+            <a href="https://chiosny.com/products/ysatis-perfume-by-givenchy-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ysatis Perfume by Givenchy, Launched by the design house of givenchy in 1985, ysatis is classified as a refreshing, oriental, woodsy fragrance. This feminine scent possesses a blend of mandarin, oakmoss, rose, iris, vanilla, clove, and amber. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080865366</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">59.75</s:price>
+      <s:sku>402656</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080865366</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">60.88</s:price>
+      <s:sku>402660</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556078374998</id>
+    <published>2021-04-01T03:15:31-04:00</published>
+    <updated>2021-04-01T03:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/xeryus-rouge-cologne-by-givenchy-eau-de-toilette-spray"/>
+    <title>Xeryus Rouge Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/M139848X.jpg?v=1617827311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            53.28 - 77.00
+            <a href="https://chiosny.com/products/xeryus-rouge-cologne-by-givenchy-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Xeryus Rouge Cologne by Givenchy, Crisp and clean, with a slight hint of musk. Peak the attention of all you encounter. This cologne compliments the three piece suit as well as evening attire.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078374998</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">53.28</s:price>
+      <s:sku>402602</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078374998</id>
+      <title>5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">77.00</s:price>
+      <s:sku>534761</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556078342230</id>
+    <published>2021-04-01T03:15:29-04:00</published>
+    <updated>2021-04-01T03:15:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/xeryus-cologne-by-givenchy-eau-de-toilette-spray"/>
+    <title>Xeryus Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/M100088X.jpg?v=1617827315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            41.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Xeryus Cologne by Givenchy, Launched by the design house of givenchy in 1986, xeryus is classified as a sharp, spicy, lavender, amber fragrance. This masculine scent possesses a blend of fruit, greens, cedar and pepper. Accompanied by oriental amber and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078342230</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>402598</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067725398</id>
+    <published>2021-04-01T03:09:07-04:00</published>
+    <updated>2021-04-01T03:09:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-sensual-perfume-by-givenchy-eau-de-parfum-spray"/>
+    <title>Very Irresistible Sensual Eau De Parfum Spray By Givenchy</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VEIES1.jpg?v=1617826961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            48.40 - 67.30
+            <a href="https://chiosny.com/products/very-irresistible-sensual-perfume-by-givenchy-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible Sensual Perfume by Givenchy, This fantastic perfume was created by givenchy. This sexy scent is a mixture including centofolia rose, peony rose, fantasia rose, passion rose, emotion rose, verbena leaf, star anise, vanilla and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067725398</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>426464</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067725398</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">67.30</s:price>
+      <s:sku>426342</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067692630</id>
+    <published>2021-04-01T03:09:06-04:00</published>
+    <updated>2021-04-01T03:09:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-perfume-by-givenchy-eau-de-toilette-spray-tester"/>
+    <title>Very Irresistible Eau De Toilette Spray (Tester) By Givenchy</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VI24W.jpg?v=1617826958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            59.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible Perfume by Givenchy, In 2003 givenchy introduced a terrifically feminine fragrance to the world - very irresistible. The team behind this incredible and truly irresistible floral fragrance includes dominique ropion, sophie labbe and carlos benaim. The fragrance includes five variations of roses, opening with fresh anise and a harmony of cassia and lemon verbena.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067692630</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">59.75</s:price>
+      <s:sku>446975</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067659862</id>
+    <published>2021-04-01T03:09:03-04:00</published>
+    <updated>2021-04-01T03:09:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Very Irresistible Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LF-VERYIRRES-ET1.jpg?v=1617826957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.50 - 62.95
+            <a href="https://chiosny.com/products/very-irresistible-perfume-by-givenchy-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible Perfume by Givenchy, In 2003 givenchy introduced a terrifically feminine fragrance to the world - very irresistible. The team behind this incredible and truly irresistible floral fragrance includes dominique ropion, sophie labbe and carlos benaim. The fragrance includes five variations of roses, opening with fresh anise and a harmony of cassia and lemon verbena.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067659862</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">49.50</s:price>
+      <s:sku>403352</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067659862</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">54.75</s:price>
+      <s:sku>403353</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067659862</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>403350</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067594326</id>
+    <published>2021-04-01T03:09:02-04:00</published>
+    <updated>2021-04-01T03:09:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-perfume-by-givenchy-eau-de-parfum-spray-tester"/>
+    <title>Very Irresistible Eau De Parfum Spray (Tester) By Givenchy</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERIR25EDPWS.jpg?v=1617826958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            71.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible Perfume by Givenchy, In 2003 givenchy introduced a terrifically feminine fragrance to the world - very irresistible. The team behind this incredible and truly irresistible floral fragrance includes dominique ropion, sophie labbe and carlos benaim. The fragrance includes five variations of roses, opening with fresh anise and a harmony of cassia and lemon verbena.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067594326</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">71.00</s:price>
+      <s:sku>543856</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067561558</id>
+    <published>2021-04-01T03:09:01-04:00</published>
+    <updated>2021-04-01T03:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-lintense-perfume-by-givenchy-eau-de-parfum-spray"/>
+    <title>Very Irresistible L&apos;intense Eau De Parfum Spray By Givenchy</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VILES17.jpg?v=1617826960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible L'intense Perfume by Givenchy, Simply irrestible and incredible, the very irresistible l'intense givenchy for women launched in 2010/11 is created for the modern, edgy and charismatic woman. It comes in an exotic glass bottle that gives your shelf an elegant look. This perfume liquid is pink that epitomises strength and exudes unforgettable feminine aura.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067561558</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>534905</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067528790</id>
+    <published>2021-04-01T03:09:00-04:00</published>
+    <updated>2021-04-01T03:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-leau-en-rose-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Very Irresistible L&apos;eau En Rose Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VEILEAROS17W.jpg?v=1617826957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible L'eau En Rose Perfume by Givenchy, Paying homage to one of the most beloved and recognizable scents on the planet, very irresistible l'eau en rose is a women's fragrance for any occasion. The center scent note of rose is wonderfully backed up with the more subtle yet enduring scent notes of musk and blackberry. The 2014 release from givenchy is just as perfect a gift for other women in your life as it is for yourself.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067528790</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>514201</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067496022</id>
+    <published>2021-04-01T03:08:59-04:00</published>
+    <updated>2021-04-01T03:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-fresh-attitude-cologne-by-givenchy-eau-de-toilette-spray"/>
+    <title>Very Irresistible Fresh Attitude Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VIFAM34.jpg?v=1617826960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible Fresh Attitude Cologne by Givenchy, Launched in 2007 and developed by perfumers anne flipo and pierre wargnye. Fragrance notes include fresh mint, grapefruit zest, lavender, basil, mocha and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067496022</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>440568</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067463254</id>
+    <published>2021-04-01T03:08:57-04:00</published>
+    <updated>2021-04-01T03:08:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/very-irresistible-electric-rose-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Very Irresistible Electric Rose Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERIRER17W.jpg?v=1617826959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            56.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very Irresistible Electric Rose Perfume by Givenchy, Be irresistible by wearing this very irresistible givenchy electric rose fragrance for women. This exquisite scent from the design house of givenchy was released in 2012, and its composition was inspired by romantic, feminine women. This luxurious scent features an unexpected blend of notes that begin with blueberry and basil on top and then emerge to a floral heart of dewy green violet and rose before finishing off with closing notes of pearly musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067463254</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">56.56</s:price>
+      <s:sku>503477</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047933526</id>
+    <published>2021-04-01T02:55:23-04:00</published>
+    <updated>2021-04-01T02:55:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tartine-et-chocolate-ptisenbon-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Tartine Et Chocolate Ptisenbon Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TARTS17P.jpg?v=1617826291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            55.00 - 69.00
+            <a href="https://chiosny.com/products/tartine-et-chocolate-ptisenbon-perfume-by-givenchy-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tartine Et Chocolate Ptisenbon Perfume by Givenchy, Created by parfums givenchy in collaboration this is a light and lively scent for women. It is a floral/gourmand with bakery notes of vanilla and soft floral nuances.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047933526</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>402709</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047933526</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>537353</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556006547542</id>
+    <published>2021-04-01T02:27:38-04:00</published>
+    <updated>2021-04-01T02:27:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pi-cologne-by-givenchy-eau-de-toilette-spray"/>
+    <title>Pi Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PIG50TSM.jpg?v=1617824847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.95 - 60.88
+            <a href="https://chiosny.com/products/pi-cologne-by-givenchy-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pi Cologne by Givenchy, Launched by the design house of givenchy in 1999, pi is classified as a refined, oriental, woody fragrance. This masculine scent possesses a blend of a fresh scent of light citrus, in combination with a strong woodsy aroma, with a low note of vanilla. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006547542</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>400595</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006547542</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">60.88</s:price>
+      <s:sku>400601</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555994357846</id>
+    <published>2021-04-01T02:20:45-04:00</published>
+    <updated>2021-04-01T02:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/organza-perfume-by-givenchy-eau-de-parfum-spray-tester"/>
+    <title>Organza Eau De Parfum Spray (Tester) By Givenchy</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OW17T.jpg?v=1617824526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organza Perfume by Givenchy, Launched by the design house of givenchy in 1996, organza is classified as a sharp, oriental, woody fragrance. This feminine scent possesses a blend of honeysuckle, amber, nutmeg, vanilla and gardenia. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555994357846</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>446012</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555994325078</id>
+    <published>2021-04-01T02:20:43-04:00</published>
+    <updated>2021-04-01T02:20:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/organza-perfume-by-givenchy-eau-de-parfum-spray"/>
+    <title>Organza Eau De Parfum Spray By Givenchy</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ORG50PSW_26fa31af-b754-42fc-9b81-eb83961fcc87.jpg?v=1617824523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            59.16 - 65.90
+            <a href="https://chiosny.com/products/organza-perfume-by-givenchy-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organza Perfume by Givenchy, Launched by the design house of givenchy in 1996, organza is classified as a sharp, oriental, woody fragrance. This feminine scent possesses a blend of honeysuckle, amber, nutmeg, vanilla and gardenia. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555994325078</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">59.16</s:price>
+      <s:sku>400154</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555994325078</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">65.90</s:price>
+      <s:sku>400148</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990261846</id>
+    <published>2021-04-01T02:17:57-04:00</published>
+    <updated>2021-04-01T02:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/oblique-play-perfume-by-givenchy-two-eau-de-toilette-spray-refills"/>
+    <title>Oblique Play Two Eau De Toilette Spray Refills By Givenchy</title>
+    <s:type>Two Eau De Toilette Spray Refills</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PLATSR13.jpg?v=1617824344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Two Eau De Toilette Spray Refills<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oblique Play Perfume by Givenchy, Launched by the design house of givenchy in 2000, oblique play is classified as a luxurious, fruity fragrance. This feminine scent possesses a blend of a fresh, clean scent of citrus. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990261846</id>
+      <title>0.67 oz Two Eau De Toilette Spray Refills</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>400007</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555990229078</id>
+    <published>2021-04-01T02:17:55-04:00</published>
+    <updated>2021-04-01T02:17:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/oblique-fast-forward-perfume-by-givenchy-two-2-3-oz-eau-de-toilette-spray-refills"/>
+    <title>Oblique Fast Forward Two 2/3 oz Eau De Toilette Spray Refills By Givenchy</title>
+    <s:type>Two 2/3 oz Eau De Toilette Spray Refills</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/FWDTSR13.jpg?v=1617824344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Two 2/3 oz Eau De Toilette Spray Refills<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oblique Fast Forward Perfume by Givenchy, Oblique fast forward by givenchy was introduced in 2000. This lively scent top notes are: isoe, marine note, hedione with middle notes of jasmine, pepper. The base notes are of cedarwood and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555990229078</id>
+      <title>0.67 oz Two 2/3 oz Eau De Toilette Spray Refills</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>418965</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555962277974</id>
+    <published>2021-04-01T01:59:04-04:00</published>
+    <updated>2021-04-01T01:59:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lucky-charms-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Lucky Charms Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LCHTS17.jpg?v=1617823427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            46.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lucky Charms Perfume by Givenchy, Lucky charms was launched for women in 2004 by givenchy. This perfume is in the floral fruity fragrance group. The perfume opens with a mix of peony, iris, spices, and lavender.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555962277974</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">46.22</s:price>
+      <s:sku>435741</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957821526</id>
+    <published>2021-04-01T01:56:45-04:00</published>
+    <updated>2021-04-01T01:56:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/live-irresistible-rosy-crush-perfume-by-givenchy-vial-sample"/>
+    <title>Live Irresistible Rosy Crush Vial (sample) By Givenchy</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIVGWE.jpg?v=1617823321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            21.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live Irresistible Rosy Crush Perfume by Givenchy, Live irresistible rosy crush perfume by givenchy. This perfume was created by the house of givenchy with perfumers dominique ropion and fanny bal. It was released in 2019.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957821526</id>
+      <title>0.03 oz Vial</title>
+      <s:price currency="USD">21.25</s:price>
+      <s:sku>555191</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957788758</id>
+    <published>2021-04-01T01:56:44-04:00</published>
+    <updated>2021-04-01T01:56:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/live-irresistible-rosy-crush-perfume-by-givenchy-eau-de-parfum-florale-spray"/>
+    <title>Live Irresistible Rosy Crush Eau De Parfum Florale Spray By Givenchy</title>
+    <s:type>Eau De Parfum Florale Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIRC25W.jpg?v=1617823319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Florale Spray<br>
+        <strong>Price: </strong>
+            69.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live Irresistible Rosy Crush Perfume by Givenchy, Live irresistible rosy crush perfume by givenchy. This perfume was created by the house of givenchy with perfumers dominique ropion and fanny bal. It was released in 2019.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957788758</id>
+      <title>2.5 oz Eau De Parfum Florale Spray</title>
+      <s:price currency="USD">69.70</s:price>
+      <s:sku>545985</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957755990</id>
+    <published>2021-04-01T01:56:43-04:00</published>
+    <updated>2021-04-01T01:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/live-irresistible-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Live Irresistible Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LVI25TS.jpg?v=1617823308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live Irresistible Perfume by Givenchy, This fragrance was released in 2015. A great limited addition to the very irresistible collection. It is a spirited fruity floral perfume with a spicy side.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957755990</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>535060</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957723222</id>
+    <published>2021-04-01T01:56:36-04:00</published>
+    <updated>2021-04-01T01:56:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/live-irresistible-perfume-by-givenchy-eau-de-parfum-spray-tester"/>
+    <title>Live Irresistible Eau De Parfum Spray (Tester) By Givenchy</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LI25PST.jpg?v=1617823307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            67.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live Irresistible Perfume by Givenchy, This fragrance was released in 2015. A great limited addition to the very irresistible collection. It is a spirited fruity floral perfume with a spicy side.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957723222</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>535154</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957690454</id>
+    <published>2021-04-01T01:56:35-04:00</published>
+    <updated>2021-04-01T01:56:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/live-irresistible-perfume-by-givenchy-eau-de-parfum-spray"/>
+    <title>Live Irresistible Eau De Parfum Spray By Givenchy</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIGIV25W.jpg?v=1617823311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live Irresistible Perfume by Givenchy, This fragrance was released in 2015. A great limited addition to the very irresistible collection. It is a spirited fruity floral perfume with a spicy side.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957690454</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>529589</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957657686</id>
+    <published>2021-04-01T01:56:34-04:00</published>
+    <updated>2021-04-01T01:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/live-irresistible-blossom-crush-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>Live Irresistible Blossom Crush Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIBC25ED.jpg?v=1617823309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Live Irresistible Blossom Crush Perfume by Givenchy, Much like the soft spring breeze after a long, frigid winter, live irresistible blossom crush is a subtle women's fragrance from givenchy with a sillage of not much more than a whisper, first released in 2018. Citrusy top notes of bitter orange and bergamot are light and elegant. Middle notes are floral and fruity, the freshness of peony and rose combining with sweet apple in contrast with tangy raspberry and black currant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957657686</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>542401</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555956936790</id>
+    <published>2021-04-01T01:56:13-04:00</published>
+    <updated>2021-04-01T01:56:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/linterdit-perfume-by-givenchy-eau-de-toilette-spray"/>
+    <title>L&apos;interdit Eau De Toilette Spray By Givenchy</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LINGM26ED.jpg?v=1617823288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'interdit Perfume by Givenchy, L'interdit by givenchy is a timeless classic scent for any woman. Introduced in 1957, this refined, elegant, sophisticated floral aroma. L'interdit is a feminine blend of florals with spicy hints giving it a soft feminine scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555956936790</id>
+      <title>2.6 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>547712</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

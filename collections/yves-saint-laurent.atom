@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/yves-saint-laurent.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-05T11:29:38-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6557502242902</id>
+    <published>2021-04-05T11:29:38-04:00</published>
+    <updated>2021-04-05T11:29:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/y-le-parfum"/>
+    <title>Y le Parfum By Yves Saint Laurent</title>
+    <s:type></s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/leparfum.jpg?v=1617827507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            144.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Y Le Parfum is a sensual and intoxicating men’s fragrance by Yves Saint Laurent Beauté.  An intense interpretation of the Y signature scent, this men’s cologne is a new twist on the white and dark fougere that combines the bold, woody notes of Geranium and Cedarwood with fresh Lavender.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6557502242902</id>
+      <title>2.0 oz / Men</title>
+      <s:price currency="USD">144.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556958589014</id>
+    <published>2021-04-03T21:18:34-04:00</published>
+    <updated>2021-04-03T21:18:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/parisienne-by-yves-saint-laurent"/>
+    <title>Parisienne By Yves Saint Laurent</title>
+    <s:type></s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PARI90TSW.jpg?v=1617827508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span itemprop="Description">Parisienne Perfume by Yves Saint Laurent, An adaptation of the iconic rose perfume paris; sophia grosjman is the perfumer for parisienne as well. </span><span></span><span class="mq1dnone" id="product-read-more-text-mq1">This is a modern young floral fragrance for women less heady, with notes of damask rose, violet, peony, cranberry, patchouli, vetiver, musk and sandalwood.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6556958589014</id>
+      <title>3.0 oz Eau de Parfum / Women</title>
+      <s:price currency="USD">89.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556956393558</id>
+    <published>2021-04-03T20:42:13-04:00</published>
+    <updated>2021-04-03T20:42:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/y-by-yves-saint-laurent"/>
+    <title>Y by Yves Saint Laurent</title>
+    <s:type></s:type>
+    <s:vendor>Chio&apos;s New York</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/Y2w.jpg?v=1620573903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chio&#39;s New York<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Y by Yves Saint Laurent 2.7 fl oz Eau de toilette spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6556956393558</id>
+      <title>2.7 oz / Women</title>
+      <s:price currency="USD">79.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080963670</id>
+    <published>2021-04-01T03:17:07-04:00</published>
+    <updated>2021-04-01T03:17:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/yvresse-perfume-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Yvresse Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YVR27WEDT.jpg?v=1617827455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yvresse Perfume by Yves Saint Laurent, In 1993, yves saint laurent commissioned perfumer sophia grojsman to create a perfume that was as effervescent as champagne. Yvresse was that perfume and was originally called champagne until the french champagne committee threatened a lawsuit. Yvresse is a play on the french word “ivresse” which means intoxication.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080963670</id>
+      <title>2.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>516626</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556080767062</id>
+    <published>2021-04-01T03:17:01-04:00</published>
+    <updated>2021-04-01T03:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/young-sexy-lovely-perfume-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Young Sexy Lovely Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YSL16W.jpg?v=1617827440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Young Sexy Lovely Perfume by Yves Saint Laurent, A fragrance for women in the floral fruity group, young lovely sexy was launched in 2007 by yves saint laurent. Delicate and feminine, the top notes of this trend setting fragrance are the juiciness of ripe pears, italian mandarin, and black currant. The fine florals of the peach, cherry blossom, and magnolia form the heart of the perfume.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556080767062</id>
+      <title>1.6 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>449169</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556078735446</id>
+    <published>2021-04-01T03:15:46-04:00</published>
+    <updated>2021-04-01T03:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/y-live-intense-cologne-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Y Live Intense By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YLIIN2OZ.jpg?v=1617827322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            80.99 - 115.88
+            <a href="https://chiosny.com/products/y-live-intense-cologne-by-yves-saint-laurent-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Y Live Intense Cologne by Yves Saint Laurent, Greet the world with confidence when you wear the bold fragrance of y live intense for men. This 2019 release by yves saint laurent opens with a fresh orange blossom top note that melts into warm middle notes of ginger and bergamot. Juniper and sage base notes enhance this spicy fragrance by giving it a hint of a woody accord.</p>
+<p>Eau De Toilette Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078735446</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>549189</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078735446</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">115.88</s:price>
+      <s:sku>550699</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556078702678</id>
+    <published>2021-04-01T03:15:45-04:00</published>
+    <updated>2021-04-01T03:15:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/y-cologne-by-yves-saint-laurent-eau-fraiche-spray"/>
+    <title>Y Eau Fraiche Spray By Yves Saint Laurent</title>
+    <s:type>Eau Fraiche Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YYF186.jpg?v=1617827325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau Fraiche Spray<br>
+        <strong>Price: </strong>
+            107.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Y Cologne by Yves Saint Laurent, Y is a youthful, masculine fragrance for the man who’s driven to enjoy life. This captivating scent is from the fashion house of yves saint laurent and launched in 2017. Energetic and refreshing, this aroma stays with you throughout your day, even when it extends into the night.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078702678</id>
+      <title>3.3 oz Eau Fraiche Spray</title>
+      <s:price currency="USD">107.50</s:price>
+      <s:sku>554125</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556078669910</id>
+    <published>2021-04-01T03:15:43-04:00</published>
+    <updated>2021-04-01T03:15:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/y-cologne-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Y Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/YYM2EDX.jpg?v=1617827326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            78.44 - 104.88
+            <a href="https://chiosny.com/products/y-cologne-by-yves-saint-laurent-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Y Cologne by Yves Saint Laurent, Y is a youthful, masculine fragrance for the man who’s driven to enjoy life. This captivating scent is from the fashion house of yves saint laurent and launched in 2017. Energetic and refreshing, this aroma stays with you throughout your day, even when it extends into the night.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078669910</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">78.44</s:price>
+      <s:sku>548356</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078669910</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">99.88</s:price>
+      <s:sku>538124</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556078669910</id>
+      <title>3.3 oz Eau de parfum</title>
+      <s:price currency="USD">104.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556022112342</id>
+    <published>2021-04-01T02:37:59-04:00</published>
+    <updated>2021-04-01T02:37:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/rive-gauche-perfume-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Rive Gauche Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/W128802R.jpg?v=1617825398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            76.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rive Gauche Perfume by Yves Saint Laurent, Launched by the design house of yves saint laurent in 1971, rive gauche is classified as a sharp, gentle, floral fragrance. This feminine scent possesses a blend of warm woody florals including oakmoss and sandalwood. Accompanied by the scent of gardenia, honeysuckle and magnolia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556022112342</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">76.88</s:price>
+      <s:sku>401043</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555999240278</id>
+    <published>2021-04-01T02:23:58-04:00</published>
+    <updated>2021-04-01T02:23:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/paris-perfume-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Paris Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/W1407382P.jpg?v=1617824672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            77.78 - 89.88
+            <a href="https://chiosny.com/products/paris-perfume-by-yves-saint-laurent-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paris Perfume by Yves Saint Laurent, In 1983, yves st laurent wanted to capture the sparkle of city of lights in a bottle and commissioned master perfumer sophia grojsman to do so. A cult classic paris is a very feminine fragrance that opens with a whoosh of jammy rose and creamy violets. Brilliant and bold this perfume is for a woman who enjoys making a grand entrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555999240278</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">77.78</s:price>
+      <s:sku>400325</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555999240278</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">89.88</s:price>
+      <s:sku>400327</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555999207510</id>
+    <published>2021-04-01T02:23:57-04:00</published>
+    <updated>2021-04-01T02:23:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/paris-perfume-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>Paris Eau De Parfum Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PW17PS.jpg?v=1617824674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            95.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paris Perfume by Yves Saint Laurent, In 1983, yves st laurent wanted to capture the sparkle of city of lights in a bottle and commissioned master perfumer sophia grojsman to do so. A cult classic paris is a very feminine fragrance that opens with a whoosh of jammy rose and creamy violets. Brilliant and bold this perfume is for a woman who enjoys making a grand entrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555999207510</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">95.44</s:price>
+      <s:sku>461600</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555993899094</id>
+    <published>2021-04-01T02:20:27-04:00</published>
+    <updated>2021-04-01T02:20:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/opium-perfume-by-yves-saint-laurent-eau-de-parfum-spray-new-packaging"/>
+    <title>Opium Eau De Parfum Spray (New Packaging) By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray (New Packaging)</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OW17PS.jpg?v=1617824513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray (New Packaging)<br>
+        <strong>Price: </strong>
+            100.00 - 153.00
+            <a href="https://chiosny.com/products/opium-perfume-by-yves-saint-laurent-eau-de-parfum-spray-new-packaging">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opium Perfume by Yves Saint Laurent, Created by the design house of yves saint laurent in 1977, opium is classified as a refined, oriental, soft fragrance. This feminine scent begins with notes of mandarin and bergamot, then myrrh, jasmine and carnation. It is completed with a final note of amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555993899094</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>461253</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555993899094</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">153.00</s:price>
+      <s:sku>547630</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555993866326</id>
+    <published>2021-04-01T02:20:26-04:00</published>
+    <updated>2021-04-01T02:20:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/opium-eau-dorient-orchidee-de-chine-perfume-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Opium Eau D&apos;orient Orchidee De Chine Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OODCHINW.jpg?v=1617824515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opium Eau D'orient Orchidee De Chine Perfume by Yves Saint Laurent, Opium orchidée de chine was launched in 2007. It is from the house of yves saint laurent. The design house has a well-established name in the fashion industry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555993866326</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>467787</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555993833558</id>
+    <published>2021-04-01T02:20:25-04:00</published>
+    <updated>2021-04-01T02:20:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/opium-cologne-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Opium Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OPI100TSM.jpg?v=1617824505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            73.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opium Cologne by Yves Saint Laurent, Launched by the design house of yves saint laurent in 1995, opium is classified as a sharp, oriental, woody fragrance. This masculine scent possesses a blend of vanilla, ginger, pepper, and cedar. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555993833558</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">73.50</s:price>
+      <s:sku>400105</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555975581782</id>
+    <published>2021-04-01T02:07:52-04:00</published>
+    <updated>2021-04-01T02:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mon-paris-parfum-floral-perfume-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>Mon Paris Parfum Floral Eau De Parfum Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MONYTN.jpg?v=1617823887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            73.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mon Paris Parfum Floral Perfume by Yves Saint Laurent, Mon paris parfum floral, launched in 2019 by yves saint laurent, is a floral fragrance for women. Top notes of citruses and peach open this perfume with a sweet fruitiness. At the heart, fresh notes of peony, white rose, jasmine sambac, datura, magnolia and orange blossom impart a soft white floral scent that is elegant and feminine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555975581782</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">73.50</s:price>
+      <s:sku>553114</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555975516246</id>
+    <published>2021-04-01T02:07:50-04:00</published>
+    <updated>2021-04-01T02:07:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mon-paris-floral-perfume-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>Mon Paris Floral By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MPFLOR3.jpg?v=1617823876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            76.66 - 86.88
+            <a href="https://chiosny.com/products/mon-paris-floral-perfume-by-yves-saint-laurent-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mon Paris Floral Perfume by Yves Saint Laurent, Mon paris floral is a fragrance for women that was launched by yves saint laurent in 2019. The perfume opens with bright top notes of peach and a blend of various citruses. As you move toward the heart of the fragrance, a beautiful garden of flower notes begins to bloom.</p>
+<p> Eau De Parfum Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555975516246</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">86.88</s:price>
+      <s:sku>547573</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555975516246</id>
+      <title>1.6 oz</title>
+      <s:price currency="USD">76.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555975483478</id>
+    <published>2021-04-01T02:07:49-04:00</published>
+    <updated>2021-04-01T02:07:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mon-paris-couture-perfume-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>Mon Paris Couture Eau De Parfum Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MPC34W.jpg?v=1617823875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            114.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mon Paris Couture Perfume by Yves Saint Laurent, Yves saint laurent is a premier french fashion house, but it also has numerous perfumes to its name. Mon paris couture is one such fragrance that perfectly encapsulates everything the company is about. It was released in 2018, and it will envelop your senses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555975483478</id>
+      <title>3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">114.44</s:price>
+      <s:sku>542129</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555967062102</id>
+    <published>2021-04-01T02:02:00-04:00</published>
+    <updated>2021-04-01T02:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/manifesto-perfume-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>Manifesto Eau De Parfum Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MANI7WYSL.jpg?v=1617823562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            85.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manifesto Perfume by Yves Saint Laurent, Launched in 2012, this fragrance was designed jointly with ysl, anne flipo and loc dong. This exquisite fragrance is soft and passionate. It begins with bergamot, black curranct bud, and green notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555967062102</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">85.44</s:price>
+      <s:sku>500676</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555967029334</id>
+    <published>2021-04-01T02:01:58-04:00</published>
+    <updated>2021-04-01T02:01:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/manifesto-leclat-perfume-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>Manifesto L&apos;eclat Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MLE17W.jpg?v=1617823559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            81.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manifesto L'eclat Perfume by Yves Saint Laurent, This fragrance was created by the house of yves saint laurent with perfumers anne flipo and loc dong. Together they released this remarkable floral scentin 2014 its rich texture and impressive blend makes it an irresistible creation. The top notes are green tea, bergamot, neroli and black currant bud.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555967029334</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">81.52</s:price>
+      <s:sku>518202</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555963261014</id>
+    <published>2021-04-01T01:59:33-04:00</published>
+    <updated>2021-04-01T01:59:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/m7-oud-absolu-cologne-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>M7 Oud Absolu Eau De Toilette Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/M7OUABSO.jpg?v=1617823447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            92.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>M7 Oud Absolu Cologne by Yves Saint Laurent, Assert your masculinity in a big way by wearing la collection m7 oud absolu from the design house of yves saint laurent. Launched in 2011, this sultry, virile scent for men features a masculine blend of notes that starts off with a burst of citrus followed by a heart of patchouli. A trio of base notes that comprises agarwood, myrrh, and labdanum adds to the vigorous and spirited finish of this scent that cleaves to your skin and leaves it smelling great for hours.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555963261014</id>
+      <title>2.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">92.44</s:price>
+      <s:sku>499048</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555954937942</id>
+    <published>2021-04-01T01:55:05-04:00</published>
+    <updated>2021-04-01T01:55:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/libre-perfume-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>Libre Eau De Parfum Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIBR16W.jpg?v=1617823230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Libre Perfume by Yves Saint Laurent, Libre perfume from the house of yves saint laurent with perfumers anne flipo and carlos benaim. It was released in 2019. It is a refreshingly sweet floral scent for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954937942</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>548459</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555954905174</id>
+    <published>2021-04-01T01:55:04-04:00</published>
+    <updated>2021-04-01T01:55:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/libre-perfume-by-yves-saint-laurent-eau-de-parfum-intense-spray"/>
+    <title>Libre Eau De Parfum Intense Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/78046W.jpg?v=1617823232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            97.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Libre Perfume by Yves Saint Laurent, Libre perfume from the house of yves saint laurent with perfumers anne flipo and carlos benaim. It was released in 2019. It is a refreshingly sweet floral scent for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954905174</id>
+      <title>1 oz Eau De Parfum Intense Spray</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>556163</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555954774102</id>
+    <published>2021-04-01T01:54:58-04:00</published>
+    <updated>2021-04-01T01:54:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lhomme-ultime-cologne-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>L&apos;homme Ultime Eau De Parfum Spray By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LHOYMQ.jpg?v=1617823234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            78.00 - 81.77
+            <a href="https://chiosny.com/products/lhomme-ultime-cologne-by-yves-saint-laurent-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'homme Ultime Cologne by Yves Saint Laurent, This fragrance for men was created by the house of ysl with perfumers anne flipo, dominique ropion and juliette karagueuzoglou. It was released in 2016. A fresh spicy cologne with warm floral notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954774102</id>
+      <title>2 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>556008</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954774102</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">81.77</s:price>
+      <s:sku>534396</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555954577494</id>
+    <published>2021-04-01T01:54:49-04:00</published>
+    <updated>2021-04-01T01:54:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lhomme-cologne-by-yves-saint-laurent-gift-set"/>
+    <title>L&apos;homme Gift Set By Yves Saint Laurent</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LHOK12.jpg?v=1617823219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            95.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'homme Cologne by Yves Saint Laurent, Citrus and spices sit close to the skin in this subtle yet masculine fragrance. L'homme blends citrus notes from bergamot with the warm scent of ginger and spices for a balanced but intriguing opening duo, while cedar and basil notes ground the fragrance in an herbal, woodsy base. Introduced in 2006 by yves saint laurent, the men's scent captures the appeal of calm, inviting confidence that is balanced enough to wear day and night for any occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954577494</id>
+      <title>3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">95.77</s:price>
+      <s:sku>457069</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555954544726</id>
+    <published>2021-04-01T01:54:48-04:00</published>
+    <updated>2021-04-01T01:54:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lhomme-cologne-by-yves-saint-laurent-eau-de-toilette-spray"/>
+    <title>L&apos;homme By Yves Saint Laurent</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LHYSL2.jpg?v=1617823221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            69.77 - 79.77
+            <a href="https://chiosny.com/products/lhomme-cologne-by-yves-saint-laurent-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'homme Cologne by Yves Saint Laurent, Citrus and spices sit close to the skin in this subtle yet masculine fragrance. L'homme blends citrus notes from bergamot with the warm scent of ginger and spices for a balanced but intriguing opening duo, while cedar and basil notes ground the fragrance in an herbal, woodsy base. Introduced in 2006 by yves saint laurent, the men's scent captures the appeal of calm, inviting confidence that is balanced enough to wear day and night for any occasion.</p>
+<p> Eau De Toilette Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954544726</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">69.77</s:price>
+      <s:sku>449170</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555954544726</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">79.77</s:price>
+      <s:sku>428971</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

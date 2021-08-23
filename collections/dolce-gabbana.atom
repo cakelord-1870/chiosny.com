@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/dolce-gabbana.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T02:57:37-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556051144790</id>
+    <published>2021-04-01T02:57:37-04:00</published>
+    <updated>2021-04-01T02:57:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-only-one-perfume-by-dolce-gabbana-eau-de-parfum-spray-tester"/>
+    <title>The Only One Eau De Parfum Spray (Tester) By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEDW33ED.jpg?v=1617826398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            66.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Only One Perfume by Dolce &amp; Gabbana, A sweet powdery fragrance for women, the only one recently launched in august 2018. Floral violet combines with citrusy orange and crisp bergamot in the top notes. Coffee and pear combine with floral notes of iris, orange blossom and rose in the heart.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556051144790</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">66.88</s:price>
+      <s:sku>545796</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050718806</id>
+    <published>2021-04-01T02:57:15-04:00</published>
+    <updated>2021-04-01T02:57:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-gentlemen-cologne-by-dolce-gabbana-eau-de-toilette-spray-unboxed"/>
+    <title>The One Gentlemen By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray (unboxed)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THG34TSU.jpg?v=1617826373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray (unboxed)<br>
+        <strong>Price: </strong>
+            75.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Gentlemen Cologne by Dolce &amp; Gabbana, What is a gentleman? the meaning has changed over the years, but the essence remains the same; he is a man who is multi faceted and knows how to treat a lady. This is a sophisticated and modern scent for men.</p>
+<p>Eau De Toilette Spray (unboxed)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050718806</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">75.88</s:price>
+      <s:sku>500801</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050686038</id>
+    <published>2021-04-01T02:57:14-04:00</published>
+    <updated>2021-04-01T02:57:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-gentlemen-cologne-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>The One Gentlemen  By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEONEG1.jpg?v=1617826376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            51.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Gentlemen Cologne by Dolce &amp; Gabbana, What is a gentleman? the meaning has changed over the years, but the essence remains the same; he is a man who is multi faceted and knows how to treat a lady. This is a sophisticated and modern scent for men.</p>
+<p>Eau De Toilette Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050686038</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">51.88</s:price>
+      <s:sku>480255</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050653270</id>
+    <published>2021-04-01T02:57:13-04:00</published>
+    <updated>2021-04-01T02:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-gentlemen-cologne-by-dolce-gabbana-deodorant-stick"/>
+    <title>The One Gentlemen By Dolce &amp; Gabbana</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEO25GDS.jpg?v=1617826373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            34.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Gentlemen Cologne by Dolce &amp; Gabbana, What is a gentleman? the meaning has changed over the years, but the essence remains the same; he is a man who is multi faceted and knows how to treat a lady. This is a sophisticated and modern scent for men.</p>
+<p>Deodorant Stick </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050653270</id>
+      <title>2.5 oz Deodorant Stick</title>
+      <s:price currency="USD">34.33</s:price>
+      <s:sku>483227</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050587734</id>
+    <published>2021-04-01T02:57:10-04:00</published>
+    <updated>2021-04-01T02:57:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-vial-sample"/>
+    <title>The One Vial (sample) By Dolce &amp; Gabbana</title>
+    <s:type>Vial (sample)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEDM5S.jpg?v=1617826372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Vial (sample)<br>
+        <strong>Price: </strong>
+            11.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Cologne by Dolce &amp; Gabbana, The one is a delightful oriental spicy scent that has a wonderful combination of grapfruit, ginger and orange blossom. Blended perfectly with cedarwood, coriander and basil it's a no stopping me now fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050587734</id>
+      <title>0.05 oz Vial</title>
+      <s:price currency="USD">11.88</s:price>
+      <s:sku>547876</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050489430</id>
+    <published>2021-04-01T02:57:09-04:00</published>
+    <updated>2021-04-01T02:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-gift-set"/>
+    <title>The One Gift Set By Dolce &amp; Gabbana</title>
+    <s:type>Gift Set - 3.3 oz Eau De Toilette Spray + 2.4 oz Deodorant Stick</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THED94.jpg?v=1617826372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Gift Set - 3.3 oz Eau De Toilette Spray + 2.4 oz Deodorant Stick<br>
+        <strong>Price: </strong>
+            57.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Cologne by Dolce &amp; Gabbana, The one is a delightful oriental spicy scent that has a wonderful combination of grapfruit, ginger and orange blossom. Blended perfectly with cedarwood, coriander and basil it's a no stopping me now fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050489430</id>
+      <title>3.3 oz Eau De Toilette Spray + 2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">57.58</s:price>
+      <s:sku>554321</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050423894</id>
+    <published>2021-04-01T02:57:05-04:00</published>
+    <updated>2021-04-01T02:57:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>The One Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DGTONE100TSM_2e47629f-ccde-40ab-a737-ef63e6df8b6c.jpg?v=1618977721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            37.22 - 56.77
+            <a href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Cologne by Dolce &amp; Gabbana, The one is a delightful oriental spicy scent that has a wonderful combination of grapfruit, ginger and orange blossom. Blended perfectly with cedarwood, coriander and basil it's a no stopping me now fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050423894</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.22</s:price>
+      <s:sku>457121</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050423894</id>
+      <title>1.6 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.23</s:price>
+      <s:sku>455314</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050423894</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">48.33</s:price>
+      <s:sku>453466</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050423894</id>
+      <title>5.1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">56.77</s:price>
+      <s:sku>502749</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050358358</id>
+    <published>2021-04-01T02:57:03-04:00</published>
+    <updated>2021-04-01T02:57:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-eau-de-parfum-spray"/>
+    <title>The One Eau De Parfum Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/the5ps_ff198a26-3edc-40eb-a658-39dd8f696da4.jpg?v=1618977563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            59.33 - 63.44
+            <a href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Cologne by Dolce &amp; Gabbana, The one is a delightful oriental spicy scent that has a wonderful combination of grapfruit, ginger and orange blossom. Blended perfectly with cedarwood, coriander and basil it's a no stopping me now fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050358358</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">59.33</s:price>
+      <s:sku>531952</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050358358</id>
+      <title>5.1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">63.44</s:price>
+      <s:sku>531643</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555956445270</id>
+    <published>2021-04-01T01:56:01-04:00</published>
+    <updated>2021-04-01T01:56:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/limperatrice-3-perfume-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>L&apos;imperatrice 3 Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/limp333w.jpg?v=1619466267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            37.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'imperatrice 3 Perfume by Dolce &amp; Gabbana, Dolce gabanna created five fragrances called dg anthology based on tarot cards. The celebrity campaign includes famous models.female models include naomi campbell, eva herzigova and claudia schiffer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555956445270</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.88</s:price>
+      <s:sku>462271</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955822678</id>
+    <published>2021-04-01T01:55:41-04:00</published>
+    <updated>2021-04-01T01:55:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-sunset-in-salina-perfume-by-dolce-gabbana-eau-de-toilette-spray-tester"/>
+    <title>Light Blue Sunset In Salina By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LBSIS34TT.jpg?v=1617823266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            37.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Sunset In Salina Perfume by Dolce &amp; Gabbana, A relaunch of the 2001 favorite, light blue sunset in salina by dolce and gabbana is back with the same old scent that made people fall in love with the sunset. Inspired by the green and fertile party island of sicily, italy, this subtle sunny aroma encapsulates the jovial atmosphere of a mediterranean summer in salina. The clear, orange perfume comes in a simple rectangular bottle capped with a silver and white top.</p>
+<p> Eau De Toilette Spray (Tester) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955822678</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.88</s:price>
+      <s:sku>534092</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955789910</id>
+    <published>2021-04-01T01:55:40-04:00</published>
+    <updated>2021-04-01T01:55:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-sun-perfume-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>Light Blue Sun By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIGDW17ED.jpg?v=1617823255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            53.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Sun Perfume by Dolce &amp; Gabbana, Inspired by the mediterranean island of capri, light blue sun is a new feminine scent from designer dolce&amp;gabbana. This fragrance, introduced in 2019, captures the feeling of a summer romance with its blend of floral, fruity, and woody notes. It opens with top notes of tart granny smith apple and lemon before the middle notes of frangipani, white rose, and jasmine blossom with freshness.</p>
+<p> Eau De Toilette Spray </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955789910</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">53.44</s:price>
+      <s:sku>546093</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955724374</id>
+    <published>2021-04-01T01:55:38-04:00</published>
+    <updated>2021-04-01T01:55:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-sun-cologne-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>Light Blue Sun By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LBSU42M.jpg?v=1617823256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            47.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Sun Cologne by Dolce &amp; Gabbana, A unique perfume for women, light blue sun was first launched in 2019 by dolce &amp; gabbana. Refreshing and clean top notes of coconut, citrusy lemon, tart green apple and ozonic notes are serene and gentle. Jasmine, rose and plumeria make up the heart notes for a floral scent that is delicate and sweet.</p>
+<p> Eau De Toilette Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955724374</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">47.33</s:price>
+      <s:sku>546084</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955691606</id>
+    <published>2021-04-01T01:55:37-04:00</published>
+    <updated>2021-04-01T01:55:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-perfume-by-dolce-gabbana-shower-gel"/>
+    <title>Light Blue Shower Gel By Dolce &amp; Gabbana</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/68382.jpg?v=1617823257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            49.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Perfume by Dolce &amp; Gabbana, In light blue perfume by dolce &amp; gabbana, an impish note of green apple emanates from the latest creation of the most impertinent of italian designers. Light blue is not a lighter version despite its name: it sparkles with flowers and fruit notes that are an enticement to joie de vivre. The fragrance opens on a fresh and gourmet note of sicily cedar, granny smith apples and bluebells.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955691606</id>
+      <title>6.7 oz Shower Gel</title>
+      <s:price currency="USD">49.88</s:price>
+      <s:sku>418215</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955658838</id>
+    <published>2021-04-01T01:55:36-04:00</published>
+    <updated>2021-04-01T01:55:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-perfume-by-dolce-gabbana-eau-de-toilette-spray-tester"/>
+    <title>Light Blue Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TESDGLBLU100TSW.jpg?v=1617823257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            48.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Perfume by Dolce &amp; Gabbana, In light blue perfume by dolce &amp; gabbana, an impish note of green apple emanates from the latest creation of the most impertinent of italian designers. Light blue is not a lighter version despite its name: it sparkles with flowers and fruit notes that are an enticement to joie de vivre. The fragrance opens on a fresh and gourmet note of sicily cedar, granny smith apples and bluebells.</p>
+<p> (Tester) By Dolce &amp; Gabbana</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955658838</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">48.66</s:price>
+      <s:sku>446006</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955593302</id>
+    <published>2021-04-01T01:55:32-04:00</published>
+    <updated>2021-04-01T01:55:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-perfume-by-dolce-gabbana-body-cream"/>
+    <title>Light Blue Body Cream By Dolce &amp; Gabbana</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LBBODC67.jpg?v=1617823253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            44.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Perfume by Dolce &amp; Gabbana, In light blue perfume by dolce &amp; gabbana, an impish note of green apple emanates from the latest creation of the most impertinent of italian designers. Light blue is not a lighter version despite its name: it sparkles with flowers and fruit notes that are an enticement to joie de vivre. The fragrance opens on a fresh and gourmet note of sicily cedar, granny smith apples and bluebells.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955593302</id>
+      <title>6.7 oz Body Cream</title>
+      <s:price currency="USD">44.58</s:price>
+      <s:sku>427023</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955200086</id>
+    <published>2021-04-01T01:55:18-04:00</published>
+    <updated>2021-04-01T01:55:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-cologne-by-dolce-gabbana-gift-set"/>
+    <title>Light Blue Gift Set By Dolce &amp; Gabbana</title>
+    <s:type>Gift Set - 4.2 oz Eau de Toilette Spray + 1.6 oz Shower Gel + 1.6 oz After Shave Balm</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIGDWR.jpg?v=1617823246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Gift Set - 4.2 oz Eau de Toilette Spray + 1.6 oz Shower Gel + 1.6 oz After Shave Balm<br>
+        <strong>Price: </strong>
+            66.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Cologne by Dolce &amp; Gabbana, It starts with sicilian mandarin combined with frozen grapefruit peel, bergamot and juniper. Heart notes of rosemary, szechuan pepper and rosewood, and the mix is rounded out with base notes of musk wood, incense and oak moss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955200086</id>
+      <title>4.2 oz Eau de Toilette Spray + 1.6 oz Shower Gel + 1.6 oz After Shave Balm</title>
+      <s:price currency="USD">66.88</s:price>
+      <s:sku>555733</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955069014</id>
+    <published>2021-04-01T01:55:12-04:00</published>
+    <updated>2021-04-01T01:55:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-cologne-by-dolce-gabbana-deodorant-stick"/>
+    <title>Light Blue Deodorant Stick By Dolce &amp; Gabbana</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/lbm24ds_6c294186-e95f-4460-be95-226f6f956811.jpg?v=1629300140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            31.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Cologne by Dolce &amp; Gabbana, It starts with sicilian mandarin combined with frozen grapefruit peel, bergamot and juniper. Heart notes of rosemary, szechuan pepper and rosewood, and the mix is rounded out with base notes of musk wood, incense and oak moss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955069014</id>
+      <title>2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">31.22</s:price>
+      <s:sku>458156</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955036246</id>
+    <published>2021-04-01T01:55:11-04:00</published>
+    <updated>2021-04-01T01:55:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-cologne-by-dolce-gabbana-body-spray"/>
+    <title>Light Blue Body Spray By Dolce &amp; Gabbana</title>
+    <s:type>Body Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LB42BSMM.jpg?v=1617823230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Body Spray<br>
+        <strong>Price: </strong>
+            29.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Cologne by Dolce &amp; Gabbana, It starts with sicilian mandarin combined with frozen grapefruit peel, bergamot and juniper. Heart notes of rosemary, szechuan pepper and rosewood, and the mix is rounded out with base notes of musk wood, incense and oak moss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955036246</id>
+      <title>4.2 oz Body Spray</title>
+      <s:price currency="USD">29.88</s:price>
+      <s:sku>547365</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555953758294</id>
+    <published>2021-04-01T01:54:21-04:00</published>
+    <updated>2021-04-01T01:54:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/leau-the-one-perfume-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>L&apos;eau The One Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LEAUTHW17.jpg?v=1617823212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            68.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'eau The One Perfume by Dolce &amp; Gabbana, This is the second release in the collection of fragrances created by dolce gabbana that are interpretations of "the one". This is a woody oriental for woman that is softer and a bit more fruity than the original. The composition opens with fresh mandarin, bergamot, litchi and peach.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555953758294</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">68.22</s:price>
+      <s:sku>462781</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555951104086</id>
+    <published>2021-04-01T01:52:49-04:00</published>
+    <updated>2021-04-01T01:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/le-fou-21-cologne-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>Le Fou 21 Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LEF21M.jpg?v=1617823074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            59.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Le Fou 21 Cologne by Dolce &amp; Gabbana, D&amp;g’s le fou 21 is an eau de toilette with a clear light blue color. It has been conceived for a young and instinctive man with a strong sense of humor. Available as eau de toilette, it has an oriental spicy fragrance, refreshed by the essence of bergamot, ginger and juniper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555951104086</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">59.78</s:price>
+      <s:sku>489697</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555950973014</id>
+    <published>2021-04-01T01:52:45-04:00</published>
+    <updated>2021-04-01T01:52:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/le-bateleur-1-cologne-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>Le Bateleur 1 Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LEBAT1W3.jpg?v=1617823072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Le Bateleur 1 Cologne by Dolce &amp; Gabbana, This impressive unisex fragrance was released in 2009. Woodsy and aquatic, le bateleur opens with juniper berries, cardamom and birch. The middle notes follow with water and coriander.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555950973014</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">49.88</s:price>
+      <s:sku>462270</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555944747094</id>
+    <published>2021-04-01T01:49:16-04:00</published>
+    <updated>2021-04-01T01:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/la-temperance-14-perfume-by-dolce-gabbana-vial-sample"/>
+    <title>La Temperance 14 Vial (Sample) By Dolce &amp; Gabbana</title>
+    <s:type>Vial (Sample)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DG14V.jpg?v=1617822896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Vial (Sample)<br>
+        <strong>Price: </strong>
+            11.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La Temperance 14 Perfume by Dolce &amp; Gabbana, 14 la tempérance by d&amp;g is the ultimate art of self expression. Available in an attractive bottle, this fragrance boasts of a refreshing, woody, oriental fragrance with some splash of exciting, sexy and feminine notes of pink pepper, bergamot, ambrette seeds, hibiscus flower accord, rose, orris, patchouli, and musk. It encompasses a feminine style that is balanced, moderate and harmonious.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555944747094</id>
+      <title>0.05 oz Vial</title>
+      <s:price currency="USD">11.58</s:price>
+      <s:sku>501588</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555944714326</id>
+    <published>2021-04-01T01:49:14-04:00</published>
+    <updated>2021-04-01T01:49:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/la-temperance-14-perfume-by-dolce-gabbana-eau-de-toilette-spray-tester"/>
+    <title>La Temperance 14 Eau De Toilette Spray (Tester) By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LT1433T.jpg?v=1617822893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            26.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La Temperance 14 Perfume by Dolce &amp; Gabbana, 14 la tempérance by d&amp;g is the ultimate art of self expression. Available in an attractive bottle, this fragrance boasts of a refreshing, woody, oriental fragrance with some splash of exciting, sexy and feminine notes of pink pepper, bergamot, ambrette seeds, hibiscus flower accord, rose, orris, patchouli, and musk. It encompasses a feminine style that is balanced, moderate and harmonious.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555944714326</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">26.26</s:price>
+      <s:sku>499748</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555944681558</id>
+    <published>2021-04-01T01:49:12-04:00</published>
+    <updated>2021-04-01T01:49:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/la-temperance-14-perfume-by-dolce-gabbana-eau-de-toilette-spray"/>
+    <title>La Temperance 14 Eau De Toilette Spray By Dolce &amp; Gabbana</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LATEMP14W.jpg?v=1617822893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La Temperance 14 Perfume by Dolce &amp; Gabbana, 14 la tempérance by d&amp;g is the ultimate art of self expression. Available in an attractive bottle, this fragrance boasts of a refreshing, woody, oriental fragrance with some splash of exciting, sexy and feminine notes of pink pepper, bergamot, ambrette seeds, hibiscus flower accord, rose, orris, patchouli, and musk. It encompasses a feminine style that is balanced, moderate and harmonious.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555944681558</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">49.88</s:price>
+      <s:sku>489696</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555941797974</id>
+    <published>2021-04-01T01:47:42-04:00</published>
+    <updated>2021-04-01T01:47:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/la-force-11-perfume-by-dolce-gabbana-vial-sample"/>
+    <title>La Force 11 Vial (Sample) By Dolce &amp; Gabbana</title>
+    <s:type>Vial (Sample)</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LAFORSAMPW.jpg?v=1617822819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Vial (Sample)<br>
+        <strong>Price: </strong>
+            11.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La Force 11 Perfume by Dolce &amp; Gabbana, Do you believe in the power of magic? this oriental fragrance for women is the sixth fragrance of the anthology collection inspired by tarot cards and their symbolism. The scent can be worn by woman or men, and is dedicated to people with strong and temperamental fiery personalities.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555941797974</id>
+      <title>0.05 oz Vial</title>
+      <s:price currency="USD">11.21</s:price>
+      <s:sku>464384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

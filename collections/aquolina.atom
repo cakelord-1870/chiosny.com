@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/aquolina.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:17:22-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556081422422</id>
+    <published>2021-04-01T03:17:22-04:00</published>
+    <updated>2021-04-01T03:17:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/zino-davidoff-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Zino Davidoff Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/AMZIN42S.jpg?v=1617827465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zino Davidoff Cologne by Davidoff, Launched by the design house of davidoff in 1986, zino davidoff is classified as a luxurious, oriental, woody fragrance. This masculine scent possesses a blend of fresh herbs with sweet floral mid-notes and low notes of sweet, powdery woods. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556081422422</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>402685</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049801302</id>
+    <published>2021-04-01T02:56:43-04:00</published>
+    <updated>2021-04-01T02:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-game-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>The Game Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DTGMTS2.jpg?v=1617826353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            37.00 - 40.00
+            <a href="https://chiosny.com/products/the-game-cologne-by-davidoff-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Game Cologne by Davidoff, Give your evening a spark with the game from davidoff. With its notes of ebony wood, iris, juniper berries, and gin, this masculine fragrance provides you with a subtle yet strong scent that will complement your finest evening attire. Since 2012, the game has been providing men with a scent that is perfect for business or pleasure.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049801302</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>530217</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049801302</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>501567</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049506390</id>
+    <published>2021-04-01T02:56:31-04:00</published>
+    <updated>2021-04-01T02:56:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-brilliant-game-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>The Brilliant Game Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TBG34TS.jpg?v=1617826340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            39.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Brilliant Game Cologne by Davidoff, Crafted for the subtly brilliant, intriguingly flamboyant man who is not afraid to take a risk, the brilliant game by davidoff exudes an attractive warmth and irresistible charisma. This 2012 men's fragrance evokes the rush of high-stakes gambling and the thrill of success. Campari and vermouth notes create an accord reminiscent of the americano cocktail while notes of red berries, bitter orange and lemon add brightness and warmth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049506390</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.55</s:price>
+      <s:sku>518155</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556035809366</id>
+    <published>2021-04-01T02:47:07-04:00</published>
+    <updated>2021-04-01T02:47:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/silver-shadow-altitude-cologne-by-davidoff-deodorant-stick"/>
+    <title>Silver Shadow Altitude Deodorant Stick By Davidoff</title>
+    <s:type>Deodorant Stick</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SSHADOW24DS.jpg?v=1617825868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Deodorant Stick<br>
+        <strong>Price: </strong>
+            35.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Shadow Altitude Cologne by Davidoff, The second in the series of silver shadow fragrances for men, altitude, was created by perfumer jean jaques. This is a scent for a man who takes risks and lives for adventure. The fragrance opens with a burst of juniper berry, grapefruit and green pepper, meeting a spicy heart composed of cumin, curcuma, cardamom, lovage and white cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556035809366</id>
+      <title>2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">35.92</s:price>
+      <s:sku>458929</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915157590</id>
+    <published>2021-04-01T01:30:10-04:00</published>
+    <updated>2021-04-01T01:30:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hot-water-cologne-by-davidoff-eau-detoilette-spray"/>
+    <title>Hot Water Eau DeToilette Spray By Davidoff</title>
+    <s:type>Eau DeToilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/HWDM1.jpg?v=1617821918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau DeToilette Spray<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hot Water Cologne by Davidoff, Every man, they say, has two faces. And now, with hot water joining the iconic cool water in this release from davidoff, he has the perfect fragrance for either! top notes feature absynth and red basil, with a heart of pimento and patchouli, and a base that burns with notes of styrax and benzoin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915157590</id>
+      <title>1 oz Eau DeToilette Spray</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>492922</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555915124822</id>
+    <published>2021-04-01T01:30:08-04:00</published>
+    <updated>2021-04-01T01:30:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/hot-water-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Hot Water Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DAVHOTWM.jpg?v=1617821919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            33.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hot Water Cologne by Davidoff, Every man, they say, has two faces. And now, with hot water joining the iconic cool water in this release from davidoff, he has the perfect fragrance for either! top notes feature absynth and red basil, with a heart of pimento and patchouli, and a base that burns with notes of styrax and benzoin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555915124822</id>
+      <title>3.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">33.92</s:price>
+      <s:sku>461729</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555884060758</id>
+    <published>2021-04-01T01:08:45-04:00</published>
+    <updated>2021-04-01T01:08:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/echo-perfume-by-davidoff-shower-gel"/>
+    <title>Echo Shower Gel By Davidoff</title>
+    <s:type>Shower Gel</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/ECH67SGW.jpg?v=1617820879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Shower Gel<br>
+        <strong>Price: </strong>
+            37.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Echo Perfume by Davidoff, This fragrance was created by the house of davidoff with perfumer francoise caron and released in 2004. An invigorating fresh floral perfume with a deep warm personality. It has a breezy presentation on your skin that will delight you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555884060758</id>
+      <title>6.7 oz Shower Gel</title>
+      <s:price currency="USD">37.83</s:price>
+      <s:sku>454595</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864825942</id>
+    <published>2021-04-01T00:56:02-04:00</published>
+    <updated>2021-04-01T00:56:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-run-wild-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Davidoff Run Wild Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DAVDM16ED.jpg?v=1617820065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            30.86 - 38.40
+            <a href="https://chiosny.com/products/davidoff-run-wild-cologne-by-davidoff-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Run Wild Cologne by Davidoff, Launched by davidoff in 2019, davidoff run wild is a masculine fragrance that features warm and spicy notes. It opens with inviting top notes of ginger and cinnamon that move gently into the delicate heart layer. A single middle note of lavender softens the cologne.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864825942</id>
+      <title>1.6 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">30.86</s:price>
+      <s:sku>547646</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864825942</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>546768</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864793174</id>
+    <published>2021-04-01T00:56:01-04:00</published>
+    <updated>2021-04-01T00:56:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-horizon-cologne-by-davidoff-eau-de-toilette-spray-tester"/>
+    <title>Davidoff Horizon Eau De Toilette Spray (Tester) By Davidoff</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DH42MTST.jpg?v=1617820064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Horizon Cologne by Davidoff, Davidoff horizon for men is a woody, aromatic cologne for men that embodies the link between earth and air. It opens with traces of citrus and spice from grapefruit, mandarin, warm rosemary and ginger. Darker, earthier middle notes blend scents of cedar, nutmeg, patchouli, sesame and pepper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864793174</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>533334</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864760406</id>
+    <published>2021-04-01T00:55:59-04:00</published>
+    <updated>2021-04-01T00:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-horizon-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Davidoff Horizon Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DVHMTS13.jpg?v=1617820066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            27.14 - 39.00
+            <a href="https://chiosny.com/products/davidoff-horizon-cologne-by-davidoff-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Horizon Cologne by Davidoff, Davidoff horizon for men is a woody, aromatic cologne for men that embodies the link between earth and air. It opens with traces of citrus and spice from grapefruit, mandarin, warm rosemary and ginger. Darker, earthier middle notes blend scents of cedar, nutmeg, patchouli, sesame and pepper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864760406</id>
+      <title>1.35 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">27.14</s:price>
+      <s:sku>543405</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864760406</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">33.10</s:price>
+      <s:sku>543406</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864760406</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>533305</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864727638</id>
+    <published>2021-04-01T00:55:58-04:00</published>
+    <updated>2021-04-01T00:55:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-champion-cologne-by-davidoff-eau-de-toilette-spray-tester"/>
+    <title>Davidoff Champion Eau De Toilette Spray (Tester) By Davidoff</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DOC3TT.jpg?v=1617820065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Champion Cologne by Davidoff, Davidhoff champion came onto the scene in 2010 and has been popular ever since. The bottle that this eau de toilette is packaged in is very unique. It is shaped like a dumbbell – a symbol of strength and masculinity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864727638</id>
+      <title>3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>541517</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864694870</id>
+    <published>2021-04-01T00:55:56-04:00</published>
+    <updated>2021-04-01T00:55:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-champion-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Davidoff Champion Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DCM1TS.jpg?v=1617820064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            28.50 - 34.50
+            <a href="https://chiosny.com/products/davidoff-champion-cologne-by-davidoff-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Champion Cologne by Davidoff, Davidhoff champion came onto the scene in 2010 and has been popular ever since. The bottle that this eau de toilette is packaged in is very unique. It is shaped like a dumbbell – a symbol of strength and masculinity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864694870</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>492301</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864694870</id>
+      <title>3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>467830</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864662102</id>
+    <published>2021-04-01T00:55:54-04:00</published>
+    <updated>2021-04-01T00:55:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-adventure-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Davidoff Adventure Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/DAVD17M.jpg?v=1617820068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            32.87 - 39.50
+            <a href="https://chiosny.com/products/davidoff-adventure-cologne-by-davidoff-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Adventure Cologne by Davidoff, This is a woody fragrance composed by perfumer antoine lie for men who love to travel and was inspired by nature. Notes are mandarin, lemon, bergamot, black sesame, pimiento, maté leaves, chili black pepper, cedar wood, vetiver and white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864662102</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.50</s:price>
+      <s:sku>449337</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864662102</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">32.87</s:price>
+      <s:sku>450272</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555864629334</id>
+    <published>2021-04-01T00:55:53-04:00</published>
+    <updated>2021-04-01T00:55:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/davidoff-adventure-amazonia-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Davidoff Adventure Amazonia Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/AMAZONIA34.jpg?v=1617820055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Davidoff Adventure Amazonia Cologne by Davidoff, This woody aromatic limited edition fragrance for men evokes the green lushness of the rain forest. Top notes are exotic and feature crushed leaves of mate, a plant which grows in south america. The mysterious heart includes crushed palm leaves with spices base notes encompass cedar from peru.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555864629334</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>466998</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857616982</id>
+    <published>2021-04-01T00:51:15-04:00</published>
+    <updated>2021-04-01T00:51:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-wave-perfume-by-davidoff-eau-de-toilette-spray"/>
+    <title>Cool Water Wave Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CWW17W.jpg?v=1617819831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            34.50 - 35.92
+            <a href="https://chiosny.com/products/cool-water-wave-perfume-by-davidoff-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Wave Perfume by Davidoff, Cool water wave by davidoff launched in 2007 is classified as a fresh,feminine flowery sensual fragrance. With notes of watermelon,mango,guava,freesia,peony,pink peppercorn,sandalwood,iris wood and musk. It is recommended for any occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857616982</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>447568</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857616982</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">35.92</s:price>
+      <s:sku>442627</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857584214</id>
+    <published>2021-04-01T00:51:14-04:00</published>
+    <updated>2021-04-01T00:51:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-wave-cologne-by-davidoff-eau-de-toilette-spray-tester"/>
+    <title>Cool Water Wave Eau De Toilette Spray (Tester) By Davidoff</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COODZ0.jpg?v=1617819820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Wave Cologne by Davidoff, Cool water wave is an aromatic fragrance for men that was launched in 2017 by davidoff. This fragrance opens with top notes of refreshing grapefruit, spicy sichuan pepper, and aquatic sea notes. Its middle notes consist of birch leaf and juniper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857584214</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>553213</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857551446</id>
+    <published>2021-04-01T00:51:11-04:00</published>
+    <updated>2021-04-01T00:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-wave-cologne-by-davidoff-eau-de-toilette-spray"/>
+    <title>Cool Water Wave Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COWMTS25.jpg?v=1617819822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Wave Cologne by Davidoff, Cool water wave is an aromatic fragrance for men that was launched in 2017 by davidoff. This fragrance opens with top notes of refreshing grapefruit, spicy sichuan pepper, and aquatic sea notes. Its middle notes consist of birch leaf and juniper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857551446</id>
+      <title>2.5 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>548416</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857518678</id>
+    <published>2021-04-01T00:51:10-04:00</published>
+    <updated>2021-04-01T00:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-summer-edition-cologne-by-davidoff-eau-de-toilette-spray-2019"/>
+    <title>Cool Water Summer Edition Eau De Toilette Spray (2019) By Davidoff</title>
+    <s:type>Eau De Toilette Spray (2019)</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CWSED42M.jpg?v=1617819820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray (2019)<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Summer Edition Cologne by Davidoff, Part of a limited collection, cool water summer edition was launched in 2019. This fresh, masculine scent evokes the feeling of a warm breeze and can add a dramatic flair to a hot summer night. The fragrance opens with top notes of tart lemon, grapefruit, and tangerine for a distinctly citrus beginning.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857518678</id>
+      <title>4.2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>546843</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857485910</id>
+    <published>2021-04-01T00:51:09-04:00</published>
+    <updated>2021-04-01T00:51:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-sea-rose-perfume-by-davidoff-eau-de-toilette-spray-2019-summer-edition"/>
+    <title>Cool Water Sea Rose Eau De Toilette Spray (2019 Summer Edition) By Davidoff</title>
+    <s:type>Eau De Toilette Spray (2019 Summer Edition)</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COODW33ED.jpg?v=1617819823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray (2019 Summer Edition)<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Sea Rose Perfume by Davidoff, Inspired by a seaside garden, this fragrant scent for women from the design house of davidoff will leave you feeling sultry and ready for the day. Cool water sea rose was released in 2013 with a sweet combination of notes, including lavish japanese nashi pear, decadent pink peony, and earthy musk. Spritz this light-as-air fragrance on before a date or when heading out for a night at the club with friends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857485910</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>546618</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857453142</id>
+    <published>2021-04-01T00:51:07-04:00</published>
+    <updated>2021-04-01T00:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-sea-rose-perfume-by-davidoff-eau-de-toilette-spray"/>
+    <title>Cool Water Sea Rose Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CWSR17TS.jpg?v=1617819819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            36.78 - 44.00
+            <a href="https://chiosny.com/products/cool-water-sea-rose-perfume-by-davidoff-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Sea Rose Perfume by Davidoff, Inspired by a seaside garden, this fragrant scent for women from the design house of davidoff will leave you feeling sultry and ready for the day. Cool water sea rose was released in 2013 with a sweet combination of notes, including lavish japanese nashi pear, decadent pink peony, and earthy musk. Spritz this light-as-air fragrance on before a date or when heading out for a night at the club with friends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857453142</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">36.78</s:price>
+      <s:sku>539469</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857453142</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>501319</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857420374</id>
+    <published>2021-04-01T00:51:05-04:00</published>
+    <updated>2021-04-01T00:51:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-run-wild-perfume-by-davidoff-eau-de-parfum-spray"/>
+    <title>Cool Water Run Wild Eau De Parfum Spray By Davidoff</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COODW16ED.jpg?v=1617819821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            32.87 - 38.69
+            <a href="https://chiosny.com/products/cool-water-run-wild-perfume-by-davidoff-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Run Wild Perfume by Davidoff, Bright and fresh yet soft and subtly sweet, cool water run wild is a fruity floral fragrance released by swiss label davidoff in 2019. The opening is a juicy effusion of luscious pomegranate mingled with soft, nutty nuances of pistachio. Shimmering white floral accords of lily and jasmine bloom as the scent warms, followed by a lightly enveloping finish of sweet cream.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857420374</id>
+      <title>1.6 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">32.87</s:price>
+      <s:sku>548758</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857420374</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">38.69</s:price>
+      <s:sku>546826</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857322070</id>
+    <published>2021-04-01T00:51:04-04:00</published>
+    <updated>2021-04-01T00:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-perfume-by-davidoff-eau-de-toilette-spray-tester"/>
+    <title>Cool Water Eau De Toilette Spray (Tester) By Davidoff</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CWW34T.jpg?v=1617819822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            30.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Perfume by Davidoff, Launched by the design house of davidoff in 1996, cool water is classified as a sharp, flowery fragrance. This feminine scent possesses a blend of citrus, pineapple, and woody notes. Accompanied by the scent of the pure ocean air.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857322070</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">30.62</s:price>
+      <s:sku>445986</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857289302</id>
+    <published>2021-04-01T00:51:01-04:00</published>
+    <updated>2021-04-01T00:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-perfume-by-davidoff-eau-de-toilette-spray"/>
+    <title>Cool Water Eau De Toilette Spray By Davidoff</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COOTS1.jpg?v=1617819819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            29.44 - 44.15
+            <a href="https://chiosny.com/products/cool-water-perfume-by-davidoff-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Perfume by Davidoff, Launched by the design house of davidoff in 1996, cool water is classified as a sharp, flowery fragrance. This feminine scent possesses a blend of citrus, pineapple, and woody notes. Accompanied by the scent of the pure ocean air.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857289302</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">29.44</s:price>
+      <s:sku>402102</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857289302</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>402096</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857289302</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">33.92</s:price>
+      <s:sku>402092</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857289302</id>
+      <title>6.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">44.15</s:price>
+      <s:sku>460047</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857256534</id>
+    <published>2021-04-01T00:51:00-04:00</published>
+    <updated>2021-04-01T00:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-perfume-by-davidoff-deodorant-spray"/>
+    <title>Cool Water Deodorant Spray By Davidoff</title>
+    <s:type>Deodorant Spray</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/COODS.jpg?v=1617819821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Deodorant Spray<br>
+        <strong>Price: </strong>
+            28.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Perfume by Davidoff, Launched by the design house of davidoff in 1996, cool water is classified as a sharp, flowery fragrance. This feminine scent possesses a blend of citrus, pineapple, and woody notes. Accompanied by the scent of the pure ocean air.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857256534</id>
+      <title>3.3 oz Deodorant Spray</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>402099</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555857223766</id>
+    <published>2021-04-01T00:50:59-04:00</published>
+    <updated>2021-04-01T00:50:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cool-water-perfume-by-davidoff-body-lotion"/>
+    <title>Cool Water Body Lotion By Davidoff</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Davidoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CW5OZBLW.jpg?v=1617819819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Davidoff<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            36.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Water Perfume by Davidoff, Launched by the design house of davidoff in 1996, cool water is classified as a sharp, flowery fragrance. This feminine scent possesses a blend of citrus, pineapple, and woody notes. Accompanied by the scent of the pure ocean air.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555857223766</id>
+      <title>5 oz Body Lotion</title>
+      <s:price currency="USD">36.20</s:price>
+      <s:sku>431915</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

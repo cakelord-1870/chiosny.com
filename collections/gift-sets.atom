@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/gift-sets.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-08-18T18:05:40-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6618318569558</id>
+    <published>2021-08-18T18:05:40-04:00</published>
+    <updated>2021-08-18T18:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bvlgari-goldea-the-roman-night-3-pc-gift-set"/>
+    <title>Bvlgari Goldea The Roman Night 3 Pc gift set</title>
+    <s:type>Eau De Pafum Spray</s:type>
+    <s:vendor>Bvlgari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SETBVLrn3w.jpg?v=1629324385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bvlgari<br>
+        <strong>Type: </strong>Eau De Pafum Spray<br>
+        <strong>Price: </strong>
+            78.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="inlineblock" data-mce-fragment="1" itemprop="Description">Bvlgari Goldea The Roman Night Absolute Perfume by Bvlgari, This fragrance was created by the design house of bvlgari with perfumer alberto morillas and released in 2018. A synthetic floral perfume for women. This beauty is sensual and romantic. Perfect for date night.<span data-mce-fragment="1"> </span>
+</div>
+<span data-mce-fragment="1"></span>
+<div id="product-read-more-text-mq1" class="inlineblock" data-mce-fragment="1">The vanilla in this blend adds a silky smooth texture to an already intriguing scent. The top notes are orange blossom and black plum. The heart notes are jasmine sambac absolute and madagascan vanilla. The finishing notes are patchouli, crystallized moss and black musk</div>
+<div class="inlineblock" data-mce-fragment="1"></div>
+<div class="inlineblock" data-mce-fragment="1"><span>Gift Set  (2.5oz &amp; 1/2oz SENSUAL EDP SP, Beauty Pouch)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6618318569558</id>
+      <title>2.5 fl oz Gift Set / Women</title>
+      <s:price currency="USD">78.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556067135574</id>
+    <published>2021-04-01T03:08:40-04:00</published>
+    <updated>2021-04-01T03:08:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-yellow-diamond-perfume-by-versace-gift-set"/>
+    <title>Versace Yellow Diamond Gift Set By Versace</title>
+    <s:type>Gift Set -</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVW6D.jpg?v=1617826949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set -<br>
+        <strong>Price: </strong>
+            37.00 - 56.50
+            <a href="https://chiosny.com/products/versace-yellow-diamond-perfume-by-versace-gift-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Yellow Diamond Perfume by Versace, One spritz of yellow diamond by versace and you'll know why they say diamonds are a girl's best friend. This lavish fragrance for women was introduced in 2011, and it's an ideal scent for wearing anytime you want to feel glamorous and sophisticated. This sensual and sultry scent opens with juicy notes of pear sorbet and lemon before revealing a floral heart of mimosa and orange blossom that is reinforced by a lush precious musk base.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067135574</id>
+      <title>3 Piece Gift set</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>552013</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067135574</id>
+      <title>5 x .17 oz Gift Set</title>
+      <s:price currency="USD">56.50</s:price>
+      <s:sku>540392</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556067135574</id>
+      <title>5 x .17  Gift Set</title>
+      <s:price currency="USD">56.50</s:price>
+      <s:sku>551352</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066676822</id>
+    <published>2021-04-01T03:08:20-04:00</published>
+    <updated>2021-04-01T03:08:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-dylan-blue-cologne-by-versace-gift-set"/>
+    <title>Versace Pour Homme Dylan Blue Gift Set By Versace</title>
+    <s:type>Gift Set - 0.17 oz Mini EDT + 0.8 oz After Shave Balm + 0.8 oz Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVM0.jpg?v=1617826933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set - 0.17 oz Mini EDT + 0.8 oz After Shave Balm + 0.8 oz Shower Gel<br>
+        <strong>Price: </strong>
+            33.00 - 66.33
+            <a href="https://chiosny.com/products/versace-pour-homme-dylan-blue-cologne-by-versace-gift-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Dylan Blue Cologne by Versace, Recently launched in 2016, versace pour homme dylan blue by versace provides a delicate balance of citrus, spicy and musk accords, creating an ideal daily scent. The fragrance opens with fresh top notes of water, grapefruit, fig and bergamot. These are followed by a complex middle blend of floral and woodsy violet leaf, papyrus and patchouli mixed with spicy black pepper and ambroxan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066676822</id>
+      <title>0.17 oz Mini EDT + 0.8 oz After Shave Balm + 0.8 oz Shower Gel</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>552011</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066676822</id>
+      <title>1.7 oz Eau De Toilette Spray + 1.7 oz After Shave Balm + 1.7 oz Shower Gel</title>
+      <s:price currency="USD">52.33</s:price>
+      <s:sku>538096</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066676822</id>
+      <title>3.4 oz Eau de Toilette Spray + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">66.33</s:price>
+      <s:sku>553956</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066414678</id>
+    <published>2021-04-01T03:08:08-04:00</published>
+    <updated>2021-04-01T03:08:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-homme-cologne-by-versace-gift-set"/>
+    <title>Versace Pour Homme Gift Set By Versace</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VPH34SETM.jpg?v=1617826919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            42.22 - 59.88
+            <a href="https://chiosny.com/products/versace-pour-homme-cologne-by-versace-gift-set">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Homme Cologne by Versace, An exciting and modern twist on a classic aromatic/fougere for men, this masculine contemporary scent was created by master perfumer alberto morillas. Top notes are citruses, neroli, bergamot and petit grain; middle notes are hyacinth, clary sage, cedar and geranium; base notes are tonka bean, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066414678</id>
+      <title>3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">59.88</s:price>
+      <s:sku>497090</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066414678</id>
+      <title>5 x .17 oz Gift Set</title>
+      <s:price currency="USD">42.22</s:price>
+      <s:sku>540246</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066185302</id>
+    <published>2021-04-01T03:07:58-04:00</published>
+    <updated>2021-04-01T03:07:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-pour-femme-dylan-blue-perfume-by-versace-gift-set"/>
+    <title>Versace Pour Femme Dylan Blue Gift Set By Versace</title>
+    <s:type>Gift Set - 0.17 oz Mini EDP + 0.8 oz Body Lotion + 0.8 oz Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERVW7.jpg?v=1617826912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set - 0.17 oz Mini EDP + 0.8 oz Body Lotion + 0.8 oz Shower Gel<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Pour Femme Dylan Blue Perfume by Versace, Versace pour femme dylan blue, created by versace, debuted in 2017. This tantalizing perfume opens with top notes granny smith apple, shiso, clover, black currant, forget-me-not and shiso for an intriguing combination that is feminine and passionate. The fruity and floral middle notes of rose, jasmine, petalia, peach and rosyfolia fuse together for a delicate, graceful aroma.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066185302</id>
+      <title>0.17 oz Mini EDP + 0.8 oz Body Lotion + 0.8 oz Shower Gel</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>552010</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556066086998</id>
+    <published>2021-04-01T03:07:54-04:00</published>
+    <updated>2021-04-01T03:07:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-man-cologne-by-versace-gift-set"/>
+    <title>Versace Man Gift Set By Versace</title>
+    <s:type>Gift Set - 3.3 oz Eau De Toilette Spray (Eau Frachie) + 3.3 oz Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/vmgsf2.jpg?v=1619014852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set - 3.3 oz Eau De Toilette Spray (Eau Frachie) + 3.3 oz Shower Gel<br>
+        <strong>Price: </strong>
+            58.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Versace Man Cologne by Versace, The masculine scent of Versace Man Eau Fraiche will help the wearer feel charismatic, confident, sexy, and modern. Its clean, zesty smell reminds one of summer and sunshine, with the subtle hints of other woodsy notes underneath providing an “elegant understatement and a growingly alluring charm,” according to the classic design house Versace. Men, cologne enthusiasts, and fashion collectors will all be appreciative when given this as a gift.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556066086998</id>
+      <title>3.3 oz  (Eau Frachie) + 3.3 oz Shower Gel</title>
+      <s:price currency="USD">58.44</s:price>
+      <s:sku>457551</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065726550</id>
+    <published>2021-04-01T03:07:41-04:00</published>
+    <updated>2021-04-01T03:07:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-perfume-by-versace-gift-set"/>
+    <title>Versace Eros Gift Set By Versace</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VERSER5PCW.jpg?v=1617826899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            46.33 - 46.88
+            <a href="https://chiosny.com/products/versace-eros-perfume-by-versace-gift-set">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Perfume by Versace, Created by the house of versace with perfumers alberto morilas, oliver cresp and nathalie lorson.  they released it in 2014 with eros the god of love in mind.  a remarkable high end flowery citrus perfume with grace pizzazz.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065726550</id>
+      <title>5x .17oz pcs Miniature</title>
+      <s:price currency="USD">46.88</s:price>
+      <s:sku>551354</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065726550</id>
+      <title>5x.17 oz pcs Miniature</title>
+      <s:price currency="USD">46.33</s:price>
+      <s:sku>550242</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556065235030</id>
+    <published>2021-04-01T03:07:15-04:00</published>
+    <updated>2021-04-01T03:07:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/versace-eros-cologne-by-versace-gift-set"/>
+    <title>Versace Eros Gift Set By Versace</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/VEGS2.jpg?v=1617826873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            43.88 - 70.11
+            <a href="https://chiosny.com/products/versace-eros-cologne-by-versace-gift-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versace Eros Cologne by Versace, You'd expect nothing less than a manly fragrance from the design house of versace, and you'll get it with versace eros, a decadent fragrance for men of distinction. This woody fresh scent has a definitive oriental vibe that is daring and adventurous-just like you. It features a crisp zing of mint oil embraced by fruity green apple and italian lemon with memorable notes of geranium flowers and venezuelan ambroxan in a succulently sensuous medley that clings to your skin all day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065235030</id>
+      <title>3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">70.11</s:price>
+      <s:sku>534902</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065235030</id>
+      <title>5 x .17 oz Gift Set</title>
+      <s:price currency="USD">46.88</s:price>
+      <s:sku>550241</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556065235030</id>
+      <title>5 x .17 oz Gift set</title>
+      <s:price currency="USD">43.88</s:price>
+      <s:sku>540247</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556060844118</id>
+    <published>2021-04-01T03:04:24-04:00</published>
+    <updated>2021-04-01T03:04:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/unforgivable-cologne-by-sean-john-gift-set"/>
+    <title>Unforgivable Gift Set By Sean John</title>
+    <s:type>Gift Set - 4.2 oz Eau De Toilette Spray + 3.4 oz Shower Gel + 3.4 oz After Shave Balm</s:type>
+    <s:vendor>Sean John</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/UFMGSM.jpg?v=1617826691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sean John<br>
+        <strong>Type: </strong>Gift Set - 4.2 oz Eau De Toilette Spray + 3.4 oz Shower Gel + 3.4 oz After Shave Balm<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unforgivable Cologne by Sean John, This special cologne was created by sean john, in 2005. The fantastic scent includes an extensive mixture of sicilian lemon, italian bergamot, green mandarin, moroccan tangerine, grapefruit, juniper leaves, birch leaves, champagne accord, mediterranean air accord, tuscan basil, florentine iris, clay sage, lavender, cashmere accord, australian sandalwood, amber, tonka bean, rum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556060844118</id>
+      <title>4.2 oz Eau De Toilette Spray + 3.4 oz Shower Gel + 3.4 oz After Shave Balm</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>525108</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556060549206</id>
+    <published>2021-04-01T03:04:06-04:00</published>
+    <updated>2021-04-01T03:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/unbreakable-bond-perfume-by-khloe-and-lamar-gift-set"/>
+    <title>Unbreakable Bond Gift Set By Khloe And Lamar</title>
+    <s:type>Gift Set - 1 oz Eau De Toilette Spray + 3.4 oz Body Lotion + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Khloe And Lamar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/UNBKUC.jpg?v=1617826689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Khloe And Lamar<br>
+        <strong>Type: </strong>Gift Set - 1 oz Eau De Toilette Spray + 3.4 oz Body Lotion + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unbreakable Bond Perfume by Khloe and Lamar, The famous couple khloe kardashian odom and lamar odom of la lakers launched the romantic fragrance unbreakable in the year 2011, just before valentine's day. On the theme of never ending love, this fragrance blooms. The perfume is a unisex edition telling the saga of the undaunted and the graceful.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556060549206</id>
+      <title>1 oz Eau De Toilette Spray + 3.4 oz Body Lotion + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>551390</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556058157142</id>
+    <published>2021-04-01T03:02:27-04:00</published>
+    <updated>2021-04-01T03:02:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tresor-perfume-by-lancome-gift-set"/>
+    <title>Tresor Gift Set By Lancome</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Lancome</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TRESMINGSW.jpg?v=1617826613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lancome<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            52.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tresor Perfume by Lancome, Tresor perfume by lancome is considered to be a modern classic by many fragrance critics and was composed by master perfumer sophia grojsman in 1990. Juicy peach and ripe apricot adds dimension to a rose in full bloom tinged with amber. Softly rounded with no hard edges, this is a refined and romantic fragrance for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556058157142</id>
+      <title>5 x .16 oz</title>
+      <s:price currency="USD">52.22</s:price>
+      <s:sku>548553</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556057829462</id>
+    <published>2021-04-01T03:02:14-04:00</published>
+    <updated>2021-04-01T03:02:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tracy-perfume-by-ellen-tracy-gift-set"/>
+    <title>Tracy Gift Set By Ellen Tracy</title>
+    <s:type>Gift Set - 2.5 oz Eau De Parfum Spray + 3.4 oz Body Lotion + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Ellen Tracy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TRACGS3PCW.jpg?v=1617826603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ellen Tracy<br>
+        <strong>Type: </strong>Gift Set - 2.5 oz Eau De Parfum Spray + 3.4 oz Body Lotion + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            31.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tracy Perfume by Ellen Tracy, A blended scent of spices, florals, and woods. Peach and cinnamon open this feminine, wooded oriental, while florals, tonka bean, and sandalwood enhance the composition.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556057829462</id>
+      <title>2.5 oz Eau De Parfum Spray + 3.4 oz Body Lotion + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">31.09</s:price>
+      <s:sku>502651</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556055994454</id>
+    <published>2021-04-01T03:00:51-04:00</published>
+    <updated>2021-04-01T03:00:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tommy-hilfiger-impact-cologne-by-tommy-hilfiger-gift-set"/>
+    <title>Tommy Hilfiger Impact Gift Set By Tommy Hilfiger</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + .14 oz Travel EDT Spray</s:type>
+    <s:vendor>Tommy Hilfiger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TOMTSCI.jpg?v=1617826532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tommy Hilfiger<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + .14 oz Travel EDT Spray<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tommy Hilfiger Impact Cologne by Tommy Hilfiger, For a fresh, woody fragrance for men, you can't go wrong with tommy hilfiger impact. Introduced in 2020, this masculine fragrance is from tommy hilfiger, a fashion designer based in the us. The top notes of bitter orange, red apple, and pink pepper make a bold introduction, while the heart notes of french cypress and clary sage add an element of freshness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556055994454</id>
+      <title>3.4 oz Eau De Toilette Spray + .14 oz Travel EDT Spray</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>554280</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556050489430</id>
+    <published>2021-04-01T02:57:09-04:00</published>
+    <updated>2021-04-01T02:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-one-cologne-by-dolce-gabbana-gift-set"/>
+    <title>The One Gift Set By Dolce &amp; Gabbana</title>
+    <s:type>Gift Set - 3.3 oz Eau De Toilette Spray + 2.4 oz Deodorant Stick</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THED94.jpg?v=1617826372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Gift Set - 3.3 oz Eau De Toilette Spray + 2.4 oz Deodorant Stick<br>
+        <strong>Price: </strong>
+            57.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The One Cologne by Dolce &amp; Gabbana, The one is a delightful oriental spicy scent that has a wonderful combination of grapfruit, ginger and orange blossom. Blended perfectly with cedarwood, coriander and basil it's a no stopping me now fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556050489430</id>
+      <title>3.3 oz Eau De Toilette Spray + 2.4 oz Deodorant Stick</title>
+      <s:price currency="USD">57.58</s:price>
+      <s:sku>554321</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556049702998</id>
+    <published>2021-04-01T02:56:39-04:00</published>
+    <updated>2021-04-01T02:56:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/the-essence-cologne-by-porsche-gift-set"/>
+    <title>The Essence Gift Set By Porsche</title>
+    <s:type>Gift Set - 1.7 oz Eau De Toilette Spray + 5.1 oz Deodorant Spray</s:type>
+    <s:vendor>Porsche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/THEPMP.jpg?v=1617826355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Porsche<br>
+        <strong>Type: </strong>Gift Set - 1.7 oz Eau De Toilette Spray + 5.1 oz Deodorant Spray<br>
+        <strong>Price: </strong>
+            62.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Essence Cologne by Porsche, Created by perfumers anne flipo and bruno jovanovic, this is a contemporary, chic scent for men that will set her heart racing. Top notes are artical, juniper and blueberry; middle notes are russian coriander, pepper and siberian pine; base notes are fir balsam, incense and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556049702998</id>
+      <title>1.7 oz Eau De Toilette Spray + 5.1 oz Deodorant Spray</title>
+      <s:price currency="USD">62.50</s:price>
+      <s:sku>551816</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047769686</id>
+    <published>2021-04-01T02:55:17-04:00</published>
+    <updated>2021-04-01T02:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tahari-citrus-fresh-cologne-by-tahari-gift-set"/>
+    <title>Tahari Citrus Fresh Gift Set By Tahari</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Tahari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TAHTND.jpg?v=1617826290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahari<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tahari Citrus Fresh Cologne by Tahari</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047769686</id>
+      <title>3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>550393</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047736918</id>
+    <published>2021-04-01T02:55:16-04:00</published>
+    <updated>2021-04-01T02:55:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tahari-aqua-wave-cologne-by-tahari-gift-set"/>
+    <title>Tahari Aqua Wave Gift Set By Tahari</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Tahari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TAHTVH.jpg?v=1617826288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tahari<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tahari Aqua Wave Cologne by Tahari</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047736918</id>
+      <title>3.4 oz Eau De Toilette Spray + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>550392</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556047016022</id>
+    <published>2021-04-01T02:54:43-04:00</published>
+    <updated>2021-04-01T02:54:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/tabac-cologne-by-maurer-wirtz-gift-set"/>
+    <title>Tabac Gift Set By Maurer &amp; Wirtz</title>
+    <s:type>Gift Set - 1.7 oz After Shave Lotion + 3.4 oz Shower Gel</s:type>
+    <s:vendor>Maurer &amp; Wirtz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/TABMMGS.jpg?v=1617826270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maurer &amp; Wirtz<br>
+        <strong>Type: </strong>Gift Set - 1.7 oz After Shave Lotion + 3.4 oz Shower Gel<br>
+        <strong>Price: </strong>
+            33.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tabac Cologne by Maurer &amp; Wirtz, Created by the design house of maurer &amp; wirtz in 1959, tabac is classified as a sharp, floral, soft fragrance. This masculine scent possesses a blend of lavender, citrus, and warm florals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556047016022</id>
+      <title>1.7 oz After Shave Lotion + 3.4 oz Shower Gel</title>
+      <s:price currency="USD">33.50</s:price>
+      <s:sku>549786</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556041347158</id>
+    <published>2021-04-01T02:51:00-04:00</published>
+    <updated>2021-04-01T02:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sublime-perfume-by-jean-patou-gift-set"/>
+    <title>Sublime Gift Set By Jean Patou</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Jean Patou</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/1234W.jpg?v=1617826039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Patou<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            70.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sublime Perfume by Jean Patou, Launched by the design house of jean patou in 1993, sublime is classified as a refined, oriental, floral fragrance. This feminine scent possesses a blend of flowers, musk and vanilla combined to create an elegant, sophisticated scent. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556041347158</id>
+      <title>3.0 oz Gift set</title>
+      <s:price currency="USD">70.22</s:price>
+      <s:sku>540288</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556040822870</id>
+    <published>2021-04-01T02:50:35-04:00</published>
+    <updated>2021-04-01T02:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/stetson-cologne-by-coty-gift-set"/>
+    <title>Stetson Gift Set By Coty</title>
+    <s:type>Gift Set - 1.5 oz Cologne + .75 oz After Shave</s:type>
+    <s:vendor>Coty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SMGS2P.jpg?v=1617826023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coty<br>
+        <strong>Type: </strong>Gift Set - 1.5 oz Cologne + .75 oz After Shave<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stetson Cologne by Coty, Launched by the design house of coty in 1981, stetson is classified as a refined, oriental, woody fragrance. This masculine scent possesses a blend of rich, woodsy, citrus spices. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556040822870</id>
+      <title>1.5 oz Cologne + .75 oz After Shave</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>455433</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556040003670</id>
+    <published>2021-04-01T02:49:56-04:00</published>
+    <updated>2021-04-01T02:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/star-wars-darth-vader-3d-cologne-by-disney-gift-set"/>
+    <title>Star Wars Darth Vader 3d Gift Set By Disney</title>
+    <s:type>Gift Set - 1.7 oz Eau de Toilette + 2.5 oz Shower Gel</s:type>
+    <s:vendor>Disney</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/STADMN.jpg?v=1617825993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Disney<br>
+        <strong>Type: </strong>Gift Set - 1.7 oz Eau de Toilette + 2.5 oz Shower Gel<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Star Wars Darth Vader 3d Cologne by Disney, Emphasize your dark side with this smooth, sexy, sophisticated star wars darth vader 3d cologne. Officially licensed by disney and tied in with their iconic sci-fi franchise, this 2016 scent features deceptively bright citrus top notes of lemon, lime and mandarin. Spicy herbal heart notes include lavender and white wood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556040003670</id>
+      <title>1.7 oz Eau de Toilette + 2.5 oz Shower Gel</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>554405</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556036038742</id>
+    <published>2021-04-01T02:47:21-04:00</published>
+    <updated>2021-04-01T02:47:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sira-des-indes-perfume-by-jean-patou-gift-set"/>
+    <title>Sira Des Indes Gift Set By Jean Patou</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Jean Patou</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SSIGS.jpg?v=1617825867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Patou<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            51.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sira Des Indes Perfume by Jean Patou, It has top notes of banana accords, bergamot, pear, pink berries, and cardamom. A floral middle note and base notes of musk, amber, vanilla, and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556036038742</id>
+      <title>1.6 oz Eau De Parfum Spray + 1.6 oz Body Lotion + 1.6 oz Shower Gel</title>
+      <s:price currency="USD">51.64</s:price>
+      <s:sku>452954</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556034531414</id>
+    <published>2021-04-01T02:46:22-04:00</published>
+    <updated>2021-04-01T02:46:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/shooting-stars-amber-star-star-musk-cologne-by-xerjoff-gift-set"/>
+    <title>Shooting Stars Amber Star &amp; Star Musk Gift Set By Xerjoff</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SHOX1N.jpg?v=1617825825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            570.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shooting Stars Amber Star &amp; Star Musk Cologne by Xerjoff, Released in 2013, shooting stars amber star &amp; star musk encapsulates the natural wonders of the universe and throws in a touch of earthly opulence and glamour. Featured as perfume offerings in the shooting stars collection by xerjoff, this supernatural scent duo includes a creamy warmth in one flask and aristocratic-level luxury in the other. Amber star features cedar, ambergris and ylang-ylang at the top.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556034531414</id>
+      <title>1.7 oz EDP in Amber Star + 1.7 oz EDP in Star Musk Both</title>
+      <s:price currency="USD">570.44</s:price>
+      <s:sku>554810</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556034498646</id>
+    <published>2021-04-01T02:46:21-04:00</published>
+    <updated>2021-04-01T02:46:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/shooting-stars-amber-gold-rose-gold-perfume-by-xerjoff-gift-set"/>
+    <title>Shooting Stars Amber Gold &amp; Rose Gold Gift Set By Xerjoff</title>
+    <s:type>Gift Set - 1.7 oz EDP in Amber Gold + 1.7 oz EDP in Rose Gold</s:type>
+    <s:vendor>Xerjoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SHOX9Y.jpg?v=1617825823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerjoff<br>
+        <strong>Type: </strong>Gift Set - 1.7 oz EDP in Amber Gold + 1.7 oz EDP in Rose Gold<br>
+        <strong>Price: </strong>
+            570.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shooting Stars Amber Gold &amp; Rose Gold Perfume by Xerjoff, Combine the wonder of the universe and the opulence of rich gold and you get the mystifying luxury of shooting stars amber gold &amp; rose gold by xerjoff. Released in 2019, this alluring scent duo appeals for all occasions and any time of day thanks to an ability to change with your mood based on how you wear it. Enjoy one warm scent alone or layer the perfumes together for a unique and sensual fragrance experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556034498646</id>
+      <title>1.7 oz EDP in Amber Gold + 1.7 oz EDP in Rose Gold</title>
+      <s:price currency="USD">570.00</s:price>
+      <s:sku>554811</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556030369878</id>
+    <published>2021-04-01T02:43:34-04:00</published>
+    <updated>2021-04-01T02:43:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sauvage-cologne-by-christian-dior-gift-set"/>
+    <title>Sauvage Gift Set By Christian Dior</title>
+    <s:type>Gift Set - 3.4 oz Eau De Toilette Spray + .33 oz EDT Spray Refillable</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/saucmk_70a9450a-08c1-4f79-beb0-9cb076ed3085.jpg?v=1619471761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Gift Set - 3.4 oz Eau De Toilette Spray + .33 oz EDT Spray Refillable<br>
+        <strong>Price: </strong>
+            147.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sauvage Cologne by Christian Dior, Unleash your inner savage and be the alpha of the pack with sauvage by dior. This remix of the 1996 eau sauvage is a modern take of the original’s fresh, ferocious fragrance. Inspired by the fierce plains and wild open spaces of feral lands, sauvage would unleash your unruly side with its primal and breezy scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne for Men</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556030369878</id>
+      <title>3.4 oz Eau De Toilette Spray + .33 oz EDT Spray Refillable</title>
+      <s:price currency="USD">147.88</s:price>
+      <s:sku>553303</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

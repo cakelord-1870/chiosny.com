@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/elizabeth-arden.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T03:14:18-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556076310614</id>
+    <published>2021-04-01T03:14:18-04:00</published>
+    <updated>2021-04-01T03:14:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-tea-vanilla-orchid-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>White Tea Vanilla Orchid Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/WHIENU.jpg?v=1617827251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Tea Vanilla Orchid Perfume by Elizabeth Arden, White tea vanilla orchid perfume was created by the house of elizabeth arden with perfumer gil clavien and released in 2019. This beautiful oriental floral scent is a real charmer. A casual perfume that is full of grace and a little bit flirty.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076310614</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>552579</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556076277846</id>
+    <published>2021-04-01T03:14:17-04:00</published>
+    <updated>2021-04-01T03:14:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-tea-perfume-by-elizabeth-arden-eau-de-toilette-spray-tester"/>
+    <title>White Tea Eau De Toilette Spray (Tester) By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EAWT33T.jpg?v=1617827249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Tea Perfume by Elizabeth Arden, This fragrance was created by the house of elizabeth arden with perfumers rodrigo flores roux, guillaume flavigny and caroline sabas. It was released in 2017 as a remarkable fresh warm floral perfume for women. A classy herbal scent with exotic notes to provide you with an exciting experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076277846</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>542465</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556076245078</id>
+    <published>2021-04-01T03:14:16-04:00</published>
+    <updated>2021-04-01T03:14:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/white-tea-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>White Tea Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EAWTW33.jpg?v=1617827249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Tea Perfume by Elizabeth Arden, This fragrance was created by the house of elizabeth arden with perfumers rodrigo flores roux, guillaume flavigny and caroline sabas. It was released in 2017 as a remarkable fresh warm floral perfume for women. A classy herbal scent with exotic notes to provide you with an exciting experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556076245078</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>536101</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556061925462</id>
+    <published>2021-04-01T03:05:05-04:00</published>
+    <updated>2021-04-01T03:05:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/untold-eau-fraiche-perfume-by-elizabeth-arden-eau-de-toilette-spray-tester"/>
+    <title>Untold Eau Fraiche Eau De Toilette Spray (Tester) By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/UNTE8I.jpg?v=1617826722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untold Eau Fraiche Perfume by Elizabeth Arden, Part of the untold fragrance collection from american designer elizabeth arden, untold eau fraiche is inspired by the freshness of a spring breeze. Introduced in 2015, this feminine scent brings together top notes of white tea, juicy pear, and mandarin orange for a fruity introduction. At the heart are floral notes of orange blossom, lily-of-the-valley, and freesia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556061925462</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>554202</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556061892694</id>
+    <published>2021-04-01T03:05:04-04:00</published>
+    <updated>2021-04-01T03:05:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/untold-eau-fraiche-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Untold Eau Fraiche Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/UNTEW3.jpg?v=1617826722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untold Eau Fraiche Perfume by Elizabeth Arden, Part of the untold fragrance collection from american designer elizabeth arden, untold eau fraiche is inspired by the freshness of a spring breeze. Introduced in 2015, this feminine scent brings together top notes of white tea, juicy pear, and mandarin orange for a fruity introduction. At the heart are floral notes of orange blossom, lily-of-the-valley, and freesia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556061892694</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>554389</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556058419286</id>
+    <published>2021-04-01T03:02:35-04:00</published>
+    <updated>2021-04-01T03:02:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/true-love-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>True Love Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/W139194T.jpg?v=1617826616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            29.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Love Perfume by Elizabeth Arden, Launched by the design house of elizabeth arden in 1994, true love is classified as a refreshing, gentle, floral fragrance. This feminine scent possesses a blend of lotus, iris and jasmine. Accompanied by the distinct scent of sandalwood and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556058419286</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">29.44</s:price>
+      <s:sku>402144</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556042297430</id>
+    <published>2021-04-01T02:51:36-04:00</published>
+    <updated>2021-04-01T02:51:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sunflowers-sunlight-kiss-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Sunflowers Sunlight Kiss Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SFSLK34.jpg?v=1617826070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            30.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunflowers Sunlight Kiss Perfume by Elizabeth Arden, Sunflowers sunlight kiss is a bright floral perfume for women. The scent starts fresh and citrusy with clean italian bergamot, apple leaf, juicy mandarin orange and japanese loquat. The flowery heart of rose, cyclamen, jasmine and osmanthus is graced by aquatic ozonic notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556042297430</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">30.50</s:price>
+      <s:sku>539878</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556042264662</id>
+    <published>2021-04-01T02:51:35-04:00</published>
+    <updated>2021-04-01T02:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sunflowers-summer-bloom-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Sunflowers Summer Bloom Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SUNFLSB33W.jpg?v=1617826068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunflowers Summer Bloom Perfume by Elizabeth Arden, Released in 2014 this addition to the sunflower series of perfumes originally started in 1993 by the house of elizabeth arden. This summer edition is a refreshing breezy floral blend with an amazing romantic side. The top notes are water lily, anjou pear and ivy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556042264662</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>529588</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556042231894</id>
+    <published>2021-04-01T02:51:33-04:00</published>
+    <updated>2021-04-01T02:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sunflowers-perfume-by-elizabeth-arden-eau-de-toilette-spray-tester"/>
+    <title>Sunflowers Eau De Toilette Spray (Tester) By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SWT34T.jpg?v=1617826069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            27.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunflowers Perfume by Elizabeth Arden, Launched by the design house of elizabeth arden in 1993, sunflowers is classified as a refined, aquatic fragrance. This feminine scent possesses a blend of fruity, fresh florals. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556042231894</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">27.08</s:price>
+      <s:sku>446362</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556042199126</id>
+    <published>2021-04-01T02:51:32-04:00</published>
+    <updated>2021-04-01T02:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sunflowers-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Sunflowers Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SNF30TSW.jpg?v=1617826059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            26.05 - 29.73
+            <a href="https://chiosny.com/products/sunflowers-perfume-by-elizabeth-arden-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunflowers Perfume by Elizabeth Arden, Launched by the design house of elizabeth arden in 1993, sunflowers is classified as a refined, aquatic fragrance. This feminine scent possesses a blend of fruity, fresh florals. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556042199126</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">26.05</s:price>
+      <s:sku>401829</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556042199126</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">29.73</s:price>
+      <s:sku>401812</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556042166358</id>
+    <published>2021-04-01T02:51:30-04:00</published>
+    <updated>2021-04-01T02:51:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/sunflowers-dream-petals-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Sunflowers Dream Petals Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SDP34WW.jpg?v=1617826057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            27.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunflowers Dream Petals Perfume by Elizabeth Arden, Released in 2012 this warm floral perfume is refreshing and exciting to wear. This scent is a wonderful addition to the sunflower collection of perfumes started by the house of elizabeth arden back in 1993. The top notes are mandarin and green apple.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556042166358</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>524987</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556039118934</id>
+    <published>2021-04-01T02:49:22-04:00</published>
+    <updated>2021-04-01T02:49:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/splendor-perfume-by-elizabeth-arden-eau-de-parfum-spray-tester"/>
+    <title>Splendor Eau De Parfum Spray (Tester) By Elizabeth Arden</title>
+    <s:type>Eau De Parfum Spray (Tester)</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SW4TT.jpg?v=1617825967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Tester)<br>
+        <strong>Price: </strong>
+            28.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Splendor Perfume by Elizabeth Arden, Launched by the design house of elizabeth arden in 1998, splendor is classified as a refined, oriental, floral fragrance. This feminine scent possesses a blend of water lily, magnolia, and white musk. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039118934</id>
+      <title>4.2 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>463275</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556039086166</id>
+    <published>2021-04-01T02:49:19-04:00</published>
+    <updated>2021-04-01T02:49:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/splendor-perfume-by-elizabeth-arden-eau-de-parfum-spray"/>
+    <title>Splendor Eau De Parfum Spray By Elizabeth Arden</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/SPLES1.jpg?v=1617825963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            27.08 - 31.70
+            <a href="https://chiosny.com/products/splendor-perfume-by-elizabeth-arden-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Splendor Perfume by Elizabeth Arden, Launched by the design house of elizabeth arden in 1998, splendor is classified as a refined, oriental, floral fragrance. This feminine scent possesses a blend of water lily, magnolia, and white musk. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039086166</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">27.08</s:price>
+      <s:sku>401734</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039086166</id>
+      <title>2.5 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">31.21</s:price>
+      <s:sku>401729</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556039086166</id>
+      <title>4.2 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>401731</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018802774</id>
+    <published>2021-04-01T02:36:02-04:00</published>
+    <updated>2021-04-01T02:36:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-revealed-perfume-by-elizabeth-arden-eau-de-parfum-spray"/>
+    <title>Red Door Revealed Eau De Parfum Spray By Elizabeth Arden</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RDREV100TSW_a259d86f-662b-4cb9-a8f9-ac6cd831fe7c.jpg?v=1617825306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            37.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Revealed Perfume by Elizabeth Arden, Red door revealed by elizabeth arden was launched in 1989.this timeless classic of a feminine blend that possesses a blend of red rose, violet, jasmine, lily of the valley, orchid, with a hint honey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018802774</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">37.36</s:price>
+      <s:sku>413032</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018770006</id>
+    <published>2021-04-01T02:36:00-04:00</published>
+    <updated>2021-04-01T02:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-mini-edp"/>
+    <title>Red Door Mini EDP By Elizabeth Arden</title>
+    <s:type>Mini EDP</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/65415.jpg?v=1617825304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Mini EDP<br>
+        <strong>Price: </strong>
+            24.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Perfume by Elizabeth Arden, A 2013 fragrance foundation hall of fame perfume, red door was composed in 1989 by master perfumer carlos benaim to commemorate the famous “red door” of the elizabeth arden salon on fifth avenue in new york city. This is an elegant and refined floral for women with notes of orange blossom, anise, peach, carnation, tuberose, ylang ylang, honey and a base of heliotrope, benzoin, cedar, and sandalwoodand epitomizes luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018770006</id>
+      <title>0.17 oz Mini EDP</title>
+      <s:price currency="USD">24.35</s:price>
+      <s:sku>400997</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018737238</id>
+    <published>2021-04-01T02:35:57-04:00</published>
+    <updated>2021-04-01T02:35:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Red Door Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RDW1TS.jpg?v=1617825303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            34.50 - 45.30
+            <a href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Perfume by Elizabeth Arden, A 2013 fragrance foundation hall of fame perfume, red door was composed in 1989 by master perfumer carlos benaim to commemorate the famous “red door” of the elizabeth arden salon on fifth avenue in new york city. This is an elegant and refined floral for women with notes of orange blossom, anise, peach, carnation, tuberose, ylang ylang, honey and a base of heliotrope, benzoin, cedar, and sandalwoodand epitomizes luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018737238</id>
+      <title>1 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>502040</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018737238</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.55</s:price>
+      <s:sku>401000</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018737238</id>
+      <title>3.3 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>400999</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018704470</id>
+    <published>2021-04-01T02:35:56-04:00</published>
+    <updated>2021-04-01T02:35:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-dusting-powder"/>
+    <title>Red Door Dusting Powder By Elizabeth Arden</title>
+    <s:type>Dusting Powder</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XWREDDOODP.jpg?v=1617825305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Dusting Powder<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Perfume by Elizabeth Arden, A 2013 fragrance foundation hall of fame perfume, red door was composed in 1989 by master perfumer carlos benaim to commemorate the famous “red door” of the elizabeth arden salon on fifth avenue in new york city. This is an elegant and refined floral for women with notes of orange blossom, anise, peach, carnation, tuberose, ylang ylang, honey and a base of heliotrope, benzoin, cedar, and sandalwoodand epitomizes luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018704470</id>
+      <title>5.3 oz Dusting Powder</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>400995</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018671702</id>
+    <published>2021-04-01T02:35:55-04:00</published>
+    <updated>2021-04-01T02:35:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-deodorant-cream"/>
+    <title>Red Door Deodorant Cream By Elizabeth Arden</title>
+    <s:type>Deodorant Cream</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RDDC.jpg?v=1617825292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Deodorant Cream<br>
+        <strong>Price: </strong>
+            25.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Perfume by Elizabeth Arden, A 2013 fragrance foundation hall of fame perfume, red door was composed in 1989 by master perfumer carlos benaim to commemorate the famous “red door” of the elizabeth arden salon on fifth avenue in new york city. This is an elegant and refined floral for women with notes of orange blossom, anise, peach, carnation, tuberose, ylang ylang, honey and a base of heliotrope, benzoin, cedar, and sandalwoodand epitomizes luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018671702</id>
+      <title>1.5 oz Deodorant Cream</title>
+      <s:price currency="USD">25.44</s:price>
+      <s:sku>441249</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018638934</id>
+    <published>2021-04-01T02:35:54-04:00</published>
+    <updated>2021-04-01T02:35:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-body-powder"/>
+    <title>Red Door Body Powder By Elizabeth Arden</title>
+    <s:type>Body Powder</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/64138.jpg?v=1617825293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Body Powder<br>
+        <strong>Price: </strong>
+            29.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Perfume by Elizabeth Arden, A 2013 fragrance foundation hall of fame perfume, red door was composed in 1989 by master perfumer carlos benaim to commemorate the famous “red door” of the elizabeth arden salon on fifth avenue in new york city. This is an elegant and refined floral for women with notes of orange blossom, anise, peach, carnation, tuberose, ylang ylang, honey and a base of heliotrope, benzoin, cedar, and sandalwoodand epitomizes luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018638934</id>
+      <title>2.6 oz Body Powder</title>
+      <s:price currency="USD">29.73</s:price>
+      <s:sku>400996</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018606166</id>
+    <published>2021-04-01T02:35:53-04:00</published>
+    <updated>2021-04-01T02:35:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-perfume-by-elizabeth-arden-body-lotion"/>
+    <title>Red Door Body Lotion By Elizabeth Arden</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XWREDDOOBL.jpg?v=1617825293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Perfume by Elizabeth Arden, A 2013 fragrance foundation hall of fame perfume, red door was composed in 1989 by master perfumer carlos benaim to commemorate the famous “red door” of the elizabeth arden salon on fifth avenue in new york city. This is an elegant and refined floral for women with notes of orange blossom, anise, peach, carnation, tuberose, ylang ylang, honey and a base of heliotrope, benzoin, cedar, and sandalwoodand epitomizes luxury.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018606166</id>
+      <title>6.8 oz Body Lotion</title>
+      <s:price currency="USD">32.29</s:price>
+      <s:sku>400993</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556018573398</id>
+    <published>2021-04-01T02:35:51-04:00</published>
+    <updated>2021-04-01T02:35:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/red-door-aura-perfume-by-elizabeth-arden-eau-de-toilette-spray"/>
+    <title>Red Door Aura Eau De Toilette Spray By Elizabeth Arden</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/RDATS17.jpg?v=1617825290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            34.67 - 39.26
+            <a href="https://chiosny.com/products/red-door-aura-perfume-by-elizabeth-arden-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Door Aura Perfume by Elizabeth Arden, This luminous and luxurious fragrance was inspired by the original red door fragrance. The top notes include raspberry and italian bergamot. The middle notes consist of rose and jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018573398</id>
+      <title>1.7 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>548418</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556018573398</id>
+      <title>3.4 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">39.26</s:price>
+      <s:sku>498240</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556014411862</id>
+    <published>2021-04-01T02:32:55-04:00</published>
+    <updated>2021-04-01T02:32:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/provocative-perfume-by-elizabeth-arden-eau-de-parfum-spray"/>
+    <title>Provocative Eau De Parfum Spray By Elizabeth Arden</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/134717.jpg?v=1617825161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            29.79 - 37.13
+            <a href="https://chiosny.com/products/provocative-perfume-by-elizabeth-arden-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Provocative Perfume by Elizabeth Arden, Sensual and enticing, provocative by elizabeth arden is a beautifully refined fragrance for women. A dazzling blend florals with an oriental touch. This feminine scent is an alluring blend of lilies, gorgeous lotus, lovely orchids with subtle undertones of amber and woods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556014411862</id>
+      <title>1 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">29.79</s:price>
+      <s:sku>415912</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556014411862</id>
+      <title>1.7 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>415914</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6556014411862</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">37.13</s:price>
+      <s:sku>415913</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556013887574</id>
+    <published>2021-04-01T02:32:36-04:00</published>
+    <updated>2021-04-01T02:32:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pretty-perfume-by-elizabeth-arden-eau-de-parfum-spray"/>
+    <title>Pretty Eau De Parfum Spray By Elizabeth Arden</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PRET34WEA.jpg?v=1617825139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            35.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Perfume by Elizabeth Arden, A feminine fragrance for women that smells exactly like it's name-pretty. Created by perfumer claude dir , the fragrance opens withr top notes of italian mandarin and orange blossom, and peach . The heart is floral with notes of petalia, starry jasmine, pink lily and peony, base notes are composed of musk, jacaranda wood and creamy amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556013887574</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>459611</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556013854806</id>
+    <published>2021-04-01T02:32:35-04:00</published>
+    <updated>2021-04-01T02:32:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pretty-perfume-by-elizabeth-arden-bath-and-shower-gel"/>
+    <title>Pretty Bath and Shower Gel By Elizabeth Arden</title>
+    <s:type>Bath and Shower Gel</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PREEWP.jpg?v=1617825139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Bath and Shower Gel<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Perfume by Elizabeth Arden, A feminine fragrance for women that smells exactly like it's name-pretty. Created by perfumer claude dir , the fragrance opens withr top notes of italian mandarin and orange blossom, and peach . The heart is floral with notes of petalia, starry jasmine, pink lily and peony, base notes are composed of musk, jacaranda wood and creamy amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556013854806</id>
+      <title>3.3 oz Bath and Shower Gel</title>
+      <s:price currency="USD">23.95</s:price>
+      <s:sku>555960</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555982823510</id>
+    <published>2021-04-01T02:12:50-04:00</published>
+    <updated>2021-04-01T02:12:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/my-5th-avenue-perfume-by-elizabeth-arden-eau-de-parfum-spray"/>
+    <title>My 5th Avenue Eau De Parfum Spray By Elizabeth Arden</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MYFIA42W.jpg?v=1617824116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            36.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My 5th Avenue Perfume by Elizabeth Arden, Released in 2018, my 5th avenue is a light and floral feminine fragrance created by elizabeth arden. Bright top notes of lemon, violet leaf and mandarin orange open the fragrance and are soon joined by heart notes of lotus and jasmine. Amberwood, orris root, cedar and musk base notes close the fragrance and give it a warm and earthy element.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555982823510</id>
+      <title>3.3 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">36.67</s:price>
+      <s:sku>545108</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

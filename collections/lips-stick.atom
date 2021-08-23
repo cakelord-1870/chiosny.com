@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/lips-stick.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T19:45:54-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556405727318</id>
+    <published>2021-04-01T19:45:54-04:00</published>
+    <updated>2021-04-01T19:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/rouge-lipstick-by-chanel"/>
+    <title>Rouge Lipstick by Chanel</title>
+    <s:type></s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/lipstick.jpg?v=1617827486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chanel<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ultra hydrating rouge Lipstick.</p>
+<p><span>ROUGE COCO lip colour is more expressive than ever in a hydrating, next-generation formula that provides full coverage with a creamy yet lightweight finish.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://chiosny.com/products/6556405727318</id>
+      <title>1.0 oz / Women</title>
+      <s:price currency="USD">55.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555957067862</id>
+    <published>2021-04-01T01:56:16-04:00</published>
+    <updated>2021-04-01T01:56:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/lipstick-rose-perfume-by-frederic-malle-eau-de-parfum-spray-unisex"/>
+    <title>Lipstick Rose Eau De Parfum Spray (Unisex) By Frederic Malle</title>
+    <s:type>Eau De Parfum Spray (Unisex)</s:type>
+    <s:vendor>Frederic Malle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LIPRO34W.jpg?v=1617823299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frederic Malle<br>
+        <strong>Type: </strong>Eau De Parfum Spray (Unisex)<br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lipstick Rose Perfume by Frederic Malle, Lipstick rose was created for frederic malle by ralf schwieger in the year 2000. As suggested by the name, one of its most prominent notes is the romantic scent of rose. Violet is another floral note that strongly arrests the senses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555957067862</id>
+      <title>3.4 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>541363</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

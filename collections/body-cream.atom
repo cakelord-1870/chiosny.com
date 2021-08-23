@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://chiosny.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://chiosny.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://chiosny.com/collections/body-cream.atom"/>
+  <title>Chio&apos;s New York</title>
+  <updated>2021-04-01T02:45:51-04:00</updated>
+  <author>
+    <name>Chio&apos;s New York</name>
+  </author>
+  <entry>
+    <id>https://chiosny.com/products/6556033613910</id>
+    <published>2021-04-01T02:45:51-04:00</published>
+    <updated>2021-04-01T02:45:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/shalimar-perfume-by-guerlain-body-cream"/>
+    <title>Shalimar Body Cream By Guerlain</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Guerlain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/XWSHALIBC.jpg?v=1617825801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Guerlain<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            72.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shalimar Perfume by Guerlain, Launched by the design house of guerlain way back in 1925, shalimar is classified as a refined, oriental fragrance that serves as one of the great icons of early 20th-century perfumery. It's a feminine scent possessing a blend of balsamic and citrus accords, and it's recommended particularly for evening wear. The citrus notes appear in the top notes, specifically mandarin, bergamot, and lemon, as well as a cedar note.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556033613910</id>
+      <title>7 oz Body Cream</title>
+      <s:price currency="USD">72.97</s:price>
+      <s:sku>401498</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6556006285398</id>
+    <published>2021-04-01T02:27:27-04:00</published>
+    <updated>2021-04-01T02:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/pheromone-perfume-by-marilyn-miglin-body-cream"/>
+    <title>Pheromone Body Cream By Marilyn Miglin</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Marilyn Miglin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/PHEM8O.jpg?v=1617824848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marilyn Miglin<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pheromone Perfume by Marilyn Miglin, This fragrance was released in 1978. It is a green floral with a complex blend of notes that creates a fantastic perfume for you to wear. It is an exquisite experience to wear this perfume.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6556006285398</id>
+      <title>8 oz Body Cream</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>555350</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555995570262</id>
+    <published>2021-04-01T02:21:33-04:00</published>
+    <updated>2021-04-01T02:21:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/oscar-perfume-by-oscar-de-la-renta-body-cream"/>
+    <title>Oscar Body Cream By Oscar De La Renta</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Oscar De La Renta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OSCBC.jpg?v=1617824556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oscar De La Renta<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            47.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oscar Perfume by Oscar de la Renta, Launched by the design house of oscar de la renta in 1977, oscar is classified as a refined, oriental, floral fragrance. This feminine scent possesses a blend of basil, jasmine, lavender and sandalwood. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555995570262</id>
+      <title>5.3 oz Body Cream</title>
+      <s:price currency="USD">47.26</s:price>
+      <s:sku>400193</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555992162390</id>
+    <published>2021-04-01T02:19:14-04:00</published>
+    <updated>2021-04-01T02:19:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/ombre-rose-perfume-by-brosseau-body-cream"/>
+    <title>Ombre Rose Body Cream By Brosseau</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Brosseau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/OMBRBC67.jpg?v=1617824457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brosseau<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ombre Rose Perfume by Brosseau, Launched by the design house of jean charles brosseau in 1981, ombre rose is classified as a luxurious, oriental, floral fragrance. This feminine scent possesses a blend of rosewood, geranium, rose, cedarwood, honey, vanilla and musk. It is recommended for romantic wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555992162390</id>
+      <title>6.7 oz Body Cream</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>423473</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555986493526</id>
+    <published>2021-04-01T02:15:19-04:00</published>
+    <updated>2021-04-01T02:15:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nicole-perfume-by-nicole-miller-body-cream-unboxed"/>
+    <title>Nicole Body Cream (unboxed) By Nicole Miller</title>
+    <s:type>Body Cream (unboxed)</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/NICNW7BC.jpg?v=1617824224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Body Cream (unboxed)<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nicole Perfume by Nicole Miller, Launched by the design house of nicole miller in 1998, nicole is classified as a refreshing, flowery fragrance. This feminine scent possesses a blend of rich flowers with base notes of sandalwood, vetiver and musk. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555986493526</id>
+      <title>7 oz Body Cream</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>548725</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555986460758</id>
+    <published>2021-04-01T02:15:15-04:00</published>
+    <updated>2021-04-01T02:15:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/nicole-perfume-by-nicole-miller-body-cream"/>
+    <title>Nicole Body Cream By Nicole Miller</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/55579.jpg?v=1617824221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nicole Perfume by Nicole Miller, Launched by the design house of nicole miller in 1998, nicole is classified as a refreshing, flowery fragrance. This feminine scent possesses a blend of rich flowers with base notes of sandalwood, vetiver and musk. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555986460758</id>
+      <title>7 oz Body Cream</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>418863</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555969552470</id>
+    <published>2021-04-01T02:03:41-04:00</published>
+    <updated>2021-04-01T02:03:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/mediterranean-perfume-by-elizabeth-arden-body-cream"/>
+    <title>Mediterranean Body Cream By Elizabeth Arden</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/MEABC5.jpg?v=1617823631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mediterranean Perfume by Elizabeth Arden, A combination of sensual florals and creamy woods with top notes of peach nectar sorbet, sicilian mandarin and damask plum; a heart of wisteria, star magnolia and madagascar orchid. The base combines sandalwood, musk and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555969552470</id>
+      <title>5 oz Body Cream</title>
+      <s:price currency="USD">31.50</s:price>
+      <s:sku>458594</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555955593302</id>
+    <published>2021-04-01T01:55:32-04:00</published>
+    <updated>2021-04-01T01:55:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/light-blue-perfume-by-dolce-gabbana-body-cream"/>
+    <title>Light Blue Body Cream By Dolce &amp; Gabbana</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/LBBODC67.jpg?v=1617823253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            44.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Blue Perfume by Dolce &amp; Gabbana, In light blue perfume by dolce &amp; gabbana, an impish note of green apple emanates from the latest creation of the most impertinent of italian designers. Light blue is not a lighter version despite its name: it sparkles with flowers and fruit notes that are an enticement to joie de vivre. The fragrance opens on a fresh and gourmet note of sicily cedar, granny smith apples and bluebells.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555955593302</id>
+      <title>6.7 oz Body Cream</title>
+      <s:price currency="USD">44.58</s:price>
+      <s:sku>427023</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555934195798</id>
+    <published>2021-04-01T01:43:06-04:00</published>
+    <updated>2021-04-01T01:43:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/juicy-couture-perfume-by-juicy-couture-royal-body-cream-tester"/>
+    <title>Juicy Couture Royal Body Cream (Tester) By Juicy Couture</title>
+    <s:type>Royal Body Cream (Tester)</s:type>
+    <s:vendor>Juicy Couture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/JUIJWU.jpg?v=1617822617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juicy Couture<br>
+        <strong>Type: </strong>Royal Body Cream (Tester)<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Juicy Couture Perfume by Juicy Couture, Juicy Couture fragrance by Juicy Couture is a distinctive mixture of delectable fruits and other natural and woodsy aromas that round it out perfectly. The scent’s top notes include green leaves, mandarin orange, marigold flowers, pink passion fruit, water hyacinth, and watermelon. Expect these scents to last about 10 minutes after application.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555934195798</id>
+      <title>3.4 oz Royal Body Cream</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>554197</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555905785942</id>
+    <published>2021-04-01T01:23:33-04:00</published>
+    <updated>2021-04-01T01:23:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/good-girl-perfume-by-carolina-herrera-body-cream"/>
+    <title>Good Girl Body Cream By Carolina Herrera</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/gg68bcw_b35b8301-f5c7-4bec-91be-7da1aac8ea17.jpg?v=1618974241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            61.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Good Girl Perfume by Carolina Herrera, Good girl by carolina herrera is a new fragrance that was launched in 2016. The slogan for this perfume is “it’s so good to be bad,” and you will definitely be feeling a little feistier when wearing it. The main notes in this fragrance are roasted tonka bean and tuberose.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555905785942</id>
+      <title>6.8 oz Body Cream</title>
+      <s:price currency="USD">61.33</s:price>
+      <s:sku>547891</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555886157910</id>
+    <published>2021-04-01T01:10:19-04:00</published>
+    <updated>2021-04-01T01:10:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/emozione-perfume-by-salvatore-ferragamo-body-cream"/>
+    <title>Emozione Body Cream By Salvatore Ferragamo</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Salvatore Ferragamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/EMZBC54.jpg?v=1617820947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salvatore Ferragamo<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            29.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emozione Perfume by Salvatore Ferragamo, First bottled in 2015, emozione by salvatore ferragamo is an elegant, feminine fragrance for both day and night. The scent opens on fresh, invigorating peach notes with a powdery iris tone. Slowly, these develop into a floral bouquet with hints of heliotrope and bulgarian rose, then takes a dark, mysterious turn on a base of white musk accords.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555886157910</id>
+      <title>5.4 oz Body Cream</title>
+      <s:price currency="USD">29.44</s:price>
+      <s:sku>552846</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555843264598</id>
+    <published>2021-04-01T00:41:38-04:00</published>
+    <updated>2021-04-01T00:41:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/cashmere-mist-perfume-by-donna-karan-body-cream"/>
+    <title>Cashmere Mist Body Cream By Donna Karan</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Donna Karan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CW37BC.jpg?v=1617819233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donna Karan<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            58.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cashmere Mist Perfume by Donna Karan, This fragrance was released in 1994. A lovely powdery floral perfume with refreshing bergamot at the top. This creamy blend will captivate you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555843264598</id>
+      <title>6.7 oz Body Cream</title>
+      <s:price currency="USD">58.67</s:price>
+      <s:sku>460784</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555842805846</id>
+    <published>2021-04-01T00:41:19-04:00</published>
+    <updated>2021-04-01T00:41:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/carven-leau-de-toilette-perfume-by-carven-body-cream"/>
+    <title>Carven L&apos;eau De Toilette Body Cream By Carven</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Carven</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/CLEDT33BC.jpg?v=1617819210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carven<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carven L'eau De Toilette Perfume by Carven, Created by master perfumer francis kurkdjian under the french fashion company carven and launched in 2013, carven l'eau de toilette is a floral and woody musk perfume for women. Ideal for daily wear, invoking spring weather, the fragrance opens with a softly sweet and sour combination of lemon, sweet pea, and peony top notes. Middle notes consist of an alluring wisteria, freesia, and white hyacinth bouquet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555842805846</id>
+      <title>3.3 oz Body Cream</title>
+      <s:price currency="USD">29.50</s:price>
+      <s:sku>539302</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555834450006</id>
+    <published>2021-04-01T00:35:53-04:00</published>
+    <updated>2021-04-01T00:35:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-body-perfume-by-burberry-eau-de-toilette-spray-tester"/>
+    <title>Burberry Body Cream</title>
+    <s:type>Eau De Toilette Spray (Tester)</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BB2TSTW.jpg?v=1617818906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray (Tester)<br>
+        <strong>Price: </strong>
+            27.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Body Perfume by Burberry, The burberry body from burberry was launched in 2011 with a luxurious, woody smell capturing the essence of the iconic fashion label. The top notes have a pleasant youthful appeal and introduce your senses to green absinthe, freesia and peach. The floral heart encompasses the enchanting rose and iris at its core.</p>
+<p>Eau De Toilette Spray (Unboxed) By Burberry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555834450006</id>
+      <title>2 oz Eau De Toilette Spray</title>
+      <s:price currency="USD">27.22</s:price>
+      <s:sku>534313</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555834351702</id>
+    <published>2021-04-01T00:35:48-04:00</published>
+    <updated>2021-04-01T00:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/burberry-body-perfume-by-burberry-eau-de-parfum-spray"/>
+    <title>Burberry Body cream</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BURBODYW.jpg?v=1617818894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            40.10 - 46.10
+            <a href="https://chiosny.com/products/burberry-body-perfume-by-burberry-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Body Perfume by Burberry, The burberry body from burberry was launched in 2011 with a luxurious, woody smell capturing the essence of the iconic fashion label. The top notes have a pleasant youthful appeal and introduce your senses to green absinthe, freesia and peach. The floral heart encompasses the enchanting rose and iris at its core.</p>
+<p>Eau De Parfum Spray By Burberry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555834351702</id>
+      <title>2 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">40.10</s:price>
+      <s:sku>482977</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://chiosny.com/products/6555834351702</id>
+      <title>2.8 oz Eau De Parfum Spray</title>
+      <s:price currency="USD">46.10</s:price>
+      <s:sku>489376</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555827503190</id>
+    <published>2021-04-01T00:30:59-04:00</published>
+    <updated>2021-04-01T00:30:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bodycology-whipped-vanilla-perfume-by-bodycology-body-cream"/>
+    <title>Bodycology Whipped Vanilla Body Cream By Bodycology</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BODBZI.jpg?v=1617818683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            23.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bodycology Whipped Vanilla Perfume by Bodycology, Indulge your senses with a touch of sweetness and warmth when you spritz on bodycology whipped vanilla. Enjoy a sweet treat without worrying about the threat of cavities with this rich body mist from bodycology. The light spray is perfect for layering on as much or as little fragrance as you prefer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555827503190</id>
+      <title>8 oz Body Cream</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>554258</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://chiosny.com/products/6555827077206</id>
+    <published>2021-04-01T00:30:44-04:00</published>
+    <updated>2021-04-01T00:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://chiosny.com/products/bodycology-beautiful-blossoms-perfume-by-bodycology-body-cream"/>
+    <title>Bodycology Beautiful Blossoms Body Cream By Bodycology</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Bodycology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2049/1879/products/BODBW8.jpg?v=1617818673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodycology<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bodycology Beautiful Blossoms Perfume by Bodycology</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume for Women</s:tag>
+    <s:variant>
+      <id>https://chiosny.com/products/6555827077206</id>
+      <title>8 oz Body Cream</title>
+      <s:price currency="USD">23.50</s:price>
+      <s:sku>554694</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>
